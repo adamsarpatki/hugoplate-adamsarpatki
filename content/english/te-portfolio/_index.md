@@ -13,8 +13,7 @@ columns:
   website: "https://gynkaknitwear.com/"
   CTA: "Pattern on Ravelry"
   pattern_link: "https://www.ravelry.com/patterns/library/my-secret-bff-socks"
-    
 
 ---
 
-This is a list of the knitting patterns I've tech edited. You can also find the list [in my Ravelry bundle.](https://ravel.me/adamsarpatki/mte)
+This is a list of the knitting patterns I've tech edited. You can also find the list [in my Ravelry bundle](https://ravel.me/adamsarpatki/mte).
