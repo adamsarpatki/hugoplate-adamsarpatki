@@ -18,8 +18,17 @@ weight = 3
 
 [[main]]
 name = "Technical Editing"
-url = "technical-editing/"
 weight = 4
+
+[[main]]
+parent = "Technical Editing"
+name = "Info"
+url = "technical-editing/"
+
+[[main]]
+parent = "Technical Editing"
+name = "Portfolio"
+url = "te-portfolio/"
 
 [[main]]
 name = "Publications"
