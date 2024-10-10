@@ -16,4 +16,4 @@ columns:
 
 ---
 
-This is a list of the knitting patterns I've tech edited. You can also find the list [in my Ravelry bundle](https://ravel.me/adamsarpatki/mte).
+This is a list of the knitting patterns I've tech edited. You can also find the list [in my Ravelry bundle](https://ravel.me/adamsarpatki/mte). If you'd like to work together on one of your knitting patterns, [check out my process](/technical-editing/), then [contact me for a free quote](/contact/).
