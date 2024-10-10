@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 meta_title: "Publications"
-summary: "Publications by freelance literary translator and editor Ádám Sárpátki."
-description: "Updated: 2024-07-01"
+summary: "Publications by literary translator and editor Ádám Sárpátki."
+description: "Updated: 2024-10-10"
 image: false
 toc: true
 draft: false
@@ -11,6 +11,7 @@ draft: false
 
 ## Literary translations
 
+- Robert Jackson Bennett: Kohómente. Budapest : Fumax, 2024. 584 p.
 - Michael Witwer: Dungeons and Dragons – Drizzt legendája. Képes útmutató. Budapest : Kolibri Kiadó, 2024. 200 p.
 - Adam Bray, Kelly Knox: Marvel Studios – Szereplők nagykönyve. Bővített kiadás. Budapest : Kolibri Kiadó, 2024. 240 p.
 - Shelley Parker-Chan: A sötétségbe fojtott világ. Budapest : Agave Könyvek, 2024. 576 p.
@@ -80,6 +81,7 @@ draft: false
 
 ## Editorial work
 
+- Robin Hobb: Sárkányőrző. Ford. Gubó Luca. Budapest : Delta Vision, 2024. 782 p.
 - Jason M. Hough: Vérvonalak. Ford. Szántai Zsolt. Budapest : Delta Vision, 2024. 466 p.
 - Edward Ashton: Antianyag blues. Ford: Horváth Norbert. Budapest : Agave Könyvek, 2024. 288 p.
 - A. K. Larkwood: Az Ezerszemű Úrnő. Ford. Tamás Gábor. Budapest : Agave Könyvek, 2024. 520 p.
