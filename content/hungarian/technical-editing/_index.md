@@ -27,7 +27,7 @@ A technical editor does not knit the pattern, but checks it theoretically, with 
 
 Feel free to check out the list of my publications [here](/publications).
 
-**In 2024, I completed the technical editing course offered by [The Tech Editor Hub](https://www.thetecheditorhub.com/).** Joeli is a wonderful teacher who has taught me a great deal about the mechanics of tech editing for knitting patterns and the philosophy of working with pattern designers. And, since it offers a slightly different perspective, I enrolled in [the certification course offered by TKGA](https://tkga.org/certification-for-technical-editors/).
+**In 2024, I completed the technical editing course offered by [The Tech Editor Hub](https://www.thetecheditorhub.com/).** Joeli is a wonderful teacher who has taught me a great deal about the mechanics of tech editing for knitting patterns and the philosophy of working with pattern designers. And, since it offers a slightly different perspective, I enrolled in [the certification course offered by TKG](https://tkga.org/certification-for-technical-editors/).
 
 I'm also an avid knitter who loves learning new techniques and exploring new designs. Rest assured, if something is unfamiliar to me, I will don my librarian hat and start researching, at no extra cost to you.
   
