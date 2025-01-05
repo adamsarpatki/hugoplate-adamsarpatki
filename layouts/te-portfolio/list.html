@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ partial "page-header" . }}
+
+<section class="pt-10 section-sm light-bg xl:pt-0">
+  <div class="container pb-10">
+    <div class="justify-center row ">
+      <div class="text-center md:col-10 lg:col-7">
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container flex flex-row flex-wrap justify-center gap-x-8 gap-y-8">
+    {{ range .Params.columns }}
+    <div class="flex flex-col portfolio-box">
+      <div class="flex flex-col items-center text-center gap-y-4">
+        <div class="text-dark dark:text-white">
+          {{ partial "image" (dict "Src" .image "Size" "" "Class" "w-60" "Alt" "") }}
+        </div>
+        <div class="content-center h-16">
+          <h3 class="font-semibold h5 font-primary">
+          {{ .title }}
+        </h3>
+      </div>
+        <p class="text-dark dark:text-white">
+          by {{ .designer | markdownify }}
+        </p>
+        <p class="italic text-dark dark:text-white">
+          Tags: {{ .keywords | markdownify }}
+        </p>
+          <p class="text-dark dark:text-white">
+            <a href="{{ .website }}"> {{ .company | markdownify }} </a>
+          </p>
+          <p class="text-dark dark:text-white">
+            <a href="{{ .pattern_link }}"> {{ .CTA | markdownify }} </a>
+          </p>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
