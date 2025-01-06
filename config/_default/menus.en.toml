@@ -24,11 +24,19 @@ weight = 4
 parent = "Technical Editing"
 name = "Info"
 url = "technical-editing/"
+weight = 1
 
 [[main]]
 parent = "Technical Editing"
 name = "Portfolio"
 url = "te-portfolio/"
+weight = 2
+
+[[main]]
+parent = "Technical Editing"
+name = "My Knitting Projects"
+url = "my-knitting-projects/"
+weight = 3
 
 [[main]]
 name = "Publications"
@@ -70,16 +78,21 @@ url = "te-portfolio/"
 weight = 6
 
 [[footer]]
+name = "My Knitting Projects"
+url = "my-knitting-projects/"
+weight = 7
+
+[[footer]]
 name = "Newsletter"
 url = "https://yarnboundtales.substack.com/"
-weight = 7
+weight = 8
 
 [[footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
-weight = 8
+weight = 9
 
 [[footer]]
 name = "Impressum"
 url = "impressum/"
-weight = 9
+weight = 10
