@@ -1,14 +1,19 @@
 {
   "main": [
     {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/sarpatki"
+    },
+    {
       "name": "ravelry",
       "icon": "fab fa-ravelry",
       "link": "https://www.ravelry.com/people/adamsarpatki"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/adamsarpatki"
+      "name": "bluesky",
+      "icon": "fab fa-bluesky",
+      "link": "https://bsky.app/profile/adamsarpatki.bsky.social"
     },
     {
       "name": "instagram",
