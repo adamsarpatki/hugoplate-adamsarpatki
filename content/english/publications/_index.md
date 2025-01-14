@@ -2,7 +2,7 @@
 title: "Publications"
 meta_title: "Publications"
 summary: "Publications by literary translator and editor Ádám Sárpátki."
-description: "Updated: 2024-10-26"
+description: "Updated: 2025-01-14"
 image: false
 toc: true
 draft: false
@@ -11,6 +11,10 @@ draft: false
 
 ## Literary translations
 
+- Christopher Buehlman: Hollólovagok. Budapest : Agave Könyvek, 2025. 432 p.
+- Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Korok Hőse I-II.* Budapest : Delta Vision, 2024. pp. 9–15., 1031–1039.
+- Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Megdicsőülés Kútja I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 1069–1076.
+- Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Végső Birodalom I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 893–898.
 - Robert Jackson Bennett: Kohómente. Budapest : Fumax, 2024. 584 p.
 - Michael Witwer: Dungeons and Dragons – Drizzt legendája. Képes útmutató. Budapest : Kolibri Kiadó, 2024. 200 p.
 - Philip K. Dick: Várakozó álláspont. In: *Különös éden.* Budapest : Agave Könyvek, 2024. pp. 311–332.
