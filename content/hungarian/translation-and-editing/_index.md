@@ -1,48 +1,50 @@
 ---
-title: "Translation & Editing"
-meta_title: "Translation and Editing"
-description: "My approach to literary projects"
+title: "Műfordítás és szerkesztés"
+meta_title: "Műfordítás és szerkesztés"
+description: "Hogyan közelítem meg az irodalmi munkáimat"
 image: false
 toc: true
 draft: false
 ---
 
-## My Experience
+## Szakmai tapasztalat
 
-In 2011 and 2012, while at university, I attended a literary translation workshop led by Zsuzsa Hetényi, where we had the opportunity to work on texts both as translators and editors. At the end of the year, these texts were published in two anthologies that I’m still immensely proud of—my first proper translations were two short stories by Sir Terry Pratchett.
+Az egyetemen, 2011 és 2012 között, részt vettem Hetényi Zsuzsa műfordítói műhelyében, ahol mindannyian lehetőséget kaptunk rá, hogy fordítóként és szerkesztőként is foglalkozzunk egy-egy szöveggel. Az év végén ezeket aztán kiadtuk két antológiában, amelyekre még mindig nagyon büszke vagyok – én Sir Terry Pratchett két novelláján dolgoztam, ezekkel kezdtem műfordítói pályámat.
 
-Ever since then, I've been honing my craft and working with some of the pillars of the speculative fiction genre, such as [Agave Könyvek](https://agavekonyvek.hu/), [Fumax](https://fumax.hu/), [GABO](https://gabo.hu/), and [Delta Vision](https://www.facebook.com/DeltaVisionKiado), as well as [Kolibri](https://www.facebook.com/kolibrikiado/?locale=hu_HU), a publisher of young adult and children's books. I have had the opportunity to work on the writings of some of the biggest names in the genre, like Brandon Sanderson, Robin Hobb, Shelley Parker-Chan, Jenn Lyons, Scott Lynch,  R. F. Kuang and Christopher Buehlman.
+Azóta folyamatosan tökéletesítem a készségeimet az [Agave Könyvek](https://agavekonyvek.hu/), a [Fumax](https://fumax.hu/), az [Anassa](https://www.facebook.com/anassakonyvek/), a [GABO](https://gabo.hu/), és a [Delta Vision](https://www.deltavision.hu/), vagyis a spekulatív fikciós műfaj legnagyobb magyar kiadóinak végzett munkáimmal. Kollégáim jól tudják, hogy biztos kézzel nyúlok a legkülönfélébb szövegekhez, ennek köszönhetően már a műfaj számos fontos alakjának – például Brandon Sanderson, Robin Hobb, Shelley Parker-Chan, John Scalzi, Jenn Lyons, Scott Lynch, R. F. Kuang és Christopher Buehlman – műveit fordítottam vagy szerkesztettem.
 
-Feel free to check out the list of my publications [here](/publications).
+Emellett kifejezetten büszke vagyok a [Kolibri kiadónak](https://www.facebook.com/kolibrikiado/) végzett munkámra is – ők ifjúsági és gyerekkönyveket adnak ki rendkívül változatos témákban, amilyenekkel máshol nincs lehetőségem foglalkozni.
 
-## My Philosophy
+A teljes listát [a publikációs jegyzékem](/hu/publications) tartalmazza.
 
-### Translation
+## Alapelveim
 
-**Translation to me is a lot like co-authoring a work of literature.** I firmly believe that the translator's influence is inseparable from the work, and their performance can determine its success.
+### Műfordítás
 
-While authors have creative freedom, translators must faithfully convey the original meaning in another language. To achieve this, I think accuracy is paramount. A translator must possess a deep understanding of the source language's grammatical nuances, vocabulary, and idiomatic expressions, while skillfully articulating the author's ideas in their native tongue.
+*A fordítás számomra olyan, mintha én is egy mű szerzőjévé válnék.** Hiszek benne, hogy a fordító befolyása elválaszthatatlan a műtől, és a teljesítménye lehet az adott irodalmi alkotás sikerének vagy bukásának kulcsa. Ez pedig hatalmas felelősséggel jár, amit nem szabad félvállról venni.
 
-But translation is about more than mere accuracy. We also have to convey the author's style and the mood of their work to readers, which can be difficult, especially if an author has a vastly different style than ours.
+Míg a szerzők teljes kreatív szabadsággal rendelkeznek, a fordítóknak hűen át kell adniuk az eredeti művet egy másik nyelven. Ahhoz, hogy ezt elérjék, elsődleges fontosságú a pontosság. Egy fordítónak alaposan ismernie kell a forrásnyelv nyelvtanát, szavait és kifejezéseit, ezzel együtt pedig a saját anyanyelvét is mesterien kell tudnia használni, hogy megfogalmazhassa a szerző szavait.
 
-**Balancing style, mood, and accuracy is a challenging but essential part of the job, for which few of us get enough credit, often being an afterthought in readers' minds.** *#namethetranslator*
+A műfordítás azonban nem egyszerűen a pontosságról szól. Egy fordítónak közvetítenie kell az olvasóknak a szerző stílusát és a műve hangulatát is, ami gyakran nagy kihívást jelenthet, ha a szerző és a fordító stílusa sokban különbözik.
 
-### Editing
+**A fordítói munka nehéz, de lényeges része, hogy egyensúlyban tartsuk a stílust, a hangulatot és a pontosságot, ezért pedig kevesen kapunk igazi elismerést – a fordító gyakran csupán mellékszereplő az olvasók fejében.** #namethetranslator
 
-**Editors are crucial partners in the creative process.** They bring a fresh perspective that's needed after working for months on any given text. Editors may even save a poor translation.
+### Szerkesztés
 
-I think the best editors approach their work with sensitivity. They understand the collaborative and artistic nature of literary translation, knowing when to ask questions rather than impose changes. They acknowledge that, despite their expertise, they spend less time with the text than the translator and may not grasp all its nuances.
+**A szerkesztők a kreatív folyamat lényeges szereplői.** Miután a szerző vagy fordító hónapokat dolgozott egy könyvön, ők új szemszöget biztosítanak neki. A szerkesztők akár még egy rossz fordítást is meg tudnak menteni.
 
-## My Services
+Szerintem a legjobbak megfelelő érzékenységgel állnak a munkájukhoz. Megértik a műfordítás kollaboratív és művészi természetét; tudják, mikor kérdezzenek, ahelyett hogy változtatásokat kényszerítenének az alkotóra. A változtatásaikat meg tudják indokolni; céljuk a szöveg javítása, gondosságukkal nem rontanak azon. Elismerik, hogy a szakértelmük ellenére kevesebb időt töltenek egy adott művel, mint a fordító, emiatt nem feltétlenül veszik észre benne a nüanszokat.
+
+## A szolgáltatásaim
 
 {{< highlight >}}
 
-**I currently offer literary translation and editing services to publishers. Please note that right now I'm only translating from English to Hungarian, and I only edit texts written in Hungarian.**
+**Jelenleg csak angolról magyarra fordítok, és csak angolból fordított műveket szerkesztek. Kötésminták szerkesztésével és lektorálásával is foglalkozom, erről a megfelelő oldalon találhatók információk.**
 
 {{< /highlight >}}
 
-**Genres I'm especially interested in:** fantasy, science fiction, comic books, crime fiction, historical fantasy, historical romance, non-fiction books, popular science books, YA and children's literature.
+**Zsánerek, amelyek kifejezetten érdekelnek:** fantasy, science fiction, képregény, krimi, történelmi fantasy, történelmi romantika, nonfiction, ismeretterjesztés, ifjúsági és gyermekirodalom.
 
-**Authors whose works I especially enjoy:** Terry Pratchett, Brandon Sanderson, Anne Rice, Robin Hobb, Arthur Conan Doyle, Robert Jordan, Susanna Clarke.
+**Szerzők, akiknek a műveit kifejezetten szeretem:** Terry Pratchett, Brandon Sanderson, Anne Rice, Robin Hobb, Arthur Conan Doyle, Robert Jordan, Susanna Clarke.
 
-My calendar is usually quite full, but feel free to [contact me](/contact), and let's have a chat. 😊
+A naptáramban általában kevés az üresjárat, de nyugodtan [lépj velem kapcsolatba](/hu/contact), és beszélgessünk egyet. 😊
