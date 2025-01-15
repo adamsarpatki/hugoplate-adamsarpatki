@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "What Others Say About Me"
-description: "Testimonials from clients and colleagues"
+title: "Ezt mondják rólam"
+description: "Ajánlások kollégáktól és ügyfelektől"
 
 # Testimonials
 testimonials:
@@ -11,6 +11,13 @@ testimonials:
     link: "https://agavekonyvek.hu/"
     avatar: "/images/testimonial_velkei.jpg"
     content: "Mindig biztonságban érzem a könyveinket, melyeken Ádám dolgozik, akár fordítja, akár szerkeszti őket. Kiváló nyelv- és stílusérzékén túl jólesik látni azt az elkötelezettséget és törődést, amit kivétel nélkül beletesz minden egyes szövegbe, ráadásul a kifejezetten hosszú, nagy terjedelmű munkákat is kiemelkedő színvonallal végzi. Az egyik legtehetségesebb szakembernek gondolom a fiatalok közül!"
+
+  - name: "Harangozó Mici"
+    designation: "TKGA-tanúsítványú kötésminta-tervező"
+    company: "Gynka Knitwear"
+    link: "https://gynkaknitwear.com/"
+    avatar: "/images/testimonial_gynka.jpg"
+    content: "When I am designing, my brain is all over the place. I am thinking about dozens of design elements, stitch patterns, knitting techniques and how they affect each other, so their combination becomes a unique design piece and they eventually form a knitting pattern that is easy to follow but exciting to knit at the same time. It is such a relief to know that I can wander freely in all this creative chaos and I do not have to worry about spelling, wording or punctuation because I have Ádám to create perfect order at the end!"
 
   - name: "Farkas Balázs"
     designation: "Író"
