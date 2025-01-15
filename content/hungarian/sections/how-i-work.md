@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "How I Work"
-description: "What sets me apart and how my expertise can contribute to our successful collaboration"
+title: "Miért velem dolgozz?"
+description: "A szakértelmem így segíti majd elő az együttműködésünket"
 
 # Expertise
 expertise:
@@ -9,17 +9,17 @@ expertise:
     icon: "/images/advantage.png"
     content: "As a relatively new knitter, I'm aware of the challenges beginners face, which helps me ensure the patterns I edit are clear and beginner-friendly. And even though English is not my native language, this is actually a strength, not a weakness. Because I spend most of my days immersed in English, either for work or entertainment, I can spot sentences that might be confusing from a non-native perspective."
 
-  - keyword: "Communication"
+  - keyword: "Kommunikáció"
     icon: "/images/messaging.png"
-    content: "I prefer proactive communication, so I strive to be proactive as well. I usually respond to emails within 24-48 hours during the week (except on weekends and holidays). If I'm out of the office for longer than that, I always set an automatic message to let my clients and colleagues know."
+    content: "Szeretem a proaktív kommunikációt, ezért én is erre törekszem. Általában 24-48 órán belül válaszolok a megkeresésekre (kivéve hétvégén és ünnepnapokon). Ha ennél több ideig nem tartózkodom gép előtt, akkor mindig állítok be automatikus válaszüzenetet."
 
-  - keyword: "Detail-oriented"
+  - keyword: "Gondosság"
     icon: "/images/book.png"
-    content: "Whether it's a novel I'm working on or a knitting pattern, I rarely take anything for granted. In this sense, I remain a librarian—I find that my most memorable works are the ones that required extensive research, for example, about Chinese history, the Hundred Years' War, or the Cosmere."
+    content: "Akár regényen, akár kötésmintán dolgozom, ritkán veszek készpénznek dolgokat. Ebben a tekintetben még mindig könyvtáros vagyok – a legemlékezetesebb munkáimnak azt tartom, amelyekhez komoly kutatást kellett végeznem egy adott témában, legyen az a kínai történelem, a százéves háború, vagy éppen a kozmerum."
 
-  - keyword: "Independence"
+  - keyword: "Önállóság"
     icon: "/images/deadline.png"
-    content: "I started freelancing in 2013 and became a full-time freelancer in 2018. Throughout these years I've demonstrated that I can deliver quality work, meet deadlines, and be a reliable team member."
+    content: "2013-ban lettem szabadúszó, 2018-tól pedig ez a főállásom. Az évek során bebizonyítottam, hogy minőségi munkát végzek, be tudom tartani a határidőket, és megbízható csapattárs vagyok."
 
 
 
