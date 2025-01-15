@@ -1,44 +1,44 @@
 ---
-title: "My Services"
-meta_title: "My Services"
-description: "Currently, I offer literary translation and editing services for publishers, and technical editing solutions for knitting pattern designers"
+title: "A szolgáltatásaim"
+meta_title: "A szolgáltatásaim"
+description: "Jelenleg kiadóknak végzek műfordítói és szerkesztői munkát, kötésminta-tervezőknek pedig szaklektorálást"
 enable: true
 draft: false
 
 columns:
-- title: "Literary translation & editing"
+- title: "Műfordítás és szerkesztés"
   icon: "/images/books.png"
   button:
     enable: true
-    label: "Read more"
-    link: "/translation-and-editing/"
+    label: "További részletek"
+    link: "/hu/translation-and-editing/"
   secondButton:
     enable: false
     label: ""
     link: ""
   content: |
-    **Since 2012, I’ve worked on over 60 novels and short stories as a literary translator, and edited more than 20 novels.** I’ve also written numerous articles on various topics. I have extensive experience working with different genres and collaborating with translators and editors from diverse backgrounds.
+    **2012 óta több mint 60 regényen és novellán dolgoztam műfordítóként, és legalább 20 regényt szerkesztettem.** Emellett szakcikkeket is írtam a legkülönfélébb témákban. Rendkívül sokféle zsáner szövegével foglalkoztam már, illetve sok fordítóval és szerkesztővel együtt dolgoztam. (A korrektorokról, a tördelőkről és a borítótervezőkről nem is beszélve.)
     
-    Even though my calendar for any given year is usually filled with projects from my current clients, I would be happy to talk shop, and maybe make space for new projects. 😎
+    A naptáramban általában kevés az üresjárat, de nyugodtan [lépj velem kapcsolatba](/hu/contact), és beszélgessünk egyet. 😊
 
-    **Important to note: currently I only translate from English to Hungarian, and I only edit texts written in Hungarian.**
+    (Jelenleg csak angolról magyarra fordítok, és csak angolból fordított műveket szerkesztek. Kötésminták szerkesztésével és lektorálásával is foglalkozom, erről [a megfelelő oldalon](/hu/technical-editing) találhatók információk.)
 
-- title: "Technical editing"
+- title: "Szaklektorálás"
   icon: "/images/wool.png"
   button:
     enable: true
-    label: "Read more"
-    link: "/technical-editing/"
+    label: "További részletek"
+    link: "/hu/technical-editing/"
   secondButton:
     enable: false
     label: ""
     link: ""
   content: |
-    **In 2024, I completed the technical editing course offered by The Tech Editor Hub.** Joeli is a wonderful teacher who has taught me a great deal about the mechanics of tech editing for knitting patterns and the philosophy of working with pattern designers. 😊
+    **2024-ben elvégeztem a [The Tech Editor Hub](https://www.thetecheditorhub.com/) által kínált, kötésmintákra specializálódó szaklektori képzést.** Joeli fantasztikus tanár volt, aki sokat tanított nekem a szaklektorálás módszereiről, illetve a tervezőkkel való munka szempontjairól. Később, mivel másféle megközelítésben tanítják a témát, a neves [The Knitting Guild Association (TKGA) tanúsítványt is nyújtó képzésébe](https://tkga.org/certification-for-technical-editors/) is belekezdtem.
 
-    **I currently offer tech editing for accessories, mainly for socks, mittens, hats, shawls, scarfs and other small items.**
+    **Jelenleg inkább kiegészítők mintáinak lektorálását vállalom, főleg zoknikét, kesztyűkét, sapkákét, kendőkét, sálakét és egyéb kis tárgyakét.**
 
-    My services include checking your pattern for inconsistencies and errors both in the math and in the style. I'll also flag any grammatical errors or typos.
+    A kötésmintád lektoraként figyelem, hogy minden egységes-e, mindent jól számoltál-e, de szerkesztem a szöveget is: javítom a helyesírási és nyelvhelyességi hibákat, valamint az elírásokat.
 
 
 # don't create a separate page
@@ -47,7 +47,7 @@ _build:
 
 ---
 
-Currently, I offer literary translation and editing services for publishers, and technical editing solutions for knitting pattern designers
+Jelenleg kiadóknak végzek műfordítói és szerkesztői munkát, kötésminta-tervezőknek pedig szaklektorálást
 
 <!-- <a href="https://www.flaticon.com/free-icons/books" title="books icons">Books icons created by Freepik - Flaticon</a> -->
 <!-- <a href="https://www.flaticon.com/free-icons/wool" title="wool icons">Wool icons created by Freepik - Flaticon</a> -->
