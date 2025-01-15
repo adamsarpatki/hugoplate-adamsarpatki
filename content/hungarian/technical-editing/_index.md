@@ -1,152 +1,146 @@
 ---
-title: "Technical Editing"
-meta_title: "Technical Editing"
-description: "How I help you create the best patterns possible"
+title: "Szaklektorálás"
+meta_title: "Szaklektorálás"
+description: "Hogyan segítek tökéletesíteni a kötésmintáidat"
 image: false
 toc: true
 draft: false
 ---
 
-## What is technical editing?
+## Mi az a szaklektorálás?
 
-Anyone who publishes any kind of text needs an editor, a fresh set of eyes to catch mistakes. Since knitting is a specialized area, that editor needs to be a person who knows the ins and outs of knitting.
+Mindenkinek, aki kiad valamiféle szöveget, szüksége van szerkesztőre – egy pártatlan szemlélőre, aki észreveszi a hibákat. Mivel a kötés szaktudást igénylő terület, a kötésmintákkal foglalkozó szakembernek olyannak kell lennie, aki betéve tudja a kötés különböző technikáit, és szerkesztőként is érti a dolgát.
 
 {{< highlight >}}
 
-**Technical editing for knitting patterns is the process of checking a pattern to make sure the numbers are correct, the style is consistent throughout, all the necessary instructions are there, and it is ready for publication.**
+**A kötésminták szaklektorálása az a folyamat, mely során ellenőrizzük a mintát, hogy a benne lévő számok megfelelőek, a stílus egységes, az utasítások hiánytalanok legyenek, a minta pedig kiadásra készen álljon.**
 
 {{< /highlight >}}
 
-A technical editor does not knit the pattern, but checks it theoretically, with a calculator and/or a spreadsheet. The process, depending on the pattern's complexity, takes only a few hours compared to the many weeks or even months a test knitter works on a pattern.
+A szaklektor nem készít ruhadarabot a minta alapján, hanem elméletben ellenőrzi számológép vagy táblázatkezelő szoftver segítségével. A minta bonyolultságától függően a folyamat csak pár órába telik, nem pedig hetekbe vagy hónapokba – amennyit a tesztkötők szoktak bíbelődni egy mintával.
 
-**Tech editing has great value for pattern designers, since a well edited pattern results in a good experience for the makers.**
+**Az a minta, amely átesett a lektorálás folyamatán, jobb élményt nyújt azoknak, akik elkészítik belőle a ruhadarabot, megteremtve és fenntartva ezzel a tervező jó hírnevét.**
 
-## My qualification
+## Szakmai tapasztalat
 
-**Since 2012, I've worked on over 60 novels and short stories as a literary translator, and copyedited more than 20 novels.** I've also written articles on various topics. I have extensive experience working with various genres and collaborating with translators and editors from diverse backgrounds.
+**2012 óta több mint 60 regényen és novellán dolgoztam műfordítóként, és legalább 20 regényt szerkesztettem.** Emellett szakcikkeket is írtam a legkülönfélébb témákban. Rendkívül sokféle zsáner szövegével foglalkoztam már, illetve sok fordítóval és szerkesztővel együtt dolgoztam. (A korrektorokról, a tördelőkről és a borítótervezőkről nem is beszélve.)
 
-Feel free to check out the list of my publications [here](/publications).
+[A publikációs jegyzékem](/hu/publications) tartalmazza megjelent műveim teljes listáját.
 
-**In 2024, I completed the technical editing course offered by [The Tech Editor Hub](https://www.thetecheditorhub.com/).** Joeli is a wonderful teacher who has taught me a great deal about the mechanics of tech editing for knitting patterns and the philosophy of working with pattern designers. And, since it offers a slightly different perspective, I enrolled in [the certification course offered by TKG](https://tkga.org/certification-for-technical-editors/).
+**2024-ben elvégeztem a [The Tech Editor Hub](https://www.thetecheditorhub.com/) által kínált, kötésmintákra specializálódó szaklektori képzést.** Joeli fantasztikus tanár volt, aki sokat tanított nekem a szaklektorálás módszereiről, illetve a tervezőkkel való munka szempontjairól. Később, mivel másféle megközelítésben tanítják a témát, a neves [The Knitting Guild Association (TKGA) tanúsítványt is nyújtó képzésébe](https://tkga.org/certification-for-technical-editors/) is belekezdtem.
 
-I'm also an avid knitter who loves learning new techniques and exploring new designs. Rest assured, if something is unfamiliar to me, I will don my librarian hat and start researching, at no extra cost to you.
+Emellett rengeteget kötök, imádok új technikákat megtanulni, új mintákat kipróbálni. Ha pedig valami nem ismerős, akkor máris könyvtáros-üzemmódba kapcsolok, és elkezdek kutatni.
+
+## Alapelveim
+
+Tudom, mennyire félelmetes érzés odaadni valakinek valamit, amin szívvel-lélekkel dolgoztunk. Mindig ugyanezt érzem, ha ismeretlen szerkesztő nyúl hozzá valamelyik fordításomhoz.
+
+Amikor én szerkesztem vagy lektorálom valaki más munkáját, pontosan ezért igyekszem biztonságos és barátságos közeget teremteni, és nem ítélkezni feletted, ha hibát vétettél – hiszen a hibák csupán megoldásra váró problémák. Végső soron senkinek sem kell tudnia róluk.
+
+És bár lehet, hogy kiemelem a szövegben lévő hibákat, vagy javaslatokat teszek arra, *szerintem* hogyan lenne érdemes kijavítani őket, **a végső döntés mindig, de mindig a tiéd.** Közösen fogunk dolgozni, de a minta örökre a tiéd marad. Valamivel jogászosabban fogalmazva: a minta mindig a te szellemi tulajdonod lesz.
+
+Az én dolgom az, hogy a mintád a lehető legtökéletesebb legyen, és hogy az odáig vezető folyamat minél zökkenőmentesebben haladjon.
+
+## A szolgáltatásaim
+
+{{< highlight >}}
+
+**Jelenleg inkább kiegészítők mintáinak lektorálását vállalom, főleg zoknikét, kesztyűkét, sapkákét, kendőkét, sálakét és egyéb kis tárgyakét.**
+
+{{< /highlight >}}
   
-## My philosophy
+Technikák, amelyek kifejezetten érdekelnek: Fair Isle, csavart mintás kötés, brioche (amit láttam már mackókötés és turbánkötés fordításban is).
 
-I know it can be daunting to entrust someone with something you've put so much hard work and dedication into. I feel the same way each time a new editor works on my translations.
+A kötésmintád lektoraként figyelem, hogy minden egységes-e, mindent jól számoltál-e, de szerkesztem a szöveget is: javítom a helyesírási és nyelvhelyességi hibákat, valamint az elírásokat.
 
-This is why I strive to create a safe and friendly environment where you won't be judged if you make a mistake—instead, mistakes are just problems to be solved. No one has to know about them.
+Részletesebben: ellenőrzöm a helyesírást, a nyelvhelyességet, a stílust, az írott utasítások érthetőségét és pontosságát, a konzisztenciát, a rövidítéseket, a szemek számát, a mintákat, az ismétléseket, a méreteket, az átváltásokat, a sematikus rajzokat, valamint a diagramokat/mintarajzokat.
 
-And even though I might highlight errors, and give suggestions on how to correct them, I will always, *always* leave the final decision to you. We'll collaborate, but the pattern will always remain yours. In slightly more legal terms: **You will retain all the intellectual property rights of the pattern.**
+**A jövőben tervezett szolgáltatásaim:**
 
-I'm here to make your pattern look its best, and to make this process go as painlessly as possible.
+- Pulóverminták lektorálása
+- Méretezés kialakítása
+- Sematikus rajzok készítése
+- Tervezői szabványok készítése
+- Kötésminták tördelése
 
-## My services
-
-{{< highlight >}}
-
-**I currently offer tech editing for accessories, mainly for socks, mittens, hats, shawls, scarfs and other small items.**
-
-{{< /highlight >}}
-  
-**Techniques I'm especially interested in:** stranded colourwork, cable knitting, brioche.
-
-My services include checking your pattern for inconsistencies and errors both in the math and in the style. I'll also flag any grammatical errors or typos.
-
-This means that I will check: spelling, grammar, use of style, written instructions (including clarity and accuracy), consistency, abbreviations, stitch counts, stitch patterns and repeats, measurements, conversions, schematics, charts with key.
-
-**I'm planning these services in the future:**
-
-- Tech editing for sweaters
-- Grading
-- Creating schematics
-- Creating style sheets
-- Layout design
-
-### Fees
+## Munkadíj
 
 {{< highlight >}}
 
-**My hourly editing fee is €35** (+ VAT if applicable). It includes three rounds of editing, and a final check.
+**A jelenlegi órabérem 13.500 Ft / €35 (+ áfa, ha egyszer szükség lesz rá).** Ez három környi lektorálást jelent, illetve a megjelenés előtti utolsó átnézést.
 
-When you contact me, I will give you an estimated time-range, so you'll know what to expect.
+Amikor kapcsolatba lépsz velem, megadom az óraszámot, amennyit nagyjából a munka igényelni fog, hogy tudd, mire számíts.
 
-Small, simple items might need 2-3 hours, while larger, more complicated designs could require 4-5 hours to edit.
+Kis, egyszerű darabokhoz 2-3 órára, míg nagyobb, bonyolultabb mintákhoz 4-5 órára is szükség lehet. Ha a mintádhoz bármilyen kutatást el kell végeznem pl. egy adott technikával kapcsolatban, az azzal töltött időt nem számolom fel.
 
 {{< /highlight >}}
 
-When you're ready to jump right in, please read the details below carefully.
+Ha készen állsz, kérlek, olvasd el az alábbiakban a folyamat menetét.
 
 <!-- Button -->
 <div class="flex flex-col items-center mb-20 text-center">
-    <p class="text-lg font-bold">If you're still unsure about some things, I would be happy to answer your questions.</p>
-    <a class="btn btn-primary" href="mailto:hello@adamsarpatki.com" rel="noopener" {{ end }}>I have a question</a>
+    <p class="text-lg font-bold">Ha még mindig bizonytalan vagy, nyugodtan tedd fel a kérdéseidet.</p>
+    <a class="btn btn-primary" href="mailto:hello@adamsarpatki.com" rel="noopener" {{ end }}>Kérdésem van</a>
 </div>
 
-## The process
+## A folyamat
 
-The following outlines the ideal process, but I don't disclose every detail here that could be considered business information.
-  
-**Step 1.** — You [contact me](/contact) for availability. Please include the following files and info, if you have them:
+Az alábbiakban felvázolom a tökéletes folyamatot, de vannak bizonyos üzleti titoknak minősülő részletek, amelyekről itt nem tájékoztatlak.
 
-- Your pattern, even if it's not yet the version you want edited. You can send me a PDF, but a Word file or a Pages file is good as well. (See FAQ for more on this.)
+**1. lépés** – Felkeresel, hogy tudok-e most új ügyfelet vállalni. Kérlek, ha tudod, mellékeld a leveledben az alábbiakat:
 
-- Some photos of the finished item, so I can check if the pattern would produce the item or not. These images don't have to be fancy, I just need to see details like the ribbing, the stitch pattern, the general shape etc.
+- A mintád szövegét, még ha nincs is teljesen készen. Jöhet PDF-ben, de Word vagy Pages fájl is megfelelő. (Az oldal alján lévő GYIK tartalmaz erről további információkat.)
+- Pár képet a kész ruhadarabról, hogy ellenőrizhessem, a minta alapján valóban ez jönne-e létre. Nincs szükség gyönyörű fotókra, de látnom kell olyan részleteket, mint a passzé; hogy milyen mintát adnak ki a szemek; hogy nagy általánosságban milyen a ruhadarab alakja; stb.
+- A tervezői szabványod (style sheeted), ha van.
+- Mikorra küldenéd el nekem a lektorálandó mintát.
+- Mi lenne a határidő, amikorra legkésőbb el kellene készülnöm.
+- Járt-e már tesztkötőknél a mintád vagy sem.
+- Van-e olyan része a mintának, amire kifejezetten figyelnem kellene, vagy van-e olyan, amivel inkább ne is vesződjek. (Pl. ha a Stitchmastery nevű szoftverrel készítetted a mintarajzot, és az írott instrukciókat is abból exportáltad, akkor az valószínűleg hibátlan.)
 
-- Your style sheet if you have one.
+**2. lépés** – A válaszomban megírom, vállalom-e a munkát, mennyi idő alatt készülnék el vele (általában 5-7 nap), mennyi munkaórával számolok, és mennyi lenne ez alapján a munkadíjam. Emellett átküldöm a szerződéstervezetemet is a részletes feltételeimmel. (Ezeket szívesen át is beszélem veled.) Általában 24-48 órán belül válaszolok, kivéve hétvégéken és ünnepnapokon. Ha ennél lassabb válaszadásra lehet számítani, mindig állítok be automatikus válaszlevelet.
 
-- The date by which you would send me the version to be edited.
+**3. lépés** – DocuSignon keresztül aláírjuk a szerződést. (Szívesen segítek benne, de [az alábbi cikk is elmagyarázza](https://support.docusign.com/s/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing?language=en_US), hogy működik a dolog. Nem kötelező beszkennelned vagy befotóznod hozzá a tényleges aláírásodat.)
 
-- Your deadline if you already have one.
+**4. lépés** – Elkezdek dolgozni a mintán. Amikor végzek az első körrel, visszaküldöm neked, hogy elvégezd a szükséges javításokat. Ha ez megvan, te visszaküldöd nekem, hogy újra átnézzem. Rögtön szólok, ha kérdésem akad, vagy olyasmit találok, ami lehetetlenné teszi, hogy folytassam a munkát, esetleg kiderül, hogy a tervezettnél több időre lenne szükség. Ezeket mindig megbeszéljük.
 
-- Whether your pattern has already been test knitted or not.
+**5. lépés** – Ha készen áll a mintád arra, hogy elküldd a tesztkötőidnek, vagy kiadd, kiszámlázom a munkadíjamat, amit 15 napon belül fizethetsz ki átutalással. Vagy euróban, vagy forintban számlázok majd – az elején megbeszéljük, hogy neked melyik a jobb.
 
-- Whether there are parts of your pattern I should pay extra attention to, or if there are any parts I shouldn't bother with (e.g. if the pattern has a chart, and you exported the written instructions from Stitchmastery, they likely won't need to be checked).
+**6. lépés** – A tesztkötés után örömmel végignézem újra a mintát, arra az esetre, ha elmulasztottunk volna valamit. Amennyiben nincs szükség jelentősebb alakításokra, ez a lépés ingyenes.
 
-**Step 2.** — In my response, I will let you know if I can take on the pattern or not, about my turnaround time (usually 5-7 days), the estimated hours the project will require, and my estimated fee. I usually answer within 24-48 hours, except on weekends and holidays, and have an auto-reply set up if I'm away for more time than that. I will also send you my agreement, so you can check my terms.
-
-**Step 3.** — We sign the agreement through DocuSign. (If you need assistance with it, I will gladly help, or check out [this article](https://support.docusign.com/s/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing?language=en_US) on how to use their free service. You don't need to scan your signature to use this service.)
-
-**Step 4.** — After we're set, I start editing the pattern. When the first round is done, I will send it back to you to make the necessary changes. Then you send it back to me, to check it again for anything we missed. I will contact you immediately if I have any questions or concerns, or if the work requires more time than I thought, to talk about the best course of action.
-
-**Step 5.** —  When your pattern is ready to be sent to test knitters or published, I will send you my invoice, which you can pay via Wise within 15 days. My fee will be in Euros or, if you're based in Hungary, in Hungarian Forint. You may [use this currency converter](https://wise.com/gb/currency-converter/) to check how much that will cost you in your own currency.
-
-**Step 6.** — After your pattern has been test knitted, and you've received your feedback from your test knitters, I will be happy to take a look at the pattern again for any additional corrections, just in case we missed something. This step is free if there are no changes to be made or they don't require much time.
-
-Yay, you've got a finished pattern! Let's shout it from the rooftops! Do let me know when you publish it, so I can share the news with everyone. I will include its photo in my portfolio (with your permission, of course), with your name, as well as a link to your website or Ravelry store.
+Éljen, kész a kötésmintád! Kérlek, feltétlenül szólj, amikor megjelenik, hogy megoszthassam a hírét mindenkivel. Ha megengeded, a honlapomon lévő portfóliómban is megosztom majd a képét a neveddel és a weboldalad vagy a webshopod címével.
 
 <!-- Button -->
 <div class="flex flex-col items-center mb-20 text-center">
-    <p class="text-lg font-bold">Are you ready to dive in?</p>
-    <a class="btn btn-primary" href="mailto:hello@adamsarpatki.com" rel="noopener" {{ end }}> Contact me for a free quote!</a>
+    <p class="text-lg font-bold">Vágjunk bele?</p>
+    <a class="btn btn-primary" href="mailto:hello@adamsarpatki.com" rel="noopener" {{ end }}>Kérj ingyenes árajánlatot!</a>
 </div>
 
-## FAQ
+## GYIK
 
-If you have any questions, please start here. 😊
+Ha kérdésed támadna, kérlek, kezdd itt. 😊
 
-{{< accordion title="PDF, DOC or something else?" class="border-indigo-900 border-1 bg-slate-50" >}}
+{{< accordion title="PDF, DOC vagy valami más?" class="border-indigo-900 border-1 bg-slate-50" >}}
 
-To avoid any formatting issues between operating systems and word processing software, ideally, I would prefer if you would send your pattern as a PDF.
+Bármelyik jó.
 
-I always have the latest version of Microsoft Word and Pages, so their native format is always an option, but I'll most likely save your file as a PDF before I start working on it, so I don't change anything by mistake. I will send you back a flattened PDF, this way we won't run into any compatibility issues. (A flattened PDF just means that you won't be able to move or accidentally delete my comments. The quality will be unchanged, you'll still be able to zoom in, select the text, etc.)
+Ha PDF-et küldesz, akkor a fájlba „beleégetem” majd a változtatásokat, nehogy véletlenül eltűnjön bármi is. (A fájl minősége nem változik ettől, ki tudod majd jelölni a szöveget stb. És persze a te eredeti példányod is érintetlen marad.)
 
-**Feel free to let me know if you'd prefer a different approach,** like using Adobe Reader's markup functionality, or "Track Changes" and commenting in Microsoft Word. I'm used to both.
+A Word „Változások követése / Track changes” funkcióját is tudom használni (a napi munkám során ez állandó társam), illetve az Adobe Readerben is tudom, hogy kell jelezni a javításokat. Ha Pages alkalmazást használsz, azzal is megbirkózom, és legvégső esetben a Google Docsszal is elboldogulok.
 
-During the editing process, I won't change or rewrite the text of your pattern without your knowledge. I will give you my notes and suggestions, and you can decide what to incorporate and what not to.
-
-{{< /accordion >}}
-
-{{< accordion title="Confidentiality" class="border-indigo-900 border-1 bg-slate-50" >}}
-
-I will keep our every e-mail and file confidential, and I will never send or say anyone anything about our work, unless you instruct me to. In return, I ask you to do the same.
-
-This obviously doesn't apply to the fact that I edited your pattern: I will proudly share the news of its publication on social media, and will include its photo in my portfolio (with your permission, of course), as well as a link to your website or Ravelry store.
+A lektorálás során semmi olyan változtatást nem hajtok végre, amit te a végén ne látnál és hagyhatnál jóvá.
 
 {{< /accordion >}}
 
-{{< accordion title="Credit" class="border-indigo-900 border-1 bg-slate-50" >}}
+{{< accordion title="Titoktartás" class="border-indigo-900 border-1 bg-slate-50" >}}
 
-While it's not necessary to do so, I would be over the moon if you would credit me in the colophon of your pattern. I think it's generally a nice thing to do, and including my name also gives credibility to your work, showing people that this pattern was professionally tech edited. If you credit me, you will still retain all the intellectual property rights of the pattern.
+A munkához kapcsolódó levelezésünket és fájlokat bizalmasan kezelem, és soha senkinek nem küldök át semmit – hacsak te nem utasítasz rá. Cserében ugyanezt kérem tőled.
+
+Ez természetesen nem vonatkozik arra a tényre, hogy én lektoráltam a mintádat: büszkén fogom megosztani a megjelenése hírét a különböző közösségimédia-oldalakon, és az engedélyeddel a honlapomon lévő portfóliómban is megosztom majd a képét a neveddel és a weboldalad vagy a webshopod címével.
+
+{{< /accordion >}}
+
+{{< accordion title="Copyright" class="border-indigo-900 border-1 bg-slate-50" >}}
+
+Habár nem lesz copyrightom (szerzői jogom) a mintára, nagyon-nagyon hálás lennék, ha megemlítenél a mintád kolofonjában, mint lektort. Nem kötelező, de ha ott van a nevem (és esetleg a honlapom címe), akkor az emberek a te mintádban is jobban bíznak, mert látják, hogy olyan dolgozott ezen, aki vállalja a nevét is. Természetesen a minta így is a te szellemi tulajdonod marad.
 
 {{< /accordion >}}
