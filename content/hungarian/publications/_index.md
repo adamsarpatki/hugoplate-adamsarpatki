@@ -2,7 +2,7 @@
 title: "Publikációk"
 meta_title: "Publikációk"
 summary: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
-description: "Frissítve: 2024-07-01"
+description: "Frissítve: 2025-01-14"
 image: false
 toc: true
 draft: false
@@ -11,6 +11,11 @@ draft: false
 
 ## Műfordítások
 
+- Christopher Buehlman: Hollólovagok. Budapest : Agave Könyvek, 2025. 432 p.
+- Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Korok Hőse I-II.* Budapest : Delta Vision, 2024. pp. 9–15., 1031–1039.
+- Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Megdicsőülés Kútja I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 1069–1076.
+- Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Végső Birodalom I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 893–898.
+- Robert Jackson Bennett: Kohómente. Budapest : Fumax, 2024. 584 p.
 - Michael Witwer: Dungeons and Dragons – Drizzt legendája. Képes útmutató. Budapest : Kolibri Kiadó, 2024. 200 p.
 - Adam Bray, Kelly Knox: Marvel Studios – Szereplők nagykönyve. Bővített kiadás. Budapest : Kolibri Kiadó, 2024. 240 p.
 - Shelley Parker-Chan: A sötétségbe fojtott világ. Budapest : Agave Könyvek, 2024. 576 p.
