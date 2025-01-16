@@ -1,25 +1,25 @@
 ---
 enable: true
-title: "Miért velem dolgozz?"
+title: "Ezért dolgozz velem"
 description: "A szakértelmem így segíti majd elő az együttműködésünket"
 
 # Expertise
 expertise:
-  - keyword: "Unique advantages"
+  - keyword: "Szívből végzett munka"
     icon: "/images/advantage.png"
-    content: "As a relatively new knitter, I'm aware of the challenges beginners face, which helps me ensure the patterns I edit are clear and beginner-friendly. And even though English is not my native language, this is actually a strength, not a weakness. Because I spend most of my days immersed in English, either for work or entertainment, I can spot sentences that might be confusing from a non-native perspective."
+    content: "Abban a kivételes helyzetben vagyok, hogy azzal foglalkozhatok, amit szeretek, ez pedig azt jelenti, hogy mindegyik projektem ugyanolyan fontos, és igyekszem a lehető legtöbbet kihozni belőlük. Folyamatosan fejlesztem a készségeimet és törekszem a rugalmasságra."
 
-  - keyword: "Kommunikáció"
+  - keyword: "Szakmai együttműködés"
     icon: "/images/messaging.png"
-    content: "Szeretem a proaktív kommunikációt, ezért én is erre törekszem. Általában 24-48 órán belül válaszolok a megkeresésekre (kivéve hétvégén és ünnepnapokon). Ha ennél több ideig nem tartózkodom gép előtt, akkor mindig állítok be automatikus válaszüzenetet."
+    content: "Hiszek benne, hogy az igazán sikeres projektek mind-mind több ember munkáját dicsérik. Amellett, hogy szívvel-lélekkel és megfelelő alapossággal végzem a saját feladataimat, igyekszem nyitott maradni mások javaslataira, szükség esetén konstruktív visszajelzéseket adni, vagy közösen gondolkodni egy-egy megoldandó kérdésen."
 
-  - keyword: "Gondosság"
+  - keyword: "Precizitás és alaposság"
     icon: "/images/book.png"
-    content: "Akár regényen, akár kötésmintán dolgozom, ritkán veszek készpénznek dolgokat. Ebben a tekintetben még mindig könyvtáros vagyok – a legemlékezetesebb munkáimnak azt tartom, amelyekhez komoly kutatást kellett végeznem egy adott témában, legyen az a kínai történelem, a százéves háború, vagy éppen a kozmerum."
+    content: "A munkám során igyekszem mindent dokumentálni, hogy a velem együtt dolgozóknak ne kelljen felesleges köröket futnia. E tekintetben még mindig könyvtáros vagyok – a legemlékezetesebb munkáimnak azokat tartom, amelyekhez komoly kutatást kellett végeznem egy-egy adott témában, legyen az a kínai történelem, a százéves háború, vagy éppen a kozmerum."
 
-  - keyword: "Önállóság"
+  - keyword: "Megbízhatóság és határidők"
     icon: "/images/deadline.png"
-    content: "2013-ban lettem szabadúszó, 2018-tól pedig ez a főállásom. Az évek során bebizonyítottam, hogy minőségi munkát végzek, be tudom tartani a határidőket, és megbízható csapattárs vagyok."
+    content: "2013-ban lettem szabadúszó, 2018-tól pedig főállású vállalkozó. Az évek során bebizonyítottam, hogy minőségi munkát végzek és megbízható csapattag vagyok, akár szoros határidőkről, akár komplex projektekről van szó."
 
 
 
