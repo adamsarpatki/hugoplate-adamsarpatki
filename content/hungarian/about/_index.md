@@ -12,8 +12,9 @@ eras:
     image: "/images/cserka.jpg"
     alt: "Kutyánk egy 2024. májusi délutánon."
     caption: "Kutyánk egy 2024. májusi délutánon."
-    content: |
-        *„Kezdetben vala a semmi, ami felrobbant.”*  
+    quote: |
+        *„Kezdetben vala a semmi, ami felrobbant.”*
+    quote_credit: |
         Terry Pratchett: *Hölgyek és urak*  
         (Farkas Veronika fordítása)
     long_text: |
@@ -27,11 +28,12 @@ eras:
     image: "/images/konyvfeszt_2017.jpg"
     alt: "Könyvek a 2017-es Budapesti Nemzetközi Könyvfesztiválon."
     caption: "Könyvek a 2017-es Budapesti Nemzetközi Könyvfesztiválon."
-    content: |
+    quote: |
         *„– Igen… nos hát… Kissé elvesztettem az időérzékemet – szabadkozott Elend.  
         – No de ennyire?  
         Az ifjú király szégyenlősen bólintott.  
-        – Hiszen könyvekről van szó…”*  
+        – Hiszen könyvekről van szó…”*
+    quote_credit: |  
         Brandon Sanderson: *A Megdicsőülés Kútja*  
         (Kopócs Éva és Matolcsy Kálmán fordítása)
     long_text: |
@@ -45,8 +47,9 @@ eras:
     image: "/images/pear_tree.jpg"
     alt: "Körtefa a kertünkben, őszbe öltözve."
     caption: "Körtefa a kertünkben, őszbe öltözve."
-    content: |
+    quote: |
       *"Tovább álmodta minden könyvkiadók álmát, miszerint oly sok arany húzza le a zsebeit, hogy két embert kell alkalmaznia csak arra, hogy tartsák a nadrágját."*  
+    quote_credit: |  
       Terry Pratchett: *Maszkabál*  
       (Farkas Veronika fordítása)
     long_text: |
@@ -60,8 +63,9 @@ eras:
     image: "/images/2024-collage.jpg"
     alt: "Kollázson az érdeklődési köreim: fantasytérképek, kötés, szerepjátékok és minifestés."
     caption: "Kollázson az érdeklődési köreim: fantasytérképek, kötés, szerepjátékok és minifestés."
-    content: |
+    quote: |
         *„Fájdalmas tapasztalatból arra jöttem rá, hogy a legfontosabb lépés, amit bárki megtehet, az mindig a *következő.*”*  
+    quote_credit: |
         Brandon Sanderson: *Eskühozó*  
         (Sárpátki Ádám fordítása)
 

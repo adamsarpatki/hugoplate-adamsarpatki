@@ -41,10 +41,15 @@
                         {{ end }} ">
                         {{ .title | markdownify }}
                     </h2>
-                    <p class="mb-8 {{ if not (modBool $i 2) }}
+                    <p class="mb-2 {{ if not (modBool $i 2) }}
                         text-slate-50
                         {{ end }} ">
-                        {{ .content | markdownify }}
+                        {{ .quote | markdownify }}
+                    </p>
+                    <p class="mb-8 {{ if not (modBool $i 2) }}
+                    text-slate-50
+                    {{ end }} md:text-right ">
+                        {{ .quote_credit | markdownify }}
                     </p>
                     <!-- Long text field with markdown -->
                     <div class="mb-8 {{ if not (modBool $i 2) }}

@@ -12,9 +12,10 @@ eras:
     image: "/images/cserka.jpg"
     alt: "Our mixed-breed dog, captured in our garden one May afternoon in 2024."
     caption: "Our mixed-breed dog, captured in our garden one May afternoon in 2024."
-    content: |
+    quote: |
         *"In the beginning, there was nothing, which exploded."*  
-         ― Terry Pratchett, *Lords and Ladies*
+    quote_credit: |
+         Terry Pratchett, *Lords and Ladies*
     long_text: |
       During my childhood/teenage years, in the early 2000s, we didn't have Internet at home, and even when we did get it, it was painfully slow. So when I found myself with too much time on my hands and none of my friends available, I usually went to the library.
 
@@ -26,11 +27,12 @@ eras:
     image: "/images/konyvfeszt_2017.jpg"
     alt: "Rows of books at the 2017 International Book Festival in Budapest."
     caption: "Rows of books at the 2017 International Book Festival in Budapest."
-    content: |
+    quote: |
         *"I kind of lost track of time..."  
          "For two hours?"  
-         Elend nodded sheepishly. "There were books involved."*  
-         ― Brandon Sanderson, *The Well of Ascension*
+         Elend nodded sheepishly. "There were books involved."*
+    quote_credit: |
+         Brandon Sanderson, *The Well of Ascension*
     long_text: |
       I was always fascinated by books. As a teenager, I aspired to become a writer—we had a writing group in high school where we read and critiqued each other's work. That's when I first got interested in editing and translation, too. I attribute it all to Tamás Boldizsár Tóth, the Hungarian translator of the Harry Potter books. Between 1999 and 2008,  the series left a big impression on me, regardless of how the author's public perception changed since then.
 
@@ -42,8 +44,10 @@ eras:
     image: "/images/pear_tree.jpg"
     alt: "A pear tree in our garden, in full autumnal colours."
     caption: "A pear tree in our garden, in full autumnal colours."
-    content: |
-      *\"And he dreamed the dream of all those who publish books, which was to have so much gold in your pockets that you would have to employ two people just to hold your trousers up.\"* ― Terry Pratchett, *Maskerade*
+    quote: |
+      *"And he dreamed the dream of all those who publish books, which was to have so much gold in your pockets that you would have to employ two people just to hold your trousers up."*
+    quote_credit: |
+      Terry Pratchett, *Maskerade*
     long_text: |
         I like learning new things. So when I received my first editing assignment, I was over the moon. And it was a book by Brandon Sanderson! I already worked as a translator on his works, but editing some of them as well was a dream come true.
 
@@ -55,8 +59,10 @@ eras:
     image: "/images/2024-collage.jpg"
     alt: "This collage shows my interests: fantasy maps, knitting, TTRPGs and minipainting."
     caption: "This collage shows my interests: fantasy maps, knitting, TTRPGs and minipainting."
-    content: |
-        *"I have found, through painful experience, that the most important step a person can take is always the next one."* ― Brandon Sanderson, *Oathbringer*
+    quote: |
+        *"I have found, through painful experience, that the most important step a person can take is always the next one."*
+    quote_credit: |      
+      Brandon Sanderson, *Oathbringer*
 
 
     long_text: |
