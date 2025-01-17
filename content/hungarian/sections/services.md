@@ -1,6 +1,6 @@
 ---
-title: "A szolgáltatásaim"
-meta_title: "A szolgáltatásaim"
+title: "Szolgáltatásaim"
+meta_title: "Szolgáltatásaim"
 description: "Jelenleg kiadóknak végzek műfordítói és szerkesztői munkát, kötésminta-tervezőknek pedig szaklektorálást"
 enable: true
 draft: false
