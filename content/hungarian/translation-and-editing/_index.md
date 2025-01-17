@@ -21,7 +21,7 @@ A teljes listát [a publikációs jegyzékem](/hu/publications) tartalmazza.
 
 ### Műfordítás
 
-*A fordítás számomra olyan, mintha én is egy mű szerzőjévé válnék.** Hiszek benne, hogy a fordító befolyása elválaszthatatlan a műtől, és a teljesítménye lehet az adott irodalmi alkotás sikerének vagy bukásának kulcsa. Ez pedig hatalmas felelősséggel jár, amit nem szabad félvállról venni.
+**A fordítás számomra olyan, mintha én is egy mű szerzőjévé válnék.** Hiszek benne, hogy a fordító befolyása elválaszthatatlan a műtől, és a teljesítménye lehet az adott irodalmi alkotás sikerének vagy bukásának kulcsa. Ez pedig hatalmas felelősséggel jár, amit nem szabad félvállról venni.
 
 Míg a szerzők teljes kreatív szabadsággal rendelkeznek, a fordítóknak hűen át kell adniuk az eredeti művet egy másik nyelven. Ahhoz, hogy ezt elérjék, elsődleges fontosságú a pontosság. Egy fordítónak alaposan ismernie kell a forrásnyelv nyelvtanát, szavait és kifejezéseit, ezzel együtt pedig a saját anyanyelvét is mesterien kell tudnia használni, hogy megfogalmazhassa a szerző szavait.
 
