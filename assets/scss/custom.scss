@@ -126,3 +126,7 @@ h6 {
 .highlight {
   @apply bg-slate-300 border-l-4 border-slate-500 p-4;
 }
+
+.site-logo {
+  @apply py-1 md:w-28 w-20
+}
