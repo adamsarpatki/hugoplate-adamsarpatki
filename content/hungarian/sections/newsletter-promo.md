@@ -3,18 +3,18 @@ enable: true
 
 # Promo content
 promo:
-  - title: "Yarnbound Tales\ newsletter"
+  - title: "Yarnbound Tales\ hírlevél"
     img: "/images/yarnbound-tales-promo-img.jpg"
     content: |
-      Once a month I send out a short but sweet newsletter that includes my current available tech editing spots, as well as some stuff I found useful or interesting in the previous month—whether it's a video, a podcast episode, an article or a conversation.
-
-      The topics include knitting, cooking, books, video games, TTRPGs, or anything, really, that interests me at the time.
-
-      It's free, there's no catch, and you can unsubscribe at any time. Clicking the button below will take you to my Substack page.
+      Havonta egyszer szeretek olvasóimnak rövid, de tartalmas hírlevelet küldeni, benne a jelenlegi szabad kapacitásommal, valamint sok olyasmivel, amit érdekesnek találtam az előző hónapban – videókkal, podcastepizódokkal, cikkekkel vagy beszélgetésekkel.
+      
+      A téma általában a kötés, a főzés, a könyvek, a videojátékok, az asztali szerepjátékok, vagy igazából bármi, amit éppen akkor érdekesnek találok.
+      
+      Ingyenes, angol nyelvű, és bármikor le tudsz iratkozni róla.
 
     button:
         enable: true
-        label: "Subscribe now"
+        label: "Irány a hírlevél"
         link: https://yarnboundtales.substack.com/
 
 # don't create a separate page

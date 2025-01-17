@@ -6,11 +6,11 @@ modal:
   - title: "Yarnbound Tales"
     img: "/images/modal-header-img.jpg"
     content: |
-      Subscribe to my monthly newsletter to get updates on my availability, articles about knitting, books, cooking, video games, TTRPGs and other topics. 
+      Iratkozz fel havonta megjelenő hírlevelemre, hogy kötéssel, könyvekkel, főzéssel, videojátékokkal, szerepjátékokkal és más témákkal kapcsolatos cikkeket kapj tőlem angol nyelven. 
 
     button:
         enable: true
-        label: "Subscribe now"
+        label: "Irány a hírlevél"
         link: https://yarnboundtales.substack.com/
 
 # don't create a separate page
