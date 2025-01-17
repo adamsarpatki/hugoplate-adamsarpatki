@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Sárpátki Ádám"
-  phonetics: "Műfordító, szerkesztő, szakmai lektor"
+  phonetics: "Műfordítás, szerkesztés, kötésminták lektorálása"
   intro: | 
     Üdvözöllek a weboldalamon!
     
