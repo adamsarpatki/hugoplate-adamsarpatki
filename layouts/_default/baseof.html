@@ -1,51 +1,57 @@
 <!doctype html>
-<html
-  itemscope
-  class="{{- if not site.Params.theme_switcher -}}
+<html itemscope class="{{- if not site.Params.theme_switcher -}}
     {{- site.Params.theme_default -}}
-  {{- end -}}"
-  lang="{{ site.LanguageCode | default `en-GB` }}"
-  itemtype="http://schema.org/WebPage">
-  <head>
-    <!-- head (don't cache it) -->
-    {{ partial "essentials/head.html" . }}
+  {{- end -}}" lang="{{ site.LanguageCode | default `en-GB` }}" itemtype="http://schema.org/WebPage">
+
+<head>
+  <!-- head (don't cache it) -->
+  {{ partial "essentials/head.html" . }}
 
 
-    <!-- style (always cache it) -->
-    {{ partialCached "essentials/style.html" . }}
-  </head>
+  <!-- style (always cache it) -->
+  {{ partialCached "essentials/style.html" . }}
 
-  <body>
-    <!-- cache partial only in production -->
-    {{ if hugo.IsProduction }}
-      {{ partialCached "preloader.html" . }}
-      {{ partialCached "gtm-noscript.html" . }}
-    {{ else }}
-      {{ partial "preloader.html" . }}
+  <!-- site-wide description -->
+  {{- if .IsHome -}}
+  <meta name="description" content="{{ site.Params.Description }}" />
+  {{- else -}}
+  <meta name="description" content="{{ .Params.Description }}" />
+  {{- end }}
 
+</head>
 
-      <!-- tailwind size indicator -->
-      {{/*  {{ partial "components/tw-size-indicator.html" . }}  */}}
-    {{ end }}
-
-
-    <!-- header (don't cache it) -->
-    {{ partial "essentials/header.html" . }}
-    {{ partial "search-modal.html" (dict "Context" . ) }}
+<body>
+  <!-- cache partial only in production -->
+  {{ if hugo.IsProduction }}
+  {{ partialCached "preloader.html" . }}
+  {{ partialCached "gtm-noscript.html" . }}
+  {{ else }}
+  {{ partial "preloader.html" . }}
 
 
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
+  <!-- tailwind size indicator -->
+  {{/* {{ partial "components/tw-size-indicator.html" . }} */}}
+  {{ end }}
 
-    <!-- cache partial only in production -->
-    {{ if hugo.IsProduction }}
-      {{ partialCached "essentials/footer.html" . }}
-      {{ partialCached "essentials/script.html" . }}
-    {{ else }}
-      {{ partial "essentials/footer.html" . }}
-      {{ partial "essentials/script.html" . }}
-    {{ end }}
 
-  </body>
+  <!-- header (don't cache it) -->
+  {{ partial "essentials/header.html" . }}
+  {{ partial "search-modal.html" (dict "Context" . ) }}
+
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <!-- cache partial only in production -->
+  {{ if hugo.IsProduction }}
+  {{ partialCached "essentials/footer.html" . }}
+  {{ partialCached "essentials/script.html" . }}
+  {{ else }}
+  {{ partial "essentials/footer.html" . }}
+  {{ partial "essentials/script.html" . }}
+  {{ end }}
+
+</body>
+
 </html>

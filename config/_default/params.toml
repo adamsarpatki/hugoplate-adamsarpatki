@@ -57,7 +57,7 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["literary translator", "technical editor", "knitting patterns", "tech editor knitting", "technical editor knitting", "knitting pattern editor", "knitting tech editor", "translator", "fiber arts", "speculative fiction translator", "science fiction translator"]
-description = "The official website of Ádám Sárpátki, a literary translator, editor, and technical editor for knitting patterns."
+description = "The official website of Ádám Sárpátki, a literary translator, editor, and knitting technical editor from Hungary."
 author = "Ádám Sárpátki"
 image = "images/favicon.png"
 
