@@ -11,9 +11,9 @@ expertise:
 
   - keyword: "Szakmai együttműködés"
     icon: "/images/messaging.png"
-    content: "Hiszek benne, hogy az igazán sikeres projektek mind-mind több ember munkáját dicsérik. Amellett, hogy szívvel-lélekkel és megfelelő alapossággal végzem a saját feladataimat, igyekszem nyitott maradni mások javaslataira, szükség esetén konstruktív visszajelzéseket adni, vagy közösen gondolkodni egy-egy megoldandó kérdésen."
+    content: "Hiszek benne, hogy az igazán sikeres projektek több ember munkáját dicsérik. Amellett, hogy szívvel-lélekkel és megfelelő alapossággal végzem a saját feladataimat, törekszem rá, hogy nyitott maradjak mások javaslataira, szükség esetén konstruktív visszajelzéseket adjak, vagy közösen gondolkodjak egy-egy megoldandó kérdésen."
 
-  - keyword: "Precizitás és alaposság"
+  - keyword: "Alaposság és sokoldalúság"
     icon: "/images/book.png"
     content: "A munkám során igyekszem mindent dokumentálni, hogy a velem együtt dolgozóknak ne kelljen felesleges köröket futnia. E tekintetben még mindig könyvtáros vagyok – a legemlékezetesebb munkáimnak azokat tartom, amelyekhez komoly kutatást kellett végeznem egy-egy adott témában, legyen az a kínai történelem, a százéves háború, vagy éppen a kozmerum."
 
