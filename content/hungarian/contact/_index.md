@@ -1,50 +1,46 @@
 ---
-title: "Contact Me"
-meta_title: "Contact Me"
-description: "Get in touch through any of the channels below. I can't wait to hear from you!"
+title: "Kapcsolat"
+meta_title: "Kapcsolat"
+description: "Lépj kapcsolatba velem az alábbi lehetőségek egyikén"
 draft: false
 
 columns:
-- title: "For publishers"
+- title: "Kiadóknak"
   icon: "/images/books.png"
   button:
     enable: true
-    label: "E-mail me"
+    label: "Küldj e-mailt"
     link: "mailto:hello@adamsarpatki.com"
   secondButton:
     enable: true
-    label: "Book a chat"
+    label: "Foglalj időpontot"
     link: "https://cal.com/adamsarpatki/30min"
   content: |
-    Even though my calendar for any given year is usually filled with projects from my current clients, I would be happy to talk shop, and maybe make space for new projects.
+    A naptáramban általában kevés az üresjárat, hála a már meglévő ügyfeleimnek, örömmel beszélgetnék egyet, hátha mégis belefér egy új projekt.
 
-    Feel free to contact me via e-mail, or book a spot on my calendar so we can have a chat.
+    Nyugdtan keress meg e-mailben, vagy foglalj időpontot a naptáramban.
 
-    **Important to note: currently I only translate from English to Hungarian, and I only edit texts written in Hungarian.**
+    A műfordítással és szerkesztéssel kapcsolatos tapasztalataimat [ezen az oldalon](/hu/translation-and-editing/) találod, a publikációs jegyzékemet pedig [itt](/hu/publications/).
 
-- title: "For pattern designers"
+- title: "Kötésminta-tervezőknek"
   icon: "/images/wool.png"
   button:
     enable: true
-    label: "E-mail me"
+    label: "Küldj e-mailt"
     link: "mailto:hello@adamsarpatki.com"
   secondButton:
     enable: true
-    label: "Book a slot"
-    link: "https://cal.com/adamsarpatki/tech-editing-slot"
+    label: "Foglalj időpontot"
+    link: "https://cal.com/adamsarpatki/30min"
   content: |
-    For now, I have limited availability for tech editing projects. I can usually guarantee one or two slots per week.
+    Általában heti egy-két projektet tudok vállalni.
 
-    I like planning ahead, so **please contact me in time about your project.** The earlier you contact me, the more likely I will be able to fit your design into my schedule. 😊
+    Mivel szeretek előre tervezni, kérlek, időben lépj velem kapcsolatba. Minél előbb jelentkezel, annál biztosabb, hogy bele fog férni a mintád a naptáramba. 😊
 
-    Before contacting me, [please read about my Tech Editing services](/technical-editing), if you haven't done so already.
+    Kérlek, mindenképpen olvasd el, [amit a lektori szolgáltatásaimról írtam](/hu/knitting-technical-editing/).
 
-    If this would be our first contact, **please don't book a slot**, but instead e-mail me so we can hash out the details.
+    Nyugodtan küldj e-mailt, vagy foglalj időpontot a naptáramban, hogy személyesen beszélhessük meg a részleteket.
 
 ---
 
-**For publishers and designers:** Depending on whether you're interested in working with me on a translation/editing project, or a knitting pattern, you have different options of contacting me. You can email me at [hello@adamsarpatki.com](mailto:hello@adamsarpatki.com), use the "Email me" buttons below, or even book a chat with me. I will have different timeslots available for each category, so please choose the one that best describes you.
-
-**If you just want to chat,** please use my social media channels linked in the footer. 😊
-
-*Before you contact me, make sure you familiarise yourself with my [Privacy Policy](/privacy-policy/).*
+*Before you contact me, make sure you familiarise yourself with my [Privacy Policy](/hu/privacy-policy/).*
