@@ -10,7 +10,7 @@ promo:
       
       A téma általában a kötés, a főzés, a könyvek, a videojátékok, az asztali szerepjátékok, vagy igazából bármi, amit éppen akkor érdekesnek találok.
       
-      Ingyenes, angol nyelvű, és bármikor le tudsz iratkozni róla.
+      Ingyenes, angol nyelvű, és bármikor leiratkozhatsz róla.
 
     button:
         enable: true
