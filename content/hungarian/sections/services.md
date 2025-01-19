@@ -26,7 +26,7 @@ columns:
   button:
     enable: true
     label: "További részletek"
-    link: "/hu/technical-editing/"
+    link: "/hu/knitting-technical-editing/"
   secondButton:
     enable: false
     label: ""

@@ -28,7 +28,7 @@ columns:
   button:
     enable: true
     label: "Read more"
-    link: "/technical-editing/"
+    link: "/knitting-technical-editing/"
   secondButton:
     enable: false
     label: ""
