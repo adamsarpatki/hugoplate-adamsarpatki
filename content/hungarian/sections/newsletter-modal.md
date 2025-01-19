@@ -6,7 +6,7 @@ modal:
   - title: "Yarnbound Tales"
     img: "/images/modal-header-img.jpg"
     content: |
-      Iratkozz fel havonta megjelenő hírlevelemre, hogy kötéssel, könyvekkel, főzéssel, videojátékokkal, szerepjátékokkal és más témákkal kapcsolatos cikkeket kapj tőlem angol nyelven. 
+      Iratkozz fel havonta megjelenő hírlevelemre, melyben kötéssel, könyvekkel, főzéssel, videojátékokkal, szerepjátékokkal és más témákkal kapcsolatos cikkeket szoktam küldeni. 
 
     button:
         enable: true
