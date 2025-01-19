@@ -1,6 +1,6 @@
 ---
-title: "Szaklektorálás"
-meta_title: "Szaklektorálás"
+title: "Kötésminták szaklektorálása"
+meta_title: "Kötésminták szaklektorálása"
 description: "Hogyan segítek tökéletesíteni a kötésmintáidat"
 image: false
 toc: true
@@ -23,7 +23,7 @@ A szaklektor nem készít ruhadarabot a minta alapján, hanem elméletben ellen�
 
 ## Szakmai tapasztalat
 
-**2012 óta több mint 60 regényen és novellán dolgoztam műfordítóként, és legalább 20 regényt szerkesztettem.** Emellett szakcikkeket is írtam a legkülönfélébb témákban. Rendkívül sokféle zsáner szövegével foglalkoztam már, illetve sok fordítóval és szerkesztővel együtt dolgoztam. (A korrektorokról, a tördelőkről és a borítótervezőkről nem is beszélve.)
+**2012 óta több mint 60 regényen és novellán dolgoztam műfordítóként, és legalább 20 regényt szerkesztettem.** Emellett szakcikkeket is írtam a legkülönfélébb témákban. Sokféle zsáner szövegével foglalkoztam már, illetve sok fordítóval és szerkesztővel együtt dolgoztam. (A korrektorokról, a tördelőkről és a borítótervezőkről nem is beszélve.)
 
 [A publikációs jegyzékem](/hu/publications) tartalmazza megjelent műveim teljes listáját.
 
@@ -35,11 +35,11 @@ Emellett rengeteget kötök, imádok új technikákat megtanulni, új mintákat 
 
 Tudom, mennyire félelmetes érzés odaadni valakinek valamit, amin szívvel-lélekkel dolgoztunk. Mindig ugyanezt érzem, ha ismeretlen szerkesztő nyúl hozzá valamelyik fordításomhoz.
 
-Amikor én szerkesztem vagy lektorálom valaki más munkáját, pontosan ezért igyekszem biztonságos és barátságos közeget teremteni, és nem ítélkezni feletted, ha hibát vétettél – hiszen a hibák csupán megoldásra váró problémák. Végső soron senkinek sem kell tudnia róluk.
+Amikor én szerkesztem vagy lektorálom valaki más munkáját, igyekszem biztonságos és barátságos közeget teremteni, és nem ítélkezni feletted, ha hibát vétettél – hiszen a hibák csupán megoldásra váró problémák. Végső soron senkinek sem kell tudnia róluk.
 
 És bár lehet, hogy kiemelem a szövegben lévő hibákat, vagy javaslatokat teszek arra, *szerintem* hogyan lenne érdemes kijavítani őket, **a végső döntés mindig, de mindig a tiéd.** Közösen fogunk dolgozni, de a minta örökre a tiéd marad. Valamivel jogászosabban fogalmazva: a minta mindig a te szellemi tulajdonod lesz.
 
-Az én dolgom az, hogy a mintád a lehető legtökéletesebb legyen, és hogy az odáig vezető folyamat minél zökkenőmentesebben haladjon.
+Az én dolgom az, hogy a mintád a lehető legjobb legyen, és hogy az odáig vezető folyamat minél zökkenőmentesebben haladjon.
 
 ## A szolgáltatásaim
 
@@ -49,7 +49,7 @@ Az én dolgom az, hogy a mintád a lehető legtökéletesebb legyen, és hogy az
 
 {{< /highlight >}}
   
-Technikák, amelyek kifejezetten érdekelnek: Fair Isle, csavart mintás kötés, brioche (amit láttam már mackókötés és turbánkötés fordításban is).
+**Technikák, amelyek kifejezetten érdekelnek:** Fair Isle, csavart mintás kötés, brioche (amit láttam már mackókötés és turbánkötés fordításban is).
 
 A kötésmintád lektoraként figyelem, hogy minden egységes-e, mindent jól számoltál-e, de szerkesztem a szöveget is: javítom a helyesírási és nyelvhelyességi hibákat, valamint az elírásokat.
 
@@ -67,15 +67,15 @@ Részletesebben: ellenőrzöm a helyesírást, a nyelvhelyességet, a stílust, 
 
 {{< highlight >}}
 
-**A jelenlegi órabérem 13.500 Ft / €35 (+ áfa, ha egyszer szükség lesz rá).** Ez három környi lektorálást jelent, illetve a megjelenés előtti utolsó átnézést.
+**A jelenlegi órabérem 13.500 Ft / €35.** Ez három környi lektorálást jelent, illetve a megjelenés előtti utolsó átnézést.
 
-Amikor kapcsolatba lépsz velem, megadom az óraszámot, amennyit nagyjából a munka igényelni fog, hogy tudd, mire számíts.
-
-Kis, egyszerű darabokhoz 2-3 órára, míg nagyobb, bonyolultabb mintákhoz 4-5 órára is szükség lehet. Ha a mintádhoz bármilyen kutatást el kell végeznem pl. egy adott technikával kapcsolatban, az azzal töltött időt nem számolom fel.
+**Az első két mintádra 25% kedvezményt kapsz az órabéremből!** (Az ajánlat visszavonásig érvényes.)
 
 {{< /highlight >}}
 
-Ha készen állsz, kérlek, olvasd el az alábbiakban a folyamat menetét.
+Amikor kapcsolatba lépsz velem, küldök árajánlatot, hogy tudd, nagyjából mire számíts.
+
+Kis, egyszerű darabokhoz 2-3 órára, míg nagyobb, bonyolultabb mintákhoz 4-5 órára is szükség lehet. Ha a mintádhoz bármilyen kutatást el kell végeznem pl. egy adott technikával kapcsolatban, az azzal töltött időt nem számolom fel.
 
 <!-- Button -->
 <div class="flex flex-col items-center mb-20 text-center">
@@ -85,7 +85,7 @@ Ha készen állsz, kérlek, olvasd el az alábbiakban a folyamat menetét.
 
 ## A folyamat
 
-Az alábbiakban felvázolom a tökéletes folyamatot, de vannak bizonyos üzleti titoknak minősülő részletek, amelyekről itt nem tájékoztatlak.
+Az alábbiakban felvázolom az ideális folyamatot, de vannak bizonyos üzleti titoknak minősülő részletek, amelyekről az első e-mailemben foglak tájékoztatni.
 
 **1. lépés** – Felkeresel, hogy tudok-e most új ügyfelet vállalni. Kérlek, ha tudod, mellékeld a leveledben az alábbiakat:
 
@@ -95,7 +95,7 @@ Az alábbiakban felvázolom a tökéletes folyamatot, de vannak bizonyos üzleti
 - Mikorra küldenéd el nekem a lektorálandó mintát.
 - Mi lenne a határidő, amikorra legkésőbb el kellene készülnöm.
 - Járt-e már tesztkötőknél a mintád vagy sem.
-- Van-e olyan része a mintának, amire kifejezetten figyelnem kellene, vagy van-e olyan, amivel inkább ne is vesződjek. (Pl. ha a Stitchmastery nevű szoftverrel készítetted a mintarajzot, és az írott instrukciókat is abból exportáltad, akkor az valószínűleg hibátlan.)
+- Van-e olyan része a mintának, amire kifejezetten figyelnem kellene, vagy van-e olyan, amivel inkább ne is vesződjek.
 
 **2. lépés** – A válaszomban megírom, vállalom-e a munkát, mennyi idő alatt készülnék el vele (általában 5-7 nap), mennyi munkaórával számolok, és mennyi lenne ez alapján a munkadíjam. Emellett átküldöm a szerződéstervezetemet is a részletes feltételeimmel. (Ezeket szívesen át is beszélem veled.) Általában 24-48 órán belül válaszolok, kivéve hétvégéken és ünnepnapokon. Ha ennél lassabb válaszadásra lehet számítani, mindig állítok be automatikus válaszlevelet.
 

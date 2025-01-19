@@ -1,6 +1,6 @@
 ---
-title: "Technical Editing"
-meta_title: "Technical Editing"
+title: "Knitting Technical Editing"
+meta_title: "Knitting Technical Editing"
 description: "How I help you create the best patterns possible"
 image: false
 toc: true
@@ -69,13 +69,13 @@ This means that I will check: spelling, grammar, use of style, written instructi
 
 **My hourly editing fee is €35** (+ VAT if applicable). It includes three rounds of editing, and a final check.
 
-When you contact me, I will give you an estimated time-range, so you'll know what to expect.
-
-Small, simple items might need 2-3 hours, while larger, more complicated designs could require 4-5 hours to edit.
+**For the first two patterns I edit for you, you'll receive a 25% discount.** (This offer is subject to change.)
 
 {{< /highlight >}}
 
-When you're ready to jump right in, please read the details below carefully.
+When you contact me, I will give you an estimated time-range, so you'll know what to expect.
+
+Small, simple items might need 2-3 hours, while larger, more complicated designs could require 4-5 hours to edit.
 
 <!-- Button -->
 <div class="flex flex-col items-center mb-20 text-center">
@@ -85,23 +85,17 @@ When you're ready to jump right in, please read the details below carefully.
 
 ## The process
 
-The following outlines the ideal process, but I don't disclose every detail here that could be considered business information.
+The following outlines the ideal process, but I don't disclose every detail here that could be considered business information. However, they will be in my first e-mail to you.
   
 **Step 1.** — You [contact me](/contact) for availability. Please include the following files and info, if you have them:
 
 - Your pattern, even if it's not yet the version you want edited. You can send me a PDF, but a Word file or a Pages file is good as well. (See FAQ for more on this.)
-
 - Some photos of the finished item, so I can check if the pattern would produce the item or not. These images don't have to be fancy, I just need to see details like the ribbing, the stitch pattern, the general shape etc.
-
 - Your style sheet if you have one.
-
 - The date by which you would send me the version to be edited.
-
 - Your deadline if you already have one.
-
 - Whether your pattern has already been test knitted or not.
-
-- Whether there are parts of your pattern I should pay extra attention to, or if there are any parts I shouldn't bother with (e.g. if the pattern has a chart, and you exported the written instructions from Stitchmastery, they likely won't need to be checked).
+- Whether there are parts of your pattern I should pay extra attention to, or if there are any parts I shouldn't bother with.
 
 **Step 2.** — In my response, I will let you know if I can take on the pattern or not, about my turnaround time (usually 5-7 days), the estimated hours the project will require, and my estimated fee. I usually answer within 24-48 hours, except on weekends and holidays, and have an auto-reply set up if I'm away for more time than that. I will also send you my agreement, so you can check my terms.
 
