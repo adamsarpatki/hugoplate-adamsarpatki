@@ -16,4 +16,4 @@ columns:
 
 ---
 
-This is a list of the knitting patterns I've tech edited. You can also find the list [in my Ravelry bundle](https://ravel.me/adamsarpatki/mte). If you'd like to work together on one of your knitting patterns, [check out my process](/technical-editing/), then [contact me for a free quote](/contact/).
+Ez az általam lektorált kötésminták listája. Ugyanezt a listát [a Ravelry bundle-ömben is megtalálhatod](https://ravel.me/adamsarpatki/mte). Ha szeretnél velem dolgozni a kötésmintáidon, kérlek, [olvasd el az alábbi oldalt](/hu/knitting-technical-editing/), aztán [kérj tőlem ingyenes árajánlatot](/hu/contact/).

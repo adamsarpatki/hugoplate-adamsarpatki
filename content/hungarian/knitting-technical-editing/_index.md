@@ -1,6 +1,6 @@
 ---
-title: "Kötésminták szaklektorálása"
-meta_title: "Kötésminták szaklektorálása"
+title: "Kötésminták lektorálása"
+meta_title: "Kötésminták lektorálása"
 description: "Hogyan segítek tökéletesíteni a kötésmintáidat"
 image: false
 toc: true

@@ -168,4 +168,6 @@ columns:
   pattern_link: "https://www.ravelry.com/projects/adamsarpatki/one-row-handspun-scarf"
 ---
 
-This is a list of the knitting projects I've finished. For a current list of my projects, [see my Ravelry profile](https://www.ravelry.com/people/adamsarpatki). If you'd like to work together on one of your knitting patterns, [check out my process](/technical-editing/), then [contact me for a free quote](/contact/). For my tech editing portfolio, [see this page on my website](/te-portfolio/).
+Ez az általam befejezett kötött holmik listája. Ha a folyamatban lévő projektjeimre lennél kíváncsi, [pillants rá a Ravelry-profilomra](https://www.ravelry.com/people/adamsarpatki). Ha szeretnél velem dolgozni a kötésmintáidon, kérlek, [olvasd el az alábbi oldalt](/hu/knitting-technical-editing/), aztán [kérj tőlem ingyenes árajánlatot](/hu/contact/).
+
+Az általam lektorált kötésminták listáját [az alábbi oldalon találod](/hu/te-portfolio/).
