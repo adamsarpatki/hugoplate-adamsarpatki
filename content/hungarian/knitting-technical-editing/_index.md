@@ -25,11 +25,15 @@ A szaklektor nem készít ruhadarabot a minta alapján, hanem elméletben ellen�
 
 **2012 óta több mint 60 regényen és novellán dolgoztam műfordítóként, és legalább 20 regényt szerkesztettem.** Emellett szakcikkeket is írtam a legkülönfélébb témákban. Sokféle zsáner szövegével foglalkoztam már, illetve sok fordítóval és szerkesztővel együtt dolgoztam. (A korrektorokról, a tördelőkről és a borítótervezőkről nem is beszélve.)
 
-[A publikációs jegyzékem](/hu/publications) tartalmazza megjelent műveim teljes listáját.
-
 **2024-ben elvégeztem a [The Tech Editor Hub](https://www.thetecheditorhub.com/) által kínált, kötésmintákra specializálódó szaklektori képzést.** Joeli fantasztikus tanár volt, aki sokat tanított nekem a szaklektorálás módszereiről, illetve a tervezőkkel való munka szempontjairól. Később, mivel másféle megközelítésben tanítják a témát, a neves [The Knitting Guild Association (TKGA) tanúsítványt is nyújtó képzésébe](https://tkga.org/certification-for-technical-editors/) is belekezdtem.
 
 Emellett rengeteget kötök, imádok új technikákat megtanulni, új mintákat kipróbálni. Ha pedig valami nem ismerős, akkor máris könyvtáros-üzemmódba kapcsolok, és elkezdek kutatni.
+
+{{< highlight >}}
+
+[A publikációs jegyzékem](/hu/publications) tartalmazza a megjelent műveim teljes listáját, [a portfólióm](/hu/te-portfolio) pedig az általam lektorált kötésmintákét. A magánprojektjeim oldalán pedig a [már befejezett kötéseimet](/hu/my-knitting-projects/) találod meg.
+
+{{< /highlight >}}
 
 ## Alapelveim
 
