@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Ezért dolgozz velem"
-description: "A szakértelmem így segíti majd elő az együttműködésünket"
+description: "A hozzáállásom így segíti majd az együttműködésünket"
 
 # Expertise
 expertise:

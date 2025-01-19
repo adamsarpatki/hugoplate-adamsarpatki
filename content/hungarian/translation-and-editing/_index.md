@@ -9,7 +9,7 @@ draft: false
 
 ## Szakmai tapasztalat
 
-Az egyetemen, 2011 és 2012 között, részt vettem Hetényi Zsuzsa műfordítói műhelyében, ahol mindannyian lehetőséget kaptunk rá, hogy fordítóként és szerkesztőként is foglalkozzunk egy-egy szöveggel. Az év végén ezeket aztán kiadtuk két antológiában, amelyekre még mindig nagyon büszke vagyok – én Sir Terry Pratchett két novelláján dolgoztam, ezekkel kezdtem műfordítói pályámat.
+Az egyetemen, 2011 és 2012 között részt vettem Hetényi Zsuzsa műfordítói műhelyében, ahol mindannyian lehetőséget kaptunk rá, hogy fordítóként és szerkesztőként is foglalkozzunk egy-egy szöveggel. Az év végén ezeket aztán kiadtuk két antológiában, amelyekre még mindig nagyon büszke vagyok. Sir Terry Pratchett két novellájával és Edgar Allan Poe egyik esszéjével kezdtem műfordítói pályámat.
 
 Azóta folyamatosan tökéletesítem a készségeimet az [Agave Könyvek](https://agavekonyvek.hu/), a [Fumax](https://fumax.hu/), az [Anassa](https://www.facebook.com/anassakonyvek/), a [GABO](https://gabo.hu/), és a [Delta Vision](https://www.deltavision.hu/), vagyis a spekulatív fikciós műfaj legnagyobb magyar kiadóinak végzett munkáimmal. Kollégáim jól tudják, hogy biztos kézzel nyúlok a legkülönfélébb szövegekhez, ennek köszönhetően már a műfaj számos fontos alakjának – például Brandon Sanderson, Robin Hobb, Shelley Parker-Chan, John Scalzi, Jenn Lyons, Scott Lynch, R. F. Kuang és Christopher Buehlman – műveit fordítottam vagy szerkesztettem.
 
@@ -23,7 +23,7 @@ A teljes listát [a publikációs jegyzékem](/hu/publications) tartalmazza.
 
 **A fordítás számomra olyan, mintha én is egy mű szerzőjévé válnék.** Hiszek benne, hogy a fordító befolyása elválaszthatatlan a műtől, és a teljesítménye lehet az adott irodalmi alkotás sikerének vagy bukásának kulcsa. Ez pedig hatalmas felelősséggel jár, amit nem szabad félvállról venni.
 
-Míg a szerzők teljes kreatív szabadsággal rendelkeznek, a fordítóknak hűen át kell adniuk az eredeti művet egy másik nyelven. Ahhoz, hogy ezt elérjék, elsődleges fontosságú a pontosság. Egy fordítónak alaposan ismernie kell a forrásnyelv nyelvtanát, szavait és kifejezéseit, ezzel együtt pedig a saját anyanyelvét is mesterien kell tudnia használni, hogy megfogalmazhassa a szerző szavait.
+Míg a szerzők teljes kreatív szabadsággal rendelkeznek, addig a fordítónak hűen át kell adnia az eredeti művet egy másik nyelven. Ahhoz, hogy ezt elérje, szerintem elsődleges fontosságú a pontosság. A fordítónak alaposan ismernie kell a forrásnyelv nyelvtanát, szavait és kifejezéseit, ezzel együtt pedig a saját anyanyelvét is mesterien kell tudnia használni.
 
 A műfordítás azonban nem egyszerűen a pontosságról szól. Egy fordítónak közvetítenie kell az olvasóknak a szerző stílusát és a műve hangulatát is, ami gyakran nagy kihívást jelenthet, ha a szerző és a fordító stílusa sokban különbözik.
 

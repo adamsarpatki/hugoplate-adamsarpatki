@@ -22,7 +22,7 @@ eras:
       
       Mindig lenyűgöztek a könyvtárak és a könyvtárosok, ezért aztán kicsit sem meglepő, hogy az Eötvös Loránd Tudományegyetem Könyvtár- és Információtudományi Intézetének informatikus könyvtáros szakán végeztem, vagyis könyvtárosként. Bölcs és csodálatra méltó bagollyá akartam válni, akinek a világ minden titka a rendelkezésére áll.
       
-      Az egyetem elvégzése után két kifejezetten neves könyvtárban dolgoztam, először a feldolgozáson, aztán az olvasószolgálaton. És bár sosem váltam bölcs és csodálatra méltó bagollyá, főleg nem 27 évesen, mindkettő izgalmas lehetőség volt, sok nagyszerű embert megismertem, például az egyik legjobb barátomat is. Munka mellett pedig spekulatív fikcióval kapcsolatos cikkeket írtam az [SFmag](https://sfmag.hu/) nevű online magazinnak.
+      Az egyetem elvégzése után két neves könyvtárban dolgoztam, először a feldolgozáson, aztán az olvasószolgálaton. És bár sosem váltam bölcs és csodálatra méltó bagollyá, főleg nem 27 évesen, mindkettő izgalmas lehetőség volt. Sok nagyszerű embert megismertem, például az egyik legjobb barátomat is. Munka mellett pedig spekulatív fikcióval kapcsolatos cikkeket írtam az [SFmag](https://sfmag.hu/) nevű online magazinnak.
 
   - title: "2016-2018"
     image: "/images/konyvfeszt_2017.jpg"
@@ -37,9 +37,9 @@ eras:
         Brandon Sanderson: *A Megdicsőülés Kútja*  
         (Kopócs Éva és Matolcsy Kálmán fordítása)
     long_text: |
-      Mindig lenyűgöztek a könyvek. Kamaszként író akartam lenni – gimiben volt is egy íróklubunk (az Apokalipszis Amatőr Íróklub), ahol elolvastuk egymás műveit, aztán elmondtuk róla a véleményünket. Ekkor kezdett el először érdekelni a szerkesztés és a fordítás is. Az egészért Tóth Tamás Boldizsárt, a Harry Potter könyvek fordítóját okolom. 1999 és 2008 között minden tekintetben nagy hatást gyakorolt rám a sorozat, függetlenül attól, azóta miként változott a szerző megítélése.
+      Mindig lenyűgöztek a könyvek. Kamaszként író akartam lenni – gimiben volt is egy íróklubunk (az Apokalipszis Amatőr Íróklub). Ekkor kezdett el először érdekelni a szerkesztés és a fordítás is. Az egészért Tóth Tamás Boldizsárt, a Harry Potter könyvek fordítóját okolom. 1999 és 2008 között minden tekintetben nagy hatást gyakorolt rám a sorozat, függetlenül attól, azóta miként változott a szerző megítélése.
       
-      Az egyetemen – 2011 és 2012 között – részt vettem egy műfordítói műhelyben, ahol mindannyian lehetőséget kaptunk rá, hogy fordítóként és szerkesztőként is foglalkozzunk egy-egy szöveggel. Az év végén ezeket a szövegeket aztán kiadtuk két antológiában, amire még mindig nagyon büszke vagyok – én Sir Terry Pratchett két novelláján dolgoztam, ezekkel kezdtem műfordítói pályámat.
+      Az egyetemen – 2011 és 2012 között – részt vettem egy műfordítói műhelyben, ahol mindannyian lehetőséget kaptunk rá, hogy fordítóként és szerkesztőként is foglalkozzunk egy-egy szöveggel. Az év végén ezeket a szövegeket aztán kiadtuk két antológiában, amelyekre még mindig nagyon büszke vagyok. Sir Terry Pratchett két novellájával és Edgar Allan Poe egyik esszéjével kezdtem műfordítói pályámat.
       
       2016-ra lefordítottam már néhány novellát és rövidebb regényt, és elkezdtem dolgozni egy kiadónak, amely főleg fantasy- és sci-fi műveket ad ki. Mindezt természetesen a szabadidőmben, mert addigra egy jól ismert magyar kiadócsoportnál kaptam állást. Ez idő alatt például megtanultam kezelni a határidőket (megfelelően meghatározni és aztán be is tartani őket), illetve egészséges korlátot szabni a munkának.
 
@@ -73,7 +73,7 @@ eras:
     long_text: |
       Mostanában új hobbikkal próbálkozom.
       
-      A UX/UI designnal folytatott afférom rövid ideig tartott, bár egyszer örömmel visszatérnék hozzá. Elkezdtem fantasytérképeket rajzolni, kezdetben a saját otthoni D&D játékunkhoz, de most [már blogom is van](https://flightlessmanticore.com/), sőt [YouTube-csatornám is](https://www.youtube.com/@flightless.manticore) – a neve *The Flightless Manticore,* ami magyarra pontosan lefordítva nem olyan jó („a röpképtelen mantikór”). Arra utal, amikor egy játék során elfelejtettem, hogy a mantikórnak szárnya is van, és csodálkoztam, amikor *nagyon gyorsan* legyőzték a többiek.
+      A UX/UI designnal folytatott afférom rövid ideig tartott, bár egyszer örömmel visszatérnék hozzá. Elkezdtem fantasytérképeket rajzolni, először a saját otthoni D&D játékunkhoz, de [már blogom](https://flightlessmanticore.com/), sőt [YouTube-csatornám is](https://www.youtube.com/@flightless.manticore) van – a neve *The Flightless Manticore,* ami magyarra pontosan lefordítva nem olyan jó („a röpképtelen mantikór”). Arra utal, amikor egy játék során elfelejtettem, hogy a mantikórnak szárnya is van, és csodálkoztam, amikor *nagyon gyorsan* legyőzték a többiek.
       
       2021 végén aztán elkezdtem kötni. Egyszerűen ki kellett próbálnom. És azóta abba se hagytam. Nem szokatlan számomra az otthon készült ruhák gondolata (édesapám szabómester), ám mivel a varrógépeket egyelőre ijesztőnek találom, a kötés sokkal megnyugtatóbb opció.
       

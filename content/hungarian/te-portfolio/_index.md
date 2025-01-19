@@ -1,6 +1,6 @@
 ---
-title: "Lektorált mintáim"
-meta_title: "Lektorált mintáim"
+title: "Portfólió"
+meta_title: "Portfólió"
 description: "Frissítve: 2024-10-10"
 draft: false
 
