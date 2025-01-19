@@ -8,13 +8,25 @@ weight = 1
 
 [[main]]
 name = "About Me"
-url = "about/"
+url = "/about/"
 weight = 2
 
 [[main]]
-name = "Translation & Editing"
-url = "translation-and-editing/"
+name = "Literary Work"
 weight = 3
+
+[[main]]
+parent = "Literary Work"
+name = "Translation & Editing"
+url = "/translation-and-editing/"
+weight = 1
+
+[[main]]
+parent = "Literary Work"
+name = "Publications"
+url = "/publications/"
+weight = 2
+
 
 [[main]]
 name = "Technical Editing"
@@ -22,26 +34,22 @@ weight = 4
 
 [[main]]
 parent = "Technical Editing"
-name = "Info"
-url = "technical-editing/"
+name = "Knitting Technical Editing"
+url = "/knitting-technical-editing/"
 weight = 1
 
 [[main]]
 parent = "Technical Editing"
 name = "Portfolio"
-url = "te-portfolio/"
+url = "/te-portfolio/"
 weight = 2
 
 [[main]]
 parent = "Technical Editing"
 name = "My Knitting Projects"
-url = "my-knitting-projects/"
+url = "/my-knitting-projects/"
 weight = 3
 
-[[main]]
-name = "Publications"
-url = "publications/"
-weight = 5
 
 
 
@@ -54,32 +62,32 @@ weight = 1
 
 [[footer]]
 name = "About Me"
-url = "about/"
+url = "/about/"
 weight = 2
 
 [[footer]]
 name = "Translation & Editing"
-url = "translation-and-editing/"
+url = "/translation-and-editing/"
 weight = 3
 
 [[footer]]
 name = "Technical Editing"
-url = "technical-editing/"
+url = "/knitting-technical-editing/"
 weight = 4
 
 [[footer]]
 name = "Publications"
-url = "publications/"
+url = "/publications/"
 weight = 5
 
 [[footer]]
 name = "Portfolio"
-url = "te-portfolio/"
+url = "/te-portfolio/"
 weight = 6
 
 [[footer]]
 name = "My Knitting Projects"
-url = "my-knitting-projects/"
+url = "/my-knitting-projects/"
 weight = 7
 
 [[footer]]
@@ -89,10 +97,10 @@ weight = 8
 
 [[footer]]
 name = "Privacy Policy"
-url = "privacy-policy/"
+url = "/privacy-policy/"
 weight = 9
 
 [[footer]]
 name = "Impressum"
-url = "impressum/"
+url = "/impressum/"
 weight = 10

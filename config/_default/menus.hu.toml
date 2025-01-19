@@ -12,9 +12,20 @@ url = "/hu/about/"
 weight = 2
 
 [[main]]
-name = "Műfordítás & szerkesztés"
-url = "/hu/translation-and-editing/"
+name = "Irodalmi munkásság"
 weight = 3
+
+[[main]]
+parent = "Irodalmi munkásság"
+name = "Műfordítás és szerkesztés"
+url = "/hu/translation-and-editing/"
+weight = 1
+
+[[main]]
+parent = "Irodalmi munkásság"
+name = "Publikációk"
+url = "/hu/publications/"
+weight = 2
 
 [[main]]
 name = "Szaklektorálás"
@@ -22,13 +33,13 @@ weight = 4
 
 [[main]]
 parent = "Szaklektorálás"
-name = "Info"
-url = "/hu/technical-editing/"
+name = "Kötésminták lektorálása"
+url = "/hu/knitting-technical-editing/"
 weight = 1
 
 [[main]]
 parent = "Szaklektorálás"
-name = "Lektorált mintáim"
+name = "Portfólió"
 url = "/hu/te-portfolio/"
 weight = 2
 
@@ -37,12 +48,6 @@ parent = "Szaklektorálás"
 name = "Magánprojektjeim"
 url = "/hu/my-knitting-projects/"
 weight = 3
-
-[[main]]
-name = "Publikációk"
-url = "/hu/publications/"
-weight = 5
-
 
 
 # footer menu
@@ -63,8 +68,8 @@ url = "/hu/translation-and-editing/"
 weight = 3
 
 [[footer]]
-name = "Szakmai lektorálás"
-url = "/hu/technical-editing/"
+name = "Kötésminták lektorálása"
+url = "/hu/knitting-technical-editing/"
 weight = 4
 
 [[footer]]
