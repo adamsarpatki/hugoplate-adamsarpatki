@@ -36,7 +36,7 @@ weight = 2
   [languages.hu.params]
     logo_text = "Sárpátki Ádám"
     copyright = "2025 © Sárpátki Ádám. Minden jog fenntartva."
-
+    navigation_button.label = "Kapcsolat"
 
 ########################### Sitemap #############################
 [sitemap]
