@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Hi, I'm Ádám Sárpátki,"
-  phonetics: "[ʃaːɾpaːtki]"
+  subtitle: "[ʃaːɾpaːtki]"
   intro: | 
     a [literary translator and editor](/translation-and-editing/), mainly working in the fantasy and science fiction genres, but I have experience with YA fiction, non-fiction and popular science books as well.
 
