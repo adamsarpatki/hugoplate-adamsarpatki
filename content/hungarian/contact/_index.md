@@ -16,7 +16,7 @@ columns:
     label: "Foglalj időpontot"
     link: "https://cal.com/adamsarpatki/30min"
   content: |
-    A naptáramban általában kevés az üresjárat, hála a már meglévő ügyfeleimnek, örömmel beszélgetnék egyet, hátha mégis belefér egy új projekt.
+    A naptáramban általában kevés az üresjárat, hála a már meglévő ügyfeleimnek, viszont örömmel beszélgetnék egyet, hátha mégis belefér egy új projekt.
 
     Nyugdtan keress meg e-mailben, vagy foglalj időpontot a naptáramban.
 
@@ -43,4 +43,4 @@ columns:
 
 ---
 
-*Before you contact me, make sure you familiarise yourself with my [Privacy Policy](/hu/privacy-policy/).*
+*Mielőtt még kapcsolatba lépnél velem, kérlek, ismerkedj meg az [Adatkezelési tájékoztatómmal](/hu/privacy-policy/).*
