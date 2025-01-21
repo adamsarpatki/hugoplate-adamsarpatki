@@ -39,7 +39,7 @@ Szerintem a legjobbak megfelelő érzékenységgel állnak a munkájukhoz. Megé
 
 {{< highlight >}}
 
-**Jelenleg csak angolról magyarra fordítok, és csak angolból fordított műveket szerkesztek. Kötésminták szerkesztésével és lektorálásával is foglalkozom, erről [a megfelelő oldalon](/hu/technical-editing) találhatók információk.**
+**Jelenleg csak angolról magyarra fordítok, és csak angolból fordított műveket szerkesztek. Kötésminták szerkesztésével és lektorálásával is foglalkozom, erről [a megfelelő oldalon](/hu/knitting-technical-editing) találhatók információk.**
 
 {{< /highlight >}}
 
