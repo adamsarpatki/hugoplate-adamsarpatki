@@ -71,13 +71,13 @@ url = "/translation-and-editing/"
 weight = 3
 
 [[footer]]
-name = "Technical Editing"
-url = "/knitting-technical-editing/"
+name = "Publications"
+url = "/publications/"
 weight = 4
 
 [[footer]]
-name = "Publications"
-url = "/publications/"
+name = "Knitting Technical Editing"
+url = "/knitting-technical-editing/"
 weight = 5
 
 [[footer]]
