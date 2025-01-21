@@ -35,7 +35,7 @@ columns:
   content: |
     Általában heti egy-két projektet tudok vállalni.
 
-    Mivel szeretek előre tervezni, kérlek, időben lépj velem kapcsolatba. Minél előbb jelentkezel, annál biztosabb, hogy bele fog férni a mintád a naptáramba. 😊
+    Mivel szeretek előre tervezni, kérlek, időben lépj velem kapcsolatba. Minél előbb jelentkezel, annál biztosabb, hogy bele fog férni a mintád. 😊
 
     Kérlek, mindenképpen olvasd el, [amit a lektori szolgáltatásaimról írtam](/hu/knitting-technical-editing/).
 
@@ -43,4 +43,4 @@ columns:
 
 ---
 
-*Mielőtt még kapcsolatba lépnél velem, kérlek, ismerkedj meg az [Adatkezelési tájékoztatómmal](/hu/privacy-policy/).*
+*Mielőtt kapcsolatba lépsz velem, kérlek, ismerkedj meg az [Adatkezelési tájékoztatómmal](/hu/privacy-policy/).*
