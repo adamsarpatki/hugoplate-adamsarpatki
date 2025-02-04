@@ -105,6 +105,10 @@ h6 {
   @apply rounded-lg md:w-2/5 xl:w-1/4 bg-white dark:bg-darkmode-theme-light border p-10 border-indigo-100;
 }
 
+.narrow-content-box p {
+  @apply m-0 mb-4 leading-relaxed;
+}
+
 .portfolio-box {
   @apply rounded-lg md:w-2/5 xl:w-1/4 bg-white dark:bg-darkmode-theme-light border border-indigo-100;
 }
