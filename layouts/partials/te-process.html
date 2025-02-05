@@ -14,9 +14,9 @@
         </div>
     </div>
 
-    <div class="container flex flex-row flex-wrap justify-center gap-x-8 gap-y-8">
+    <div class="container flex flex-row flex-wrap justify-between gap-x-8 gap-y-8">
         {{ range .Params.process }}
-          <div class="flex flex-col items-center text-left narrow-content-box gap-y-4">
+          <div class="flex flex-col items-center flex-grow text-left narrow-content-box gap-y-4">
             <div class="text-dark dark:text-white">
               {{ partial "image" (dict "Src" .icon "Size" "50x50" "Class" "" "Alt" .process_step) }}
             </div>
