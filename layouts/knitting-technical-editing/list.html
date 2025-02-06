@@ -1,37 +1,44 @@
 {{ define "main" }}
 {{ partial "page-header" . }}
-
-
-<section class="pt-10 section-sm xl:pt-0 light-bg">
+<section class="pt-10 xl:pt-0 light-bg">
   <div class="container">
     <div class="justify-center row ">
       <div class="text-left md:col-10 lg:col-7">
         <div class="content">{{ .Content }}</div>
-
-        
       </div>
-
-      <!-- TE basics -->
-      {{ partial "te-basics.html" . }}
-      <!-- /TE basics -->
-
-      <!-- TE services -->
-      {{ partial "te-services.html" . }}
-      <!-- /TE services -->
-
-      <!-- TE process -->
-      {{ partial "te-process.html" . }}
-      <!-- /TE process -->
-      
-      <!-- FAQ -->
-      {{ partial "te-faq.html" . }}
-      <!-- /FAQ -->
-
-      <!-- TE testimonials -->
-      {{ partial "testimonials.html" . }}
-      <!-- /TE testimonials -->
-
     </div>
   </div>
 </section>
+
+<!-- TE basics -->
+{{ partial "te-basics.html" . }}
+<!-- /TE basics -->
+
+<!-- Shape divider -->
+{{ partial "components/shape-divider-light.html" . }}
+<!-- /Shape divider -->
+
+<!-- TE services -->
+{{ partial "te-services.html" . }}
+<!-- /TE services -->
+
+<!-- Shape divider -->
+{{ partial "components/shape-divider-dark.html" . }}
+<!-- /Shape divider -->
+
+<!-- TE process -->
+{{ partial "te-process.html" . }}
+<!-- /TE process -->
+
+<!-- FAQ -->
+{{ partial "te-faq.html" . }}
+<!-- /FAQ -->
+
+<!-- Shape divider -->
+{{ partial "components/shape-divider-dark.html" . }}
+<!-- /Shape divider -->
+
+<!-- TE testimonials -->
+{{ partial "testimonials.html" . }}
+<!-- /TE testimonials -->
 {{ end }}
