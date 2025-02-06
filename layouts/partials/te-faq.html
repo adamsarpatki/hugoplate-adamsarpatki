@@ -18,7 +18,7 @@
         <div class="container pb-10">
           <div class="justify-center row ">
             <div class="text-center md:col-10 lg:col-7">
-              <div class="content">{{ .Content }}</div>
+              <div class="content">{{ .Content | markdownify }}</div>
             </div>
           </div>
         </div>
