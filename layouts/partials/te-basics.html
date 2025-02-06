@@ -1,0 +1,15 @@
+{{ with site.GetPage "sections/te-basics" }}
+{{ if .Params.enable }}
+
+<section class="pt-10 section-sm light-bg xl:pt-0">
+    <div class="container pb-10">
+        <div class="justify-center row ">
+            <div class="text-left md:col-10 lg:col-7">
+                <div class="content">{{ .Content | markdownify }}</div>
+            </div>
+        </div>
+    </div>
+
+</section>
+{{ end }}
+{{ end }}
