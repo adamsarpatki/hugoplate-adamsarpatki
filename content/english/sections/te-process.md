@@ -47,6 +47,11 @@ process:
       
       This step is free if no changes are needed or if they take less than 30 minutes.
 
+button:
+  enable: true
+  content: "Are you ready to dive in?"
+  label: "Contact me for a free quote!"
+  link: "mailto:hello@adamsarpatki.com"
 
 # don't create a separate page
 _build:

@@ -25,4 +25,10 @@ services:
         When you contact me, I will give you an estimated time-range, so you'll know what to expect.
 
         Small, simple items might need 2-3 hours, while larger, more complicated designs could require 4-5 hours to edit.
+    
+button:
+  enable: true
+  content: "If you're still unsure about some things, I would be happy to answer your questions."
+  label: "I have a question"
+  link: "mailto:hello@adamsarpatki.com"
 ---

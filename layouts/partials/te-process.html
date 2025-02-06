@@ -14,7 +14,7 @@
         </div>
     </div>
 
-    <div class="container flex flex-row flex-wrap justify-between gap-x-8 gap-y-8">
+    <div class="container flex flex-row flex-wrap justify-between mb-10 gap-x-8 gap-y-8">
         {{ range .Params.process }}
           <div class="flex flex-col items-center flex-grow text-left narrow-content-box gap-y-4">
             <div class="text-dark dark:text-white">
@@ -34,6 +34,10 @@
         </div>
         {{ end }}
       </div>
+      {{ if .Params.button.enable }}
+      {{ partial "components/CTA-button.html" (dict "content" .Params.button.content "label" .Params.button.label "link"
+      .Params.button.link) }}
+      {{ end }}
     </section>
     {{ end }}
     {{ end }}
