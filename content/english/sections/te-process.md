@@ -15,7 +15,7 @@ process:
   - process_step: "Step 2/6"
     icon: "/images/fast-time.png"
     content: |
-      I let you know whether I can take on the pattern. My response will include my turnaround time (usually 5-7 days), the estimated hours the project will require, my estimated fee, and my contract.
+      I let you know whether I can take on the pattern or project. My response will include my turnaround time (usually 5-7 days), the estimated hours the project will require, my estimated fee, and my contract.
       
       I usually respond within 24–48 hours, except on weekends and holidays, and I have an auto-reply if I’m away longer.
 
@@ -29,9 +29,11 @@ process:
   - process_step: "Step 4/6"
     icon: "/images/working.png"
     content: |
-      I edit the pattern. After the first round, I will send it back to you to make the necessary changes. Then you send it back to me to check it again for anything we missed.
+      I edit the pattern and/or create the necessary charts and schematics. After I'm done, I will send it back to you to make the necessary changes. Then you send it back to me to check it again for anything we missed.
+
+      My fee covers three rounds of editing.
       
-      I will contact you immediately if I have any questions or concerns, or if the work requires more time than I thought, to discuss the best course of action.
+      I will contact you immediately if I have any questions or concerns, or if the work needs more time than I thought, to discuss the best course of action.
 
   - process_step: "Step 5/6"
     icon: "/images/transfer.png"
