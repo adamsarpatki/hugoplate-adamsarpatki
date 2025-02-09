@@ -1,10 +1,19 @@
 ---
 title: "My Knitting Projects"
 meta_title: "My Knitting Projects"
-description: "Updated: 2025-01-06"
+description: "Updated: 2025-21-09"
 draft: false
 
 columns:
+- title: "Night & Day Cowl"
+  designer: "Andrea Mowry"
+  company: Drea Renee Knits
+  image: "/images/night-day-cowl.jpg"
+  keywords: "cowl, icord, kitchener, seamed, slipped stitches, worked-flat"
+  website: "https://www.dreareneeknits.com/"
+  CTA: "Ravelry project page"
+  pattern_link: "https://www.ravelry.com/projects/adamsarpatki/night--day-cowl"
+
 - title: "The Traveler Cowl"
   designer: "Andrea Mowry"
   company: Drea Renee Knits
