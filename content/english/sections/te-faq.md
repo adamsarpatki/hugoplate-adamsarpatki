@@ -16,11 +16,11 @@ _build:
 
 {{< accordion title="PDF, DOC or something else?" class="border-indigo-900 border-1 bg-slate-50" >}}
 
-To avoid any formatting issues between operating systems and word processing software, ideally, I would prefer if you would send your pattern as a PDF.
+Either one is good.
 
-I always have the latest version of Microsoft Word and Pages, so their native format is always an option, but I'll most likely save your file as a PDF before I start working on it, so I don't change anything by mistake. I will send you back a flattened PDF, this way we won't run into any compatibility issues. (A flattened PDF just means that you won't be able to move or accidentally delete my comments. The quality will be unchanged, you'll still be able to zoom in, select the text, etc.)
+If you send me a PDF, most likely I will create a flattened PDF so we don't run into any compatibility issues. (A flattened PDF just means that you won't be able to move or accidentally delete my comments. The quality will be unchanged, you'll still be able to zoom in, select the text, etc.) I am also familiar with Adobe Reader's annotation tools.
 
-**Feel free to let me know if you'd prefer a different approach,** like using Adobe Reader's markup functionality, or "Track Changes" and commenting in Microsoft Word. I'm used to both.
+If you send me a Word or a Pages document, I will use "Track changes". (This is my preferred method.)
 
 During the editing process, I won't change or rewrite the text of your pattern without your knowledge. I will give you my notes and suggestions, and you can decide what to incorporate and what not to.
 
