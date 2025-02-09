@@ -28,7 +28,7 @@ A lektorálás során semmi olyan változtatást nem hajtok végre, amit te a v�
 
 {{< accordion title="Titoktartás" class="border-indigo-900 border-1 bg-slate-50" >}}
 
-A munkához kapcsolódó levelezésünket és fájlokat bizalmasan kezelem, és soha senkinek nem küldök át semmit – hacsak te nem utasítasz rá. Cserében ugyanezt kérem tőled.
+A munkához kapcsolódó levelezésünket és fájlokat bizalmasan kezelem, és soha senkinek nem küldök át semmit – hacsak te nem kérsz erre. Cserében ugyanezt kérem tőled.
 
 Ez természetesen nem vonatkozik arra a tényre, hogy én lektoráltam a mintádat: büszkén fogom megosztani a megjelenése hírét a különböző közösségimédia-oldalakon, és az engedélyeddel a honlapomon lévő portfóliómban is megosztom majd a képét a neveddel és a weboldalad vagy a webshopod címével.
 
