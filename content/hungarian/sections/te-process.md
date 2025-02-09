@@ -1,53 +1,53 @@
 ---
 enable: true
-title: "The Process"
-description: "The following outlines the ideal process"
+title: "A folyamat"
+description: "Az alábbiakban olvashatod az ideális munkafolyamat hat lépését"
 
 # Expertise
 process:
-  - process_step: "Step 1/6"
+  - process_step: "1. lépés"
     icon: "/images/conversation.png"
     content: |
-      You [contact me](/contact) for availability.
+      [Felkeresel](/contact), hogy tudok-e most új ügyfelet vállalni.
       
-      **Please include, if possible:** (1) your pattern with some photos of the finished item; (2) your deadline; (3) anything else you think would be useful for me to know. (E.g., whether your pattern has been test knitted or not; whether I should pay extra attention to certain parts, etc.)
+      **Ha lehet, kérlek, mellékeld:** (1) a mintádat és pár fotót az elkészült ruhadarabról; (2) a határidőt; (3) bármi mást, amelyről szerinted hasznos lenne tudnom (pl. hogy járt-e már tesztkötésen a minta, vagy van-e valami, amire kifejezetten jó lenne odafigyelnem).
 
-  - process_step: "Step 2/6"
+  - process_step: "2. lépés"
     icon: "/images/fast-time.png"
     content: |
-      I let you know whether I can take on the pattern or project. My response will include my turnaround time (usually 5-7 days), the estimated hours the project will require, my estimated fee, and my contract.
+      A válaszomban megírom, hogy vállalom-e a munkát, mennyi idő alatt készülnék el vele (általában 5-7 nap), mennyi munkaórára számítok, és mennyi lenne ez alapján a munkadíjam. Továbbá mellékelem a szerződéstervezetet is, benne a részletes feltételekkel. (Ez angol nyelvű, de szívesen átbeszélem veled.)
       
-      I usually respond within 24–48 hours, except on weekends and holidays, and I have an auto-reply if I’m away longer.
+      Általában 24-48 órán belül válaszolok, kivéve hétvégéken és ünnepnapokon, és mindig állítok be automatikus válaszlevelet, ha lassabb válaszadásra lehet számítani.
 
-  - process_step: "Step 3/6"
+  - process_step: "3. lépés"
     icon: "/images/contract.png"
     content: |
-      We sign the agreement through DocuSign.
+      DocuSignon keresztül aláírjuk a szerződést.
       
-      If you need assistance, I'll gladly help—or you can check out [this article](https://support.docusign.com/s/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing?language=en_US) on how to use their free service. (Your scanned signature is not required.)
+      Szükség esetén szívesen segítek, de [az alábbi cikk is elmagyarázza](https://support.docusign.com/s/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing?language=en_US), hogy működik ez a szolgáltatás. (Nincs szükség hozzá a digitalizált aláírásodra.)
 
-  - process_step: "Step 4/6"
+  - process_step: "4. lépés"
     icon: "/images/working.png"
     content: |
-      I edit the pattern and/or create the necessary charts and schematics. After I'm done, I will send it back to you to make the necessary changes. Then you send it back to me to check it again for anything we missed.
+      Elkezdek dolgozni a projekten. Miután elkészültem, átküldöm, hogy ellenőrizd, és elvégezd a mintán a szükséges javításokat. Ha ez megvan, te visszaküldöd nekem a mintát, hogy újra átnézzem.
 
-      My fee covers three rounds of editing.
+      A munkadíjam három környi javítást foglal magába. Ez az illusztrációkra is érvényes.
       
-      I will contact you immediately if I have any questions or concerns, or if the work needs more time than I thought, to discuss the best course of action.
+      Rögtön szólok, ha kérdésem akad, vagy olyasmit találok, ami lehetetlenné teszi, hogy folytassam a munkát, esetleg kiderül, hogy a tervezettnél több időre lenne szükség. Ezeket mindig megbeszéljük, hogy megtaláljuk a számodra legmegfelelőbb megoldást.
 
-  - process_step: "Step 5/6"
+  - process_step: "5. lépés"
     icon: "/images/transfer.png"
     content: |
-      When your pattern is ready to be sent to test knitters or published, I will invoice you the final amount, payable via Wise or Stripe within 15 days.
+      Ha készen áll a mintád arra, hogy elküldd a tesztkötőidnek, vagy kiadd, kiszámlázom a munkadíjamat, amit 15 napon belül fizethetsz ki átutalással.
       
-      My fee will be in euros, or in forints if you're based in Hungary.
+      Vagy euróban, vagy forintban számlázok majd – az elején megbeszéljük, hogy neked melyik a jobb. Euró esetén az utalást Wise-on vagy Stripe-on keresztül teheted meg.
 
-  - process_step: "Step 6/6"
+  - process_step: "6. lépés"
     icon: "/images/sweater.png"
     content: |
-      After test knitting, I will gladly take a look at the pattern again for any additional corrections, in case we missed anything.
+      A tesztkötés után örömmel végignézem újra a mintát, arra az esetre, ha elsiklottunk volna valami felett.
       
-      This step is free if no changes are needed or if they take less than 30 minutes.
+      Amennyiben nincs szükség jelentősebb változtatásokra, vagy azok beleférnek 30 percbe, ez a lépés ingyenes.
 
 button:
   enable: true
