@@ -13,6 +13,8 @@ services:
         
         **Techniques I'm especially interested in:** stranded colourwork, cable knitting, brioche.
 
+        *Please see **"The Process"** below for more details.*
+
     - process_step: "Fees for knitting tech editing"
       icon: "images/transfer.png"
       content: |
@@ -34,6 +36,8 @@ services:
         For schematics, I use Affinity Designer, a very similar software to Adobe Illustrator, capable of creating vector graphics.
 
         For knitting charts, I use a charting software, but I can also use Affinity Designer if so desired.
+
+        *Please see **"The Process"** below for more details.*
 
     - process_step: "Fees for charts & schematics"
       icon: "images/transfer.png"
