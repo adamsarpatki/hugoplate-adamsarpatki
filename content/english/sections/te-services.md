@@ -18,15 +18,13 @@ services:
     - process_step: "Fees for knitting tech editing"
       icon: "images/transfer.png"
       content: |
-        **My hourly editing fee is €35** (+ VAT if applicable). It includes three rounds of editing, and a final check.
+        **My hourly editing fee is €35**. It includes three rounds of editing, and a final check. The final check is free if no changes are needed or if they take less than 30 minutes.
 
         **For the first two patterns I edit for you, you'll receive a 25% discount.** (This offer is subject to change.)
 
         Small, simple items might need 1-2 hours, while larger, more complicated designs could require 3-4 hours to edit. But I'll always give you an estimate beforehand.
         
         Payments can be made via Wise or Stripe.
-
-        (I mentioned VAT for transparency's sake, but I most likely wouldn't need to charge you any. I'll clarify the details if needed.)
 
     - process_step: "Knitting charts & schematics"
       icon: "images/sweater.png"
@@ -49,14 +47,12 @@ services:
         | Simple chart | €15 |
         | Complicated chart | €25 |
         | Schematic | €15 |
+
+        <br/>
         
-        `+` VAT if applicable.
-        
-        **If I am not the tech editor of your knitting pattern,** then my hourly editing fee of €35 applies (+ VAT if necessary), with a one-hour minimum. I will always provide you with an estimate.
+        **If I am not the tech editor of your knitting pattern,** then my hourly editing fee of €35 applies, with a one-hour minimum. I will always provide you with an estimate.
         
         **My rate includes three rounds of revisions.** Payments can be made via Wise or Stripe.
-
-        (I mentioned VAT for transparency's sake, but I most likely wouldn't need to charge you any. I'll clarify the details if needed.)
 
 button:
   enable: true

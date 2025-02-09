@@ -20,13 +20,15 @@ services:
     - process_step: "A kötésminta-lektorálás ára"
       icon: "images/transfer.png"
       content: |
-        **A jelenlegi órabérem 13.500 Ft / €35.** Ez három környi lektorálást jelent, illetve a megjelenés előtti utolsó átnézést.
+        **A jelenlegi órabérem 13.500 Ft / €35.** Ez három környi lektorálást jelent, illetve a megjelenés előtti utolsó átnézést. A megjelenés előtti utolsó átnézés abban az esetben ingyenes, ha nincs szükség jelentős változtatásokra, vagy azok beleférnek 30 percbe.
 
         **Az első két mintádra 25% kedvezményt kapsz az órabéremből!** (Az ajánlat visszavonásig érvényes.)
 
         Kis, egyszerű darabokhoz 1-2 órára, míg nagyobb, bonyolultabb mintákhoz 3-4 órára is szükség lehet. De minden alkalommal küldök árajánlatot.
         
-        A számlát utalással tudod kiegyenlíteni, a kiállítástól számított 15 napon belül.
+        A számlát utalással tudod kiegyenlíteni, a kiállítástól számított 15 napon belül. (Euró esetén az utalást Wise-on vagy Stripe-on keresztül teheted meg.)
+
+        
 
     - process_step: "Minta- és vázlatrajzok készítése"
       icon: "images/sweater.png"
