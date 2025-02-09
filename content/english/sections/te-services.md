@@ -7,13 +7,11 @@ services:
     - process_step: "Knitting tech editing"
       icon: "images/wool.png"
       content: |
-        **I currently offer tech editing for accessories, mainly for socks, mittens, hats, shawls, scarfs and other small items.**
+        **I currently offer tech editing for accessories,** mainly for socks, mittens, hats, shawls, scarfs and other small items.
+        
+        I will check spelling, grammar, use of style, written instructions (including clarity and accuracy), consistency, abbreviations, stitch counts, stitch patterns and repeats, measurements, conversions, schematics, charts with key.
         
         **Techniques I'm especially interested in:** stranded colourwork, cable knitting, brioche.
-
-        My services include checking your pattern for inconsistencies and errors both in the math and in the style. I'll also flag any grammatical errors or typos.
-
-        This means that I will check: spelling, grammar, use of style, written instructions (including clarity and accuracy), consistency, abbreviations, stitch counts, stitch patterns and repeats, measurements, conversions, schematics, charts with key.
 
     - process_step: "Fees for knitting tech editing"
       icon: "images/transfer.png"
@@ -22,43 +20,43 @@ services:
 
         **For the first two patterns I edit for you, you'll receive a 25% discount.** (This offer is subject to change.)
 
-        When you contact me, I will give you an estimated time-range, so you'll know what to expect.
+        Small, simple items might need 1-2 hours, while larger, more complicated designs could require 3-4 hours to edit. But I'll always give you an estimate beforehand.
+        
+        Payments can be made via Wise or Stripe.
 
-        Small, simple items might need 2-3 hours, while larger, more complicated designs could require 4-5 hours to edit.
-
-        (Don't worry about VAT, I mentioned it for transparency's sake, but I most likely wouldn't need to charge you with it.)
+        (I mentioned VAT for transparency's sake, but I most likely wouldn't need to charge you any. I'll clarify the details if needed.)
 
     - process_step: "Knitting charts & schematics"
       icon: "images/sweater.png"
       content: |
-        **I currently offer tech editing for accessories, mainly for socks, mittens, hats, shawls, scarfs and other small items.**
-        
-        **Techniques I'm especially interested in:** stranded colourwork, cable knitting, brioche.
+        I would gladly help you with creating charts and schematics for your knitting pattern. Ideally, I would also tech edit your pattern, but you can hire me just for these two services.
 
-        My services include checking your pattern for inconsistencies and errors both in the math and in the style. I'll also flag any grammatical errors or typos.
+        For schematics, I use Affinity Designer, a very similar software to Adobe Illustrator, capable of creating vector graphics.
 
-        This means that I will check: spelling, grammar, use of style, written instructions (including clarity and accuracy), consistency, abbreviations, stitch counts, stitch patterns and repeats, measurements, conversions, schematics, charts with key.
+        For knitting charts, I use a charting software, but I can also use Affinity Designer if so desired.
 
     - process_step: "Fees for charts & schematics"
       icon: "images/transfer.png"
       content: |
-        I create charts and schematics for a flat fee if I am the tech editor of your knitting pattern:
+        **If I am the tech editor of your knitting pattern,** charts and schematics cost a flat fee:
 
         | Service | Cost per item |
         | ------------- | ---- |
         | Simple chart | €15 |
         | Complicated chart | €25 |
-        | Schematic | €20 |
+        | Schematic | €15 |
         
         `+` VAT if applicable.
         
-        **If I am not the tech editor of your knitting pattern,** then my hourly editing fee of €35 applies (+ VAT if necessary), with a minimum charge of one hour. I will always provide you with an estimate.
+        **If I am not the tech editor of your knitting pattern,** then my hourly editing fee of €35 applies (+ VAT if necessary), with a one-hour minimum. I will always provide you with an estimate.
+        
+        **My rate includes three rounds of revisions.** Payments can be made via Wise or Stripe.
 
         (I mentioned VAT for transparency's sake, but I most likely wouldn't need to charge you any. I'll clarify the details if needed.)
 
 button:
   enable: true
-  content: "If you're still unsure about some things, I would be happy to answer your questions."
-  label: "I have a question"
+  content: "Are you ready to dive in?"
+  label: "Contact me for a free quote!"
   link: "mailto:hello@adamsarpatki.com"
 ---
