@@ -2,7 +2,7 @@
 title: "Publications"
 meta_title: "Publications"
 summary: "Publications by literary translator and editor Ádám Sárpátki."
-description: "Updated: 2025-01-14"
+description: "Updated: 2025-02-09"
 image: false
 toc: true
 draft: false
@@ -11,6 +11,7 @@ draft: false
 
 ## Literary translations
 
+- John Scalzi: Csak a hold az égen. Ford. Farkas István, Pék Zoltán, Sárpátki Ádám, Tót Barbara Budapest : Agave Könyvek, 2025. 336 p.
 - Christopher Buehlman: Hollólovagok. Budapest : Agave Könyvek, 2025. 432 p.
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Korok Hőse I-II.* Budapest : Delta Vision, 2024. pp. 9–15., 1031–1039.
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Megdicsőülés Kútja I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 1069–1076.
