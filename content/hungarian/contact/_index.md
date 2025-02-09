@@ -3,6 +3,10 @@ title: "Kapcsolat"
 meta_title: "Kapcsolat"
 description: "Lépj kapcsolatba velem az alábbi lehetőségek egyikén"
 draft: false
+sitemap:
+  changefreq: monthly
+  disable: false
+  priority: 1
 
 columns:
 - title: "Kiadóknak"

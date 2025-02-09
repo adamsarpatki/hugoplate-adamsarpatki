@@ -5,6 +5,10 @@ description: ""
 image: false
 toc: true
 draft: false
+sitemap:
+  changefreq: ""
+  disable: true
+  priority: -1
 ---
 
 Sárpátki Ádám sole proprietor (hereinafter: **Data Controller**), as the operator of the website (hereinafter: **Website**) available under  [adamsarpatki.com](https://adamsarpatki.com) domain name, hereby publishes the information on data processing regarding the Website and the other services related to the Website.

@@ -3,6 +3,10 @@ title: "Portfolio"
 meta_title: "Portfolio"
 description: "Updated: 2024-10-10"
 draft: false
+sitemap:
+  changefreq: monthly
+  disable: false
+  priority: 0.8
 
 columns:
 - title: "My Secret BFF Socks"

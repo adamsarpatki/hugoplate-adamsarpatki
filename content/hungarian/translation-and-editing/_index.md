@@ -5,6 +5,10 @@ description: "Hogyan közelítem meg az irodalmi munkáimat"
 image: false
 toc: true
 draft: false
+sitemap:
+  changefreq: monthly
+  disable: false
+  priority: 0.9
 ---
 
 ## Szakmai tapasztalat

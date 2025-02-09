@@ -5,4 +5,8 @@ description: "How I help you create the best patterns possible"
 image: false
 toc: true
 draft: false
+sitemap:
+  changefreq: monthly
+  disable: false
+  priority: 1
 ---

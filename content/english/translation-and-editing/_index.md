@@ -5,6 +5,10 @@ description: "My approach to literary projects"
 image: false
 toc: true
 draft: false
+sitemap:
+  changefreq: monthly
+  disable: false
+  priority: 0.9
 ---
 
 ## My Experience

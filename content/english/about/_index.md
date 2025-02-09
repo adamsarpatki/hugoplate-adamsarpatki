@@ -5,6 +5,10 @@ description: "From librarian to literary translator, editor, and now tech editor
 image: false
 toc: true
 draft: false
+sitemap:
+  changefreq: monthly
+  disable: false
+  priority: 0.5
 
 # Eras
 eras:

@@ -5,3 +5,9 @@ Disallow: /404.html
 Disallow: /sections/
 Disallow: /categories/
 Disallow: /tags/
+Disallow: /hu/privacy-policy/
+Disallow: /hu/impressum/
+Disallow: /hu/404.html
+Disallow: /hu/sections/
+Disallow: /hu/categories/
+Disallow: /hu/tags/

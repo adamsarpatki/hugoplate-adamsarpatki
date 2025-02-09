@@ -5,6 +5,10 @@ description: ""
 image: false
 toc: true
 draft: false
+sitemap:
+  changefreq: ""
+  disable: true
+  priority: -1
 ---
 
 **1. A szolgáltató neve:** Sárpátki Ádám E.V.

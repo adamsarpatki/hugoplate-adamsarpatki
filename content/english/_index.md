@@ -1,4 +1,9 @@
 ---
+sitemap:
+  changefreq: monthly
+  disable: false
+  priority: 1
+
 # Banner
 banner:
   title: "Hi, I'm Ádám Sárpátki,"
