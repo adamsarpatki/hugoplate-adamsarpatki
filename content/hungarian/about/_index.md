@@ -5,10 +5,8 @@ description: "Hogyan lettem könyvtárosból műfordító, szerkesztő és szakl
 image: false
 toc: true
 draft: false
-sitemap:
-  changefreq: monthly
-  disable: false
-  priority: 2
+changefreq: monthly
+priority: 2
 
 # Eras
 eras:

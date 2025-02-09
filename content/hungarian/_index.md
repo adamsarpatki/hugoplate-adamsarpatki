@@ -1,8 +1,6 @@
 ---
-sitemap:
-  changefreq: monthly
-  disable: false
-  priority: 1
+changefreq: monthly
+priority: 1
 
 # Banner
 banner:

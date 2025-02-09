@@ -3,10 +3,8 @@ title: "Magánprojektjeim"
 meta_title: "Magánprojektjeim"
 description: "Frissítve: 2025-02-09"
 draft: false
-sitemap:
-  changefreq: monthly
-  disable: false
-  priority: 0.7
+changefreq: monthly
+priority: 0.7
 
 columns:
 - title: "Night & Day Cowl"

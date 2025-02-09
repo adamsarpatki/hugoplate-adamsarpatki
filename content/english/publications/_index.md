@@ -6,10 +6,8 @@ description: "Updated: 2025-02-09"
 image: false
 toc: true
 draft: false
-sitemap:
-  changefreq: monthly
-  disable: false
-  priority: 0.5
+changefreq: monthly
+priority: 0.5
 ---
 {{< toc >}}
 

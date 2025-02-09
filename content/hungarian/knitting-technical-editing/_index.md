@@ -6,8 +6,6 @@ description: "Hogyan segítek tökéletesíteni a kötésmintáidat"
 image: false
 toc: true
 draft: false
-sitemap:
-  changefreq: monthly
-  disable: false
-  priority: 1
+changefreq: monthly
+priority: 1
 ---

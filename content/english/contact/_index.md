@@ -3,10 +3,8 @@ title: "Contact Me"
 meta_title: "Contact Me"
 description: "Get in touch through any of the channels below. I can't wait to hear from you!"
 draft: false
-sitemap:
-  changefreq: monthly
-  disable: false
-  priority: 0.9
+changefreq: monthly
+priority: 0.9
 
 columns:
 - title: "For publishers"

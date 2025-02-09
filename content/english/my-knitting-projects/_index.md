@@ -3,10 +3,8 @@ title: "My Knitting Projects"
 meta_title: "My Knitting Projects"
 description: "Updated: 2025-21-09"
 draft: false
-sitemap:
-  changefreq: monthly
-  disable: false
-  priority: 0.8
+changefreq: monthly
+priority: 0.8
 
 columns:
 - title: "Night & Day Cowl"

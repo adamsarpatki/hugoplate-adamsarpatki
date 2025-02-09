@@ -43,7 +43,8 @@ weight = 2
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-  exclude = ["404.html", "privacy-policy/"]
+  exclude = ["404.html", "/tags/", "/categories/"]
+
 
 
 ########################### Services #############################
