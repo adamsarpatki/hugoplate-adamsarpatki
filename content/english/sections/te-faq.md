@@ -3,6 +3,12 @@ enable: true
 title: "FAQ"
 description: "If you have any questions, please start here"
 
+button:
+  enable: true
+  content: "If you're still unsure about some things, I would be happy to answer your questions."
+  label: "I have a question"
+  link: "mailto:hello@adamsarpatki.com"
+
 # don't create a separate page
 _build:
   render: "never"

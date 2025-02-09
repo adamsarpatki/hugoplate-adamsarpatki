@@ -14,15 +14,24 @@
         </div>
     </div>
 
-    <section class="pt-10 section-sm dark-bg xl:pt-0">
-        <div class="container pb-10">
-          <div class="justify-center row ">
-            <div class="text-left md:col-10 lg:col-7">
-              <div class="content">{{ .Content | markdownify }}</div>
+    <div class="pt-10 section-sm dark-bg xl:pt-0">
+        <div class="container">
+            <div class="justify-center row ">
+                <div class="text-left md:col-10 lg:col-7">
+                    <div class="content">{{ .Content | markdownify }}</div>
+                </div>
             </div>
-          </div>
         </div>
-      
-    </section>
-    {{ end }}
-    {{ end }}
+
+
+        <div class="">
+            {{ if .Params.button.enable }}
+            {{ partial "components/CTA-button.html" (dict "content" .Params.button.content "label" .Params.button.label
+            "link"
+            .Params.button.link "bg" "dark-bg") }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
