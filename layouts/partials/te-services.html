@@ -16,17 +16,16 @@
 
   <div class="container flex flex-row flex-wrap justify-center gap-x-8 gap-y-8">
     {{ range .Params.services }}
-    <div class="flex flex-col items-center text-left content-box gap-y-4">
-      <div class="text-dark dark:text-white">
+    <div class="flex flex-col items-center content-box gap-y-4">
+      <div class="pt-4 md:pt-0 text-dark dark:text-white">
         {{ partial "image" (dict "Src" .icon "Size" "50x50" "Class" "" "Alt" .process_step) }}
       </div>
-      <div class="h-16 px-10">
+      <div class="h-10 text-center">
         <h3 class="font-semibold h5 font-primary">
           {{ .process_step | markdownify }}
         </h3>
-
       </div>
-      <div class="flex flex-col flex-grow text-left align-top text-dark dark:text-white">
+      <div class="flex flex-col flex-grow px-0 text-left align-top text-dark dark:text-white">
         <p class="text-left">
           {{ .content | markdownify }}
         </p>
