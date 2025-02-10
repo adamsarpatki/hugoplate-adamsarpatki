@@ -6,7 +6,7 @@ image: false
 toc: true
 draft: false
 changefreq: monthly
-priority: 2
+priority: 0.5
 
 # Eras
 eras:
