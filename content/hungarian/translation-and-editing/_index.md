@@ -17,7 +17,7 @@ Azóta folyamatosan tökéletesítem a készségeimet az [Agave Könyvek](https:
 
 Emellett kifejezetten büszke vagyok a [Kolibri kiadónak](https://www.facebook.com/kolibrikiado/) végzett munkámra is – ők ifjúsági és gyerekkönyveket adnak ki rendkívül változatos témákban, amilyenekkel máshol nincs lehetőségem foglalkozni.
 
-A teljes listát [a publikációs jegyzékem](/hu/publications) tartalmazza.
+A teljes listát [a publikációs jegyzékem](/hu/publications/) tartalmazza.
 
 ## Alapelveim
 
@@ -41,7 +41,7 @@ Szerintem a legjobbak megfelelő érzékenységgel állnak a munkájukhoz. Megé
 
 {{< highlight >}}
 
-**Jelenleg csak angolról magyarra fordítok, és csak angolból fordított műveket szerkesztek. Kötésminták szerkesztésével és lektorálásával is foglalkozom, erről [a megfelelő oldalon](/hu/knitting-technical-editing) találhatók információk.**
+**Jelenleg csak angolról magyarra fordítok, és csak angolból fordított műveket szerkesztek. Kötésminták szerkesztésével és lektorálásával is foglalkozom, erről [a megfelelő oldalon](/hu/knitting-technical-editing/) találhatók információk.**
 
 {{< /highlight >}}
 
@@ -49,4 +49,4 @@ Szerintem a legjobbak megfelelő érzékenységgel állnak a munkájukhoz. Megé
 
 **Szerzők, akiknek a műveit kifejezetten szeretem:** Terry Pratchett, Brandon Sanderson, Anne Rice, Robin Hobb, Arthur Conan Doyle, Robert Jordan, Susanna Clarke.
 
-A naptáramban általában kevés az üresjárat, de nyugodtan [lépj velem kapcsolatba](/hu/contact), és beszélgessünk egyet. 😊
+A naptáramban általában kevés az üresjárat, de nyugodtan [lépj velem kapcsolatba](/hu/contact/), és beszélgessünk egyet. 😊
