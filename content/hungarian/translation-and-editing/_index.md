@@ -13,7 +13,7 @@ priority: 0.9
 
 Az egyetemen, 2011 és 2012 között részt vettem Hetényi Zsuzsa műfordítói műhelyében, ahol mindannyian lehetőséget kaptunk rá, hogy fordítóként és szerkesztőként is foglalkozzunk egy-egy szöveggel. Az év végén ezeket aztán kiadtuk két antológiában, amelyekre még mindig nagyon büszke vagyok. Sir Terry Pratchett két novellájával és Edgar Allan Poe egyik esszéjével kezdtem műfordítói pályámat.
 
-Azóta folyamatosan tökéletesítem a készségeimet az [Agave Könyvek](https://agavekonyvek.hu/), a [Fumax](https://fumax.hu/), az [Anassa](https://www.facebook.com/anassakonyvek/), a [GABO](https://gabo.hu/), és a [Delta Vision](https://www.deltavision.hu/), vagyis a spekulatív fikciós műfaj legnagyobb magyar kiadóinak végzett munkáimmal. Kollégáim jól tudják, hogy biztos kézzel nyúlok a legkülönfélébb szövegekhez, ennek köszönhetően már a műfaj számos fontos alakjának – például Brandon Sanderson, Robin Hobb, Shelley Parker-Chan, John Scalzi, Jenn Lyons, Scott Lynch, R. F. Kuang és Christopher Buehlman – műveit fordítottam vagy szerkesztettem.
+Azóta folyamatosan tökéletesítem a készségeimet az [Agave Könyvek](https://agavekonyvek.hu/), a [Fumax](https://fumax.hu/), az [Anassa](https://www.facebook.com/anassakonyvek/), a [GABO](https://gabo.hu/), és a [Delta Vision](https://www.deltavision.hu/), vagyis a spekulatív fikciós műfaj legnagyobb magyar kiadóinak végzett munkámmal. Kollégáim jól tudják, hogy biztos kézzel nyúlok a legkülönfélébb szövegekhez, ennek köszönhetően már a zsáner számos fontos alakjának – például Brandon Sanderson, Robin Hobb, Shelley Parker-Chan, John Scalzi, Jenn Lyons, Scott Lynch, R. F. Kuang és Christopher Buehlman – műveit fordítottam vagy szerkesztettem.
 
 Emellett kifejezetten büszke vagyok a [Kolibri kiadónak](https://www.facebook.com/kolibrikiado/) végzett munkámra is – ők ifjúsági és gyerekkönyveket adnak ki rendkívül változatos témákban, amilyenekkel máshol nincs lehetőségem foglalkozni.
 
@@ -45,7 +45,7 @@ Szerintem a legjobbak megfelelő érzékenységgel állnak a munkájukhoz. Megé
 
 {{< /highlight >}}
 
-**Zsánerek, amelyek kifejezetten érdekelnek:** fantasy, science fiction, képregény, krimi, történelmi fantasy, történelmi romantika, nonfiction, ismeretterjesztés, ifjúsági és gyermekirodalom.
+**Zsánerek, amelyek kifejezetten érdekelnek:** fantasy, science fiction, képregény, krimi, történelmi fantasy, történelmi romantika, nonfiction, ismeretterjesztő, ifjúsági és gyermekirodalom.
 
 **Szerzők, akiknek a műveit kifejezetten szeretem:** Terry Pratchett, Brandon Sanderson, Anne Rice, Robin Hobb, Arthur Conan Doyle, Robert Jordan, Susanna Clarke.
 
