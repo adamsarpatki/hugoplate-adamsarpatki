@@ -13,7 +13,7 @@ priority: 0.5
 
 ## Műfordítások
 
-- John Scalzi: Csak a hold az égen. Ford. Farkas István, Pék Zoltán, Sárpátki Ádám, Tót Barbara Budapest : Agave Könyvek, 2025. 336 p.
+- John Scalzi: Csak a hold az égen. Ford. Farkas István, Pék Zoltán, Sárpátki Ádám, Tót Barbara. Budapest : Agave Könyvek, 2025. 336 p.
 - Christopher Buehlman: Hollólovagok. Budapest : Agave Könyvek, 2025. 432 p.
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Korok Hőse I-II.* Budapest : Delta Vision, 2024. pp. 9–15., 1031–1039.
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Megdicsőülés Kútja I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 1069–1076.
