@@ -2,7 +2,7 @@
 title: "Publikációk"
 meta_title: "Publikációk"
 summary: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
-description: "Frissítve: 2025-02-09"
+description: "Frissítve: 2025-03-14"
 image: false
 toc: true
 draft: false
@@ -14,6 +14,10 @@ priority: 0.5
 ## Műfordítások
 
 - John Scalzi: Csak a hold az égen. Ford. Farkas István, Pék Zoltán, Sárpátki Ádám, Tót Barbara. Budapest : Agave Könyvek, 2025. 336 p.
+- J. M. Miro: Holtak háza. Budapest : Agave Könyvek, 2025. 576 p.
+- Ana María Fuster Lavín: Az éhség léptei. In: *A borzalmak hívása – Rémtörténetek a világ minden tájáról.* Szerk. James D. Jenkins, Ryan Cagle. Budapest : Agave Könyvek, 2025. pp. 275–285.
+- Konsztandínosz Kélisz: Elsőszülött. In: *A borzalmak hívása – Rémtörténetek a világ minden tájáról.* Szerk. James D. Jenkins, Ryan Cagle. Budapest : Agave Könyvek, 2025. pp. 252–266.
+- Preeti Chhibber: Pókember és az összefüggések hálója. Budapest : Kolibri, 2025. 305 p.
 - Christopher Buehlman: Hollólovagok. Budapest : Agave Könyvek, 2025. 432 p.
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Korok Hőse I-II.* Budapest : Delta Vision, 2024. pp. 9–15., 1031–1039.
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Megdicsőülés Kútja I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 1069–1076.
@@ -154,6 +158,10 @@ priority: 0.5
 - „Könyvtáros vagyok. A hét minden napján. Még vasárnap is.” : Farkas Balázs könyvbemutatója a KSH Könyvtárban. In: Könyvtári Levelező/lap, 26. évf. 7. sz. (2014) pp. 10–11. [Link](https://epa.oszk.hu/00300/00365/00154/pdf/EPA00365_konyvtari_levelezo_lap_2014_07_10-11.pdf)
 - Mit gondolnak a tizenévesek az olvasási stratégiákról? In: Könyvtári Levelező/lap, 26. évf. 1–2. sz. (2014) pp. 32–33. [Link](https://epa.oszk.hu/00300/00365/00149/pdf/EPA00365_konyvtari_levelezo_lap_2014_01-02_32-33.pdf)
 - Könyvtáros szakmai sztereotípiák és azok PR-vonatkozásai. In: Tudományos és Műszaki Tájékoztatás, 60. évf. 8. sz. (2013) pp. 331–345. [Link](https://epa.oszk.hu/03000/03071/00068/pdf/EPA03071_tmt_2013_08_331-345.pdf)
+
+## Egyéb cikkek
+
+- Az európai migrációs politika buktatói. A bevándorlás és az azzal járó politikai kihívások az EU-ban. In: *Nemzetközi Statisztikai Figyelő,* 1. évf. 4. sz. (2015) pp. 43–45. [Link](https://epa.oszk.hu/02700/02718/00004/pdf/EPA02718_nsf_2015_04_24-48.pdf#page=20)
 
 ## Lexikon szócikkek
 
