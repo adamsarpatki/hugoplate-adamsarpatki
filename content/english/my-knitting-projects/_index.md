@@ -1,7 +1,7 @@
 ---
 title: "My Knitting Projects"
 meta_title: "My Knitting Projects"
-description: "Updated: 2025-21-09"
+description: "Updated: 2025-02-09"
 draft: false
 changefreq: monthly
 priority: 0.8
