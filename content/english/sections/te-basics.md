@@ -30,7 +30,7 @@ I'm also an avid knitter who loves learning new techniques and exploring new des
 
 {{< highlight >}}
 
-Feel free to check out [the list of my publications](/publications), or [my tech editor portfolio](/te-portfolio) to see all the patterns I've edited so far. I also have [a list of my finished knitting projects](/my-knitting-projects/) that showcase my skills.
+Feel free to check out [the list of my publications](/publications/), or [my tech editor portfolio](/te-portfolio/) to see all the patterns I've edited so far. I also have [a list of my finished knitting projects](/my-knitting-projects/) that showcase my skills.
 
 {{< /highlight >}}
   
