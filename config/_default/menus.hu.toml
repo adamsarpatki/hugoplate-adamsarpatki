@@ -12,8 +12,13 @@ url = "/hu/about/"
 weight = 2
 
 [[main]]
-name = "Irodalmi munkásság"
+name = "Blog"
+url = "/hu/blog/"
 weight = 3
+
+[[main]]
+name = "Irodalmi munkásság"
+weight = 4
 
 [[main]]
 parent = "Irodalmi munkásság"
@@ -29,7 +34,7 @@ weight = 2
 
 [[main]]
 name = "Szaklektorálás"
-weight = 4
+weight = 5
 
 [[main]]
 parent = "Szaklektorálás"
@@ -63,41 +68,46 @@ url = "/hu/about/"
 weight = 2
 
 [[footer]]
+name = "Blog"
+url = "/hu/blog/"
+weight = 3
+
+[[footer]]
 name = "Műfordítás és szerkesztés"
 url = "/hu/translation-and-editing/"
-weight = 3
+weight = 4
 
 [[footer]]
 name = "Kötésminták lektorálása"
 url = "/hu/knitting-technical-editing/"
-weight = 4
+weight = 5
 
 [[footer]]
 name = "Lektorált mintáim"
 url = "/hu/te-portfolio/"
-weight = 5
+weight = 6
 
 [[footer]]
 name = "Magánprojektjeim"
 url = "/hu/my-knitting-projects/"
-weight = 6
+weight = 7
 
 [[footer]]
 name = "Publikációk"
 url = "/hu/publications/"
-weight = 7
+weight = 8
 
 [[footer]]
 name = "Hírlevél"
 url = "https://yarnboundtales.substack.com/"
-weight = 8
+weight = 9
 
 [[footer]]
 name = "Adatkezelési tájékoztató"
 url = "/hu/privacy-policy/"
-weight = 9
+weight = 10
 
 [[footer]]
 name = "Impresszum"
 url = "/hu/impressum/"
-weight = 10
+weight = 11
