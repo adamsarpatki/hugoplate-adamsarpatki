@@ -1,6 +1,11 @@
 {
   "main": [
     {
+      "name": "RSS",
+      "icon": "fa fa-rss",
+      "link": "/hu/blog/index.xml"
+    },
+    {
       "name": "bluesky",
       "icon": "fab fa-bluesky",
       "link": "https://bsky.app/profile/adamsarpatki.com"

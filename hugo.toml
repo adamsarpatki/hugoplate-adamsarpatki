@@ -99,7 +99,10 @@ target = '$1'
 
 ############################# Outputs ############################
 [outputs]
-home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
+home = ['html']
+section = ['html']
+taxonomy = ['html']
+term = ['html']
 
 ############################# Imaging ############################
 [imaging]
