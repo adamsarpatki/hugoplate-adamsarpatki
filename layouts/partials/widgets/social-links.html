@@ -1,0 +1,24 @@
+<!-- social links widget -->
+{{ $social := site.Data.social.main }}
+{{ if $social }}
+  <div class="mb-8">
+    <h5 class="mb-6">{{ i18n "socialLinks" | default "Social Links" }}</h5>
+    <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8">
+      <ul class="space-y-4">
+        {{ range $social }}
+          <li>
+            <a
+              class="hover:text-primary dark:hover:text-darkmode-primary flex items-center space-x-3"
+              href="{{ .link }}"
+              target="_blank"
+              rel="noopener"
+            >
+              <i class="{{ .icon }} text-xl"></i>
+              <span class="capitalize">{{ .name }}</span>
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+{{ end }}
