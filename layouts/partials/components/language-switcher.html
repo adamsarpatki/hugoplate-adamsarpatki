@@ -1,21 +1,25 @@
 <!-- Language Toggle -->
-{{ $class := .Class }}
 {{ $context := .Context }}
 {{ $pageLang := $context.Lang }}
-{{ $base := urls.Parse site.Home.Permalink }}
 {{ $siteLanguages := site.Home.AllTranslations }}
-{{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
 
-{{ if $context.IsTranslated }}
+{{ $defaultLang := index $siteLanguages 0 }}
+{{ $secondaryLang := index $siteLanguages 1 }}
+
+{{ $targetLang := cond (eq $pageLang $defaultLang.Language) $secondaryLang $defaultLang }}
+{{ $targetPage := index (where $context.Translations "Lang" $targetLang.Language) 0 }}
+{{ $targetURL := cond $targetPage.RelPermalink $targetPage.RelPermalink $targetLang.RelPermalink }}
+
 <label class="flex mx-3 rounded-lg cursor-pointer select-none">
-  <input type="checkbox" class="sr-only" onchange="location = this.checked ? '{{ (index $siteLanguages 1).RelPermalink }}' : '{{ (index $siteLanguages 0).RelPermalink }}';" {{ if eq (string $pageLang) (string (index $siteLanguages 1).Language) }}checked{{ end }} />
+  <input type="checkbox" class="sr-only"
+         onchange="location = this.checked ? '{{ $secondaryLang.RelPermalink }}' : '{{ $defaultLang.RelPermalink }}';"
+         {{ if eq (string $pageLang) (string $secondaryLang.Language) }}checked{{ end }} />
 
-  <span class="btn-language rounded-l-lg {{ if eq (string $pageLang) (string (index $siteLanguages 0).Language) }}bg-indigo-800 border-1 border-indigo-800 font-semibold text-slate-50{{ else }}bg-slate-800 text-slate-300 hover:border-indigo-800 hover:text-slate-50{{ end }}">
-    {{ (index $siteLanguages 0).Language.LanguageName }}
+  <span class="btn-language rounded-l-lg {{ if eq (string $pageLang) (string $defaultLang.Language) }}bg-indigo-800 border-1 border-indigo-800 font-semibold text-slate-50{{ else }}bg-slate-800 text-slate-300 hover:border-indigo-800 hover:text-slate-50{{ end }}">
+    {{ $defaultLang.Language.LanguageName }}
   </span>
 
-  <span class="btn-language rounded-r-lg {{ if eq (string $pageLang) (string (index $siteLanguages 1).Language) }}bg-indigo-800 border-1 border-indigo-800 font-semibold text-slate-50{{ else }}bg-slate-800 text-slate-300 hover:border-indigo-800 hover:text-slate-50{{ end }}">
-    {{ (index $siteLanguages 1).Language.LanguageName }}
+  <span class="btn-language rounded-r-lg {{ if eq (string $pageLang) (string $secondaryLang.Language) }}bg-indigo-800 border-1 border-indigo-800 font-semibold text-slate-50{{ else }}bg-slate-800 text-slate-300 hover:border-indigo-800 hover:text-slate-50{{ end }}">
+    {{ $secondaryLang.Language.LanguageName }}
   </span>
 </label>
-{{ end }}
