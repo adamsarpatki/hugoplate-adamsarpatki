@@ -1,16 +1,16 @@
 {{ define "main" }}
-  {{ partial "page-header" . }}
+  {{ partial "blog-header" . }}
 
 
   <section class="section">
     <div class="container">
-      <div class="row gx-5">
+      <div class="flex flex-row gap-x-6">
         <!-- blog posts -->
-        <div class="lg:col-8">
-          <div class="row">
+        <div class="flex flex-row">
+          <div class="flex flex-col gap-y-12">
             {{ $paginator:= .Paginate .RegularPages }}
             {{ range $paginator.Pages }}
-              <div class="md:col-6 mb-14">
+              <div class="">
                 {{ partial "components/blog-card" . }}
               </div>
             {{ end }}

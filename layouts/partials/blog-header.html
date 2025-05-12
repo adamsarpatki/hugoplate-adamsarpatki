@@ -1,0 +1,14 @@
+<section class="section-sm dark-bg">
+  <div class="container">
+    <div class="justify-center row text-center">
+      <div class="md:col-10 lg:col-7">
+        <h1 class="mb-6 text-center text-slate-50">{{ strings.FirstUpper .Title }}</h1>
+        {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+    </div>
+  </div>
+</section>
+
+
+<!-- Shape divider -->
+{{ partial "components/shape-divider-dark.html" . }}
+<!-- /Shape divider -->
