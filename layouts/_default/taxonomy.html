@@ -1,0 +1,21 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+
+  <section class="section">
+    <div class="container">
+      <div class="">
+        <!-- blog posts -->
+        <div class="">
+          <div class="justify-center flex flex-row flex-wrap gap-x-20 gap-y-20">
+            {{ range .Data.Pages }}
+              <div class="md:w-2/5">
+                {{ partial "components/blog-card" . }}
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
