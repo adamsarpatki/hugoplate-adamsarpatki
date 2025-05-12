@@ -16,6 +16,6 @@ banner:
   button:
     enable: true
     label: "Dolgozzunk együtt"
-    link: /contact/
+    link: /hu/contact/
 
 ---
