@@ -20,11 +20,11 @@
   <div class="">
     {{ $categories:= .Params.categories }}
     {{ if $categories }}
-    <ul class="">
-      <li class="mr-4 inline-block">
+    <ul class="text-primary">
+      <li class="mr-4 inline-block"><i class="fa-regular fa-circle-user mr-2 dark:text-zinc-400"></i>
         <a href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/"
           class="text-sm font-semibold dark:text-zinc-400">
-          <i class="fa-regular fa-circle-user mr-2 dark:text-zinc-400"></i>{{ .Params.author }}
+          {{ .Params.author }}
         </a>
       </li>
       <li class="mr-4 inline-block">
