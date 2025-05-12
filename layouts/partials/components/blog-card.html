@@ -22,14 +22,16 @@
     {{ if $categories }}
     <ul class="">
       <li class="mr-4 inline-block">
-        <a href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/" class="text-sm font-semibold dark:text-zinc-400">
+        <a href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/"
+          class="text-sm font-semibold dark:text-zinc-400">
           <i class="fa-regular fa-circle-user mr-2 dark:text-zinc-400"></i>{{ .Params.author }}
         </a>
       </li>
       <li class="mr-4 inline-block">
         <i class="fa-regular fa-folder mr-1 dark:text-zinc-400"></i>
         {{ range $i,$p:= $categories }}
-        <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/" class="text-sm font-semibold dark:text-zinc-400">{{ . |
+        <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/"
+          class="text-sm font-semibold dark:text-zinc-400">{{ . |
           humanize }}{{ if ne $i
           (sub (len $categories) 1) }}
           {{- "," }}
@@ -45,12 +47,12 @@
     </ul>
     {{ end }}
   </div>
-  <div class="flex flex-col gap-y-2">
+  <div class="flex flex-col gap-y-4">
     <div class="">
       <p class="">{{ .Summary | plainify }}</p>
     </div>
     <div class="flex flex-row justify-end">
-      <a class="btn btn-outline-primary" href="{{ .RelPermalink }}">
+      <a class="btn btn-primary" href="{{ .RelPermalink }}">
         {{ T "read_more" }}
       </a>
     </div>
