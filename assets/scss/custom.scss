@@ -62,6 +62,10 @@ a.btn-secondary:active {
   @apply text-slate-50;
 }
 
+a.tag-btn:hover {
+  @apply text-slate-50
+}
+
 /* Override for buttons in dark background contexts */
 .dark-bg .btn, .dark-bg .btn-primary {
   @apply text-slate-50;

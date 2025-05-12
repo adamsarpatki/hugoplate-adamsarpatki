@@ -21,3 +21,7 @@
 .btn-language {
   @apply text-sm font-normal border border-transparent align-middle items-center flex flex-row min-h-10 px-4 py-3 tracking-wide uppercase transition-all duration-300 mt-4 lg:mt-0
 }
+
+.tag-btn {
+  @apply hover:bg-indigo-900 bg-slate-50 hover:text-slate-50 dark:bg-darkmode-body dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1
+}
