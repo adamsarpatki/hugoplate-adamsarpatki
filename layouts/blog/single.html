@@ -11,13 +11,13 @@
           <div class="row items-start justify-between">
             {{ $tags:= .Params.tags }}
             {{ if $tags }}
-              <div class="lg:col-6 mb-10 flex items-center lg:mb-0">
+              <div class="lg:col-6 mb-10 flex items-center lg:mb-0 ">
                 <h5 class="mr-3">{{ T "tags" }} :</h5>
                 <ul>
                   {{ range $i,$p:= $tags }}
                     <li class="inline-block">
                       <a
-                        class="bg-light hover:bg-primary dark:bg-darkmode-light dark:hover:bg-darkmode-primary dark:hover:text-text-dark m-1 block rounded px-3 py-1 hover:text-white"
+                        class="tag-btn bg-theme-light"
                         href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/">
                         {{ . | humanize }}
                       </a>
@@ -26,7 +26,7 @@
                 </ul>
               </div>
             {{ end }}
-            <div class="lg:col-6 flex items-center">
+            <div class="lg:col-6 flex items-center ">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons lg:ml-auto" "Title" (T "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
             </div>
           </div>
