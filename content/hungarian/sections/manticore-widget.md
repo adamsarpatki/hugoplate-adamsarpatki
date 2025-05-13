@@ -6,7 +6,7 @@ promo:
   - title: "The Flightless Manticore"
     img: "/images/flightless_manticore_logo_img.jpg"
     content: |
-      Nagyon szeretek fantasytérképeket rajzolni, amit szeretnék is komolyabban űzni, így 2023-ban végre meg is tettem ehhez az első lépést: megszületett a *The Flightless Manticore* blog.
+      Téged is érdekelnek a fantasytérképek? Akkor javaslom, hogy kövesd a *The Flightless Manticore*-t, a blogomat, amelyen asztali szerepjátékokról szoktam írni, illetve ahol megosztom az általam rajzolt térképeket.
 
     button:
         enable: true
