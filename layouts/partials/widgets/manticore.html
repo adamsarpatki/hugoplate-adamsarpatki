@@ -1,0 +1,34 @@
+{{ $data := site.GetPage "manticore-widget.md" }}
+{{ if and $data $data.Params.enable }}
+{{ $promo := index $data.Params.promo 0 }}
+<div class="mb-8">
+    {{ if $promo.title }}
+    <h5 class="mb-6">{{ $promo.title }}</h5>
+    {{ end }}
+
+    <div class="bg-theme-light dark:bg-darkmode-theme-light rounded">
+        {{ if $promo.img }}
+        <img src="{{ $promo.img | relURL }}" alt="{{ $promo.title }}" class="w-full h-auto" loading="lazy" />
+        {{ end }}
+        <div class="p-8 flex flex-col gap-y-4">
+            <div>
+                {{ if $promo.content }}
+                <p class="mb-4 text-gray-700 dark:text-gray-300">
+                    {{ $promo.content | markdownify }}
+                </p>
+                {{ end }}
+            </div>
+            <div class="flex">
+                {{ with $promo.button }}
+                {{ if .enable }}
+                <a href="{{ .link }}"
+                    class="btn-primary btn-sm">
+                    {{ .label }}
+                </a>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

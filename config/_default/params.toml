@@ -81,7 +81,7 @@ button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["categories", "tags", "social-links", "newsletter"]
+sidebar = ["social-links", "manticore", "newsletter", "categories", "tags"]
 
 
 # google map
