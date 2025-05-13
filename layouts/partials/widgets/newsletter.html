@@ -1,0 +1,34 @@
+{{ $data := site.GetPage "newsletter-modal.md" }}
+{{ if and $data $data.Params.enable }}
+{{ $modal := index $data.Params.modal 0 }}
+<div class="mb-8">
+    {{ if $modal.title }}
+    <h5 class="mb-6">{{ $modal.title }}</h5>
+    {{ end }}
+
+    <div class="bg-theme-light dark:bg-darkmode-theme-light rounded">
+        {{ if $modal.img }}
+        <img src="{{ $modal.img | relURL }}" alt="{{ $modal.title }}" class="w-full h-auto" loading="lazy" />
+        {{ end }}
+        <div class="p-8 flex flex-col gap-y-4">
+            <div>
+                {{ if $modal.content }}
+                <p class="mb-4 text-gray-700 dark:text-gray-300">
+                    {{ $modal.content }}
+                </p>
+                {{ end }}
+            </div>
+            <div class="flex">
+                {{ with $modal.button }}
+                {{ if .enable }}
+                <a href="{{ .link }}"
+                    class="btn-primary btn-sm">
+                    {{ .label }}
+                </a>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
