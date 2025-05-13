@@ -1,8 +1,8 @@
 ---
 title: "Publications"
-meta_title: "Publications"
+meta_title: "Publications by Ádám Sárpátki"
 summary: "Publications by literary translator and editor Ádám Sárpátki."
-description: "Updated: 2025-03-14"
+description: "Updated: 2025-05-13"
 image: false
 toc: true
 draft: false
@@ -13,6 +13,7 @@ priority: 0.5
 
 ## Literary translations
 
+- Nicola Whyte: Gyilkosság kilátással. Budapest : Agave Könyvek, 2025. 384 p.
 - John Scalzi: Csak a hold az égen. Ford. Farkas István, Pék Zoltán, Sárpátki Ádám, Tót Barbara. Budapest : Agave Könyvek, 2025. 336 p.
 - J. M. Miro: Holtak háza. Budapest : Agave Könyvek, 2025. 576 p.
 - Ana María Fuster Lavín: Az éhség léptei. In: *A borzalmak hívása – Rémtörténetek a világ minden tájáról.* Szerk. James D. Jenkins, Ryan Cagle. Budapest : Agave Könyvek, 2025. pp. 275–285.
@@ -94,6 +95,8 @@ priority: 0.5
 
 ## Editorial work
 
+- James Islington: A sokaság akarata. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 816 p.
+- Sarah Beth Durst: Bűbájok boltja. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
 - Robin Hobb: Sárkányőrző. Ford. Gubó Luca. Budapest : Delta Vision, 2024. 782 p.
 - Jason M. Hough: Vérvonalak. Ford. Szántai Zsolt. Budapest : Delta Vision, 2024. 466 p.
 - Edward Ashton: Antianyag blues. Ford: Horváth Norbert. Budapest : Agave Könyvek, 2024. 288 p.
