@@ -1,32 +1,32 @@
 - id: home
-  translation: Home
+  translation: Főoldal
 
 - id: read_more
-  translation: Read More
+  translation: Olvasd tovább
 
 - id: send
-  translation: Send
+  translation: Küldés
 
 - id: related_posts
-  translation: Related Posts
+  translation: Kapcsolódó bejegyzések
 
 - id: categories
-  translation: Categories
+  translation: Kategóriák
 
 - id: tags
-  translation: Tags
+  translation: Címkék
 
 - id: toc
-  translation: Table of Contents
+  translation: Tartalomjegyzék
 
 - id: share
-  translation: Share
+  translation: Megosztás
 
 - id: social_links
-  translation: Social Links
+  translation: Közösségimédia-linkek
 
 - id: links
-  translation: Links
+  translation: Linkek
 
 - id: search_input_placeholder
   translation: Search Post ...

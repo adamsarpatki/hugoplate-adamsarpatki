@@ -2,7 +2,7 @@
 {{ $social := site.Data.social.main }}
 {{ if $social }}
   <div class="mb-8">
-    <h5 class="mb-6">{{ i18n "socialLinks" | default "Social Links" }}</h5>
+    <h5 class="mb-6">{{ i18n "links" | default "Links" }}</h5>
     <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8">
       <ul class="space-y-4">
         {{ range $social }}
