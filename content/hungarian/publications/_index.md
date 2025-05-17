@@ -25,6 +25,8 @@ priority: 0.5
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Végső Birodalom I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 893–898.
 - Robert Jackson Bennett: Kohómente. Budapest : Fumax, 2024. 584 p.
 - Michael Witwer: Dungeons and Dragons – Drizzt legendája. Képes útmutató. Budapest : Kolibri Kiadó, 2024. 200 p.
+- Philip K. Dick: Várakozó álláspont. In: *Különös éden.* Budapest : Agave Könyvek, 2024. pp. 311–332.
+- Philip K. Dick: A nyomtató ára. In: *Különös éden.* Budapest : Agave Könyvek, 2024. pp. 286–310.
 - Adam Bray, Kelly Knox: Marvel Studios – Szereplők nagykönyve. Bővített kiadás. Budapest : Kolibri Kiadó, 2024. 240 p.
 - Shelley Parker-Chan: A sötétségbe fojtott világ. Budapest : Agave Könyvek, 2024. 576 p.
 - V. E. Schwab: A hatalom törékeny szálai. Budapest : Agave Könyvek, 2023. 640 p.
