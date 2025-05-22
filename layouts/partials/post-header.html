@@ -1,7 +1,7 @@
 <section class="dark-bg">
   <div class="container text-center">
     <div class="px-8 py-14">
-      <h1 class="text-slate-50">{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
+      <h1 class="text-slate-50">{{ T (printf "%s" (lower .Title)) | default .Title }}</h1>
       {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
       <ul class="mt-6 text-center text-slate-50">
         <li class="mr-4 inline-block">
