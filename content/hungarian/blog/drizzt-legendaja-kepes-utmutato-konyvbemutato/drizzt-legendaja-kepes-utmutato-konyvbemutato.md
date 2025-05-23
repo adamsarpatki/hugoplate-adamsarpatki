@@ -3,6 +3,7 @@
 title: "Könyvbemutató: Drizzt legendája - Képes útmutató"
 meta_title: ""
 author: "Ádám Sárpátki"
+slug: "konyvbemutato-drizzt-legendaja"
 date: "2025-05-22"
 description: ""
 image: ""

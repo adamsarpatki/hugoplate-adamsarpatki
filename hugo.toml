@@ -59,7 +59,7 @@ shortname = '' # we use disqus to show comments in blog posts . To install disqu
 ########################## Permalinks ############################
 [permalinks.page]
 "pages" = "/:slugorcontentbasename/"
-
+"blog" = "/blog/:year/:month/:day/:slug/"
 
 ############################# Modules ############################
 [module]
