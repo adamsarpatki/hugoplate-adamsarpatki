@@ -154,6 +154,11 @@ baseName = "searchindex"
 isPlainText = true
 notAlternative = true
 
+############################# Privacy ##############################
+[privacy]
+  [privacy.youTube]
+    disable = false
+    privacyEnhanced = true
 
 ############################# Plugins ##############################
 
