@@ -6,7 +6,7 @@
 // share icons
 .share-icons {
   .share-link {
-    @apply h-9 w-9 rounded leading-9;
+    @apply h-9 w-9 rounded leading-9 mt-0;
     @apply bg-theme-light hover:bg-indigo-900 dark:bg-darkmode-primary dark:hover:bg-darkmode-primary;
   }
   .share-icon svg {
