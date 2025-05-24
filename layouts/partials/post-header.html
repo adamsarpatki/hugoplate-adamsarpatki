@@ -3,7 +3,7 @@
     <div class="px-8 py-14">
       <h1 class="text-slate-50">{{ T (printf "%s" (lower .Title)) | default .Title }}</h1>
       {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
-      <ul class="mt-6 text-center text-slate-50">
+      <ul class="mt-6 text-center text-slate-50 flex md:flex-row flex-col flex-wrap justify-center gap-y-2">
         <li class="mr-4 inline-block">
           <i class="fa-regular fa-circle-user mr-2"></i>
           <a href="/hu/about/">{{ .Params.author }}
