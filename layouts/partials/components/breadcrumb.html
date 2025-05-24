@@ -3,12 +3,12 @@
 {{ $base := site.Home.Permalink }}
 
 
-<ul class="{{ $class }} inline-flex space-x-1 capitalize">
+<ul class="{{ $class }} inline-flex space-x-1">
   <li>
     <a class="text-slate-50 dark:text-darkmode-primary" href="{{ $base }}">
       {{ i18n "home" | default "Home" }}
     </a>
-    <span class="inlin-block mr-1 text-slate-50">/</span>
+    <span class="inlin-block mr-1 text-slate-50">&nbsp;/</span>
   </li>
   {{ range $i, $e:= $context.Ancestors.Reverse }}
     {{ if and (not .IsHome) (ne .Title "Pages") }}
@@ -18,7 +18,7 @@
           href="{{ .RelPermalink }}">
           {{ .Title }}
         </a>
-        <span class="inlin-block mr-1 text-slate-50">/</span>
+        <span class="inlin-block mr-1 text-slate-50">&nbsp;/</span>
       </li>
     {{ end }}
   {{ end }}
