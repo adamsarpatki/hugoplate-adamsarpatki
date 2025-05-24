@@ -3,7 +3,7 @@
 {{ $base := site.Home.Permalink }}
 
 
-<ul class="{{ $class }} inline-flex space-x-1">
+<ul class="{{ $class }} justify-center flex flex-col flex-wrap md:flex-row gap-y-2 space-x-1">
   <li>
     <a class="text-slate-50 dark:text-darkmode-primary" href="{{ $base }}">
       {{ i18n "home" | default "Home" }}
