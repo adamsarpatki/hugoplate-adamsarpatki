@@ -8,9 +8,9 @@
           {{ range $name, $items := site.Taxonomies.tags }}
             <li class="inline-block">
               <a
-                class="tag-btn {{ if (and (eq $.Page.Kind `term`) (eq $.Page.Type `tags`) (eq $.Page.Title .Page.Title)) }} active {{ end }}"
+                class="tag-btn  {{ if (and (eq $.Page.Kind `term`) (eq $.Page.Type `tags`) (eq $.Page.Title .Page.Title)) }} active {{ end }}"
                 href="{{ .Page.RelPermalink }}">
-                {{ .Page.Title }} <span>( {{- len $items -}} )</span>
+                {{ $name | lower }} <span>( {{- len $items -}} )</span>
               </a>
             </li>
           {{ end }}
