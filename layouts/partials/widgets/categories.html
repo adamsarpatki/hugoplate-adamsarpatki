@@ -12,7 +12,7 @@
                   active
                 {{ end }} flex justify-between"
                 href="{{ .Page.RelPermalink }}">
-                {{ .Page.Title }} <span>( {{ len $items }} )</span>
+                {{ .Page.Title | humanize }} <span>( {{- len $items -}} )</span>
               </a>
             </li>
           {{ end }}
