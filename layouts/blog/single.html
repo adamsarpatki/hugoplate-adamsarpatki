@@ -6,13 +6,13 @@
       <div class="row justify-center">
         <article class="lg:col-10">
           <div class="content mb-10">
-            {{ .Content }}
+            {{ .Content | markdownify }}
           </div>
           <div class="row items-start justify-between">
             {{ $tags:= .Params.tags }}
             {{ if $tags }}
               <div class="lg:col-6 mb-10 flex items-center lg:mb-0 ">
-                <h5 class="mr-3">{{ T "tags" }} :</h5>
+                <h5 class="mr-3">{{ T "tags" }}&nbsp;:</h5>
                 <ul>
                   {{ range $i,$p:= $tags }}
                     <li class="inline-block">
@@ -26,7 +26,7 @@
                 </ul>
               </div>
             {{ end }}
-            <div class="lg:col-6 flex items-center ">
+            <div class="lg:col-6 flex items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons lg:ml-auto" "Title" (T "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
             </div>
           </div>
