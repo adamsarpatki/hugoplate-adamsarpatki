@@ -1,13 +1,13 @@
 {{ with site.GetPage "sections/te-services" }}
 {{ if .Params.enable }}
-<section class="pt-20 pb-20 section dark-bg">
+<section class="pt-20 pb-20 section light-bg">
   <div class="container">
     <div class="row">
       <div class="mx-auto mb-12 text-center md:col-10 lg:col-8 xl:col-6 ">
-        <h2 class="mb-4 text-slate-50">
+        <h2 class="mb-4 text-slate-900">
           {{ .Title | markdownify }}
         </h2>
-        <p class="text-slate-50">
+        <p class="text-slate-900">
           {{ .Params.description | markdownify }}
         </p>
       </div>
@@ -37,7 +37,7 @@
 <div class="">
   {{ if .Params.button.enable }}
   {{ partial "components/CTA-button.html" (dict "content" .Params.button.content "label" .Params.button.label "link"
-  .Params.button.link "bg" "dark-bg") }}
+  .Params.button.link "bg" "light-bg") }}
   {{ end }}
 </div>
 </section>
