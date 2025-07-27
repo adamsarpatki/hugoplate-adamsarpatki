@@ -14,15 +14,31 @@ _build:
   render: "never"
 ---
 
-{{< accordion title="PDF, DOC or something else?" class="border-indigo-900 border-1 bg-slate-50" >}}
+{{< accordion title="What file formats do you accept?" class="border-indigo-900 border-1 bg-slate-50" >}}
 
-Either one is good.
+Anything Microsoft Word or Pages can handle is good (.docx, .rtf or .pages), and I accept PDFs as well.
 
-If you send me a PDF, most likely I will create a flattened PDF so we don't run into any compatibility issues. (A flattened PDF just means that you won't be able to move or accidentally delete my comments. The quality will be unchanged, you'll still be able to zoom in, select the text, etc.) I am also familiar with Adobe Reader's annotation tools.
+If you send me a Word or Pages document, I will use "Track changes" and Comments to tech edit your pattern. (This is my preferred method.)
 
-If you send me a Word or a Pages document, I will use "Track changes". (This is my preferred method.)
+For PDFs, I am familiar with Adobe Reader's annotation tools, so you can easily import my comments into InDesign.
 
 During the editing process, I won't change or rewrite the text of your pattern without your knowledge. I will give you my notes and suggestions, and you can decide what to incorporate and what not to.
+
+{{< /accordion >}}
+
+{{< accordion title="How do you calculate the word count of a pattern?" class="border-indigo-900 border-1 bg-slate-50" >}}
+
+If you send me a Word or Pages document, I'll use the program's built-in word count tool. If you send me a PDF, I will copy the text into Word, and then check the word count.
+
+**Note:** Converting text from PDF to Word may slightly inflate the word count, as formatting issues can occasionally split words. To ensure an accurate count and avoid overcharging, I recommend sending your file as a Word or Pages document whenever possible.
+
+{{< /accordion >}}
+
+{{< accordion title="What if a pattern needs rewriting or more than three rounds of editing?" class="border-indigo-900 border-1 bg-slate-50" >}}
+
+I will never rewrite your work for you, but I will flag areas that might need significant revision. I will also offer suggestions on how to improve them.
+
+Should your pattern need more than three rounds of editing, we'll discuss how to proceed. Any additional work can be billed using my current hourly rate or per word rate, depending on your budget and the required tasks.
 
 {{< /accordion >}}
 
