@@ -38,7 +38,7 @@ If you send me a Word or Pages document, I'll use the program's built-in word co
 
 I will never rewrite your work for you, but I will flag areas that might need significant revision. I will also offer suggestions on how to improve them.
 
-Should your pattern need more than three rounds of editing, we'll discuss how to proceed. Any additional work can be billed using my current hourly rate or per word rate, depending on your budget and the required tasks.
+Should your pattern need more than three rounds of editing, we'll discuss how to proceed. Any additional work can be billed using my current hourly rate or per word rate, depending on the required tasks.
 
 {{< /accordion >}}
 
