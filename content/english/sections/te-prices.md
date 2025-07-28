@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "My services"
+title: "Pricing"
 description: "Are you a knitwear designer? Let me help you with my services"
 
 services:
