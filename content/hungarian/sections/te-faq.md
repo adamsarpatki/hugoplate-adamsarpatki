@@ -36,9 +36,9 @@ Ha Worddel vagy Pagesszel szerkeszthető fájlt küldesz, akkor az adott program
 
 {{< accordion title="Mi történik, ha teljesen át kell írni a mintát, vagy ha háromnál több lektori kört igényel?" class="border-indigo-900 border-1 bg-slate-50" >}}
 
-Én sosem fogom átírni a kötésmintádat, de megjelölöm azokat a helyeket, ahol érdemes lehet alakítani rajta. Szívesen teszek javaslatokat is a javításra.
+Nem írom át a kötésmintádat, de mindenképpen megjelölöm azokat a helyeket, ahol érdemes lehet alakítani rajta.
 
-Ha a kötésmintádnak háromnál több lektori körre van szüksége, akkor megbeszéljük, mi lenne a legjobb megoldás. Az elvégzendő feladatokat számolhatjuk a mindenkori órabérem vagy a szavankénti díjam alapján is, a feladat jellegétől függően.
+Ha a kötésmintádnak háromnál több lektori körre lenne szüksége, akkor minden további munkát órabérben kérhetsz tőlem, melynek jelenlegi összege 35 euró / 13.500 Ft. Nem térek át automatikusan órabérre – mindenképpen egyeztetünk, ha úgy tűnik, hogy erre szükség lenne.
 
 {{< /accordion >}}
 

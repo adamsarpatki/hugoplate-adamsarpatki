@@ -36,9 +36,9 @@ If you send me a Word or Pages document, I'll use the program's built-in word co
 
 {{< accordion title="What if a pattern needs rewriting or more than three rounds of editing?" class="border-indigo-900 border-1 bg-slate-50" >}}
 
-I will never rewrite your work for you, but I will flag areas that might need significant revision. I will also offer suggestions on how to improve them.
+I won't rewrite your work for you, but I will flag any areas that may need substantial revision and offer clear suggestions to help you improve them.
 
-Should your pattern need more than three rounds of editing, we'll discuss how to proceed. Any additional work can be billed using my current hourly rate or per word rate, depending on the required tasks.
+If your pattern still needs editing after three rounds, additional work is billed at €35/hour, in 15-minute increments. However, I will always check in with you if we need to move beyond the original scope of the project.
 
 {{< /accordion >}}
 
