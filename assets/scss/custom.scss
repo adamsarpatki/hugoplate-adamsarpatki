@@ -14,26 +14,26 @@
 
 // Custom styles for links
 a, .dark-bg a {
-  @apply text-indigo-800 no-underline transition duration-300 ease-in-out font-bold;
+  @apply text-indigo-400 no-underline transition duration-300 ease-in-out font-bold;
 }
 
 a:hover, .dark-bg a:hover {
-  @apply text-indigo-600;
+  @apply text-indigo-300;
 }
 
 a:active, .dark-bg a:active {
   @apply text-indigo-400;
 }
 
-.content a, .light-bg a {
+.content a, .mixed-bg a, .light-bg a {
   @apply text-indigo-800 no-underline transition duration-300 ease-in-out font-bold;
 }
 
-.content a:hover, .light-bg a:hover {
-  @apply text-indigo-800;
+.content a:hover, .mixed-bg a:hover, .light-bg a:hover {
+  @apply text-indigo-600;
 }
 
-.content a:active, .light-bg a:active {
+.content a:active, .mixed-bg a:active, .light-bg a:active {
   @apply text-indigo-800;
 }
 
