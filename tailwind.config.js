@@ -28,10 +28,32 @@ if (theme.fonts.font_family.secondary) {
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./hugo_stats.json",
+  content: ["./hugo_stats.json"],
+  safelist: [
+    { pattern: /^swiper-/ },
+    { pattern: /^lb-/ },
+    { pattern: /^gl/ },
+    { pattern: /^go/ },
+    { pattern: /^gc/ },
+    { pattern: /^gs/ },
+    { pattern: /^gi/ },
+    { pattern: /^gz/ },
+    { pattern: /^gprev/ },
+    { pattern: /^gnext/ },
+    { pattern: /^desc/ },
+    { pattern: /^zoom/ },
+    { pattern: /^search/ },
+    { pattern: /^:is/ },
+    { pattern: /dark/ },
+    { pattern: /show/ },
+    { pattern: /dragging/ },
+    { pattern: /fullscreen/ },
+    { pattern: /loaded/ },
+    { pattern: /visible/ },
+    { pattern: /current/ },
+    { pattern: /active/ },
+    { pattern: /mark/ },
   ],
-  safelist: [{ pattern: /^swiper-/ }],
   darkMode: "class",
   theme: {
     screens: {
