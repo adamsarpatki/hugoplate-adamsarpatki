@@ -2,7 +2,7 @@
 title: "Publikációk"
 meta_title: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
 summary: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
-description: "Frissítve: 2025-05-13"
+description: "Frissítve: 2025-09-18"
 image: false
 toc: true
 draft: false
@@ -13,6 +13,9 @@ priority: 0.5
 
 ## Műfordítások
 
+- Robert Jackson Bennett: Partszakadás. Budapest : Fumax, 2025. 554 p.
+- Brandon Sanderson: A királyok útja II. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 904 p.
+- Brandon Sanderson: A királyok útja I. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 736 p.
 - Nicola Whyte: Gyilkosság kilátással. Budapest : Agave Könyvek, 2025. 384 p.
 - John Scalzi: Csak a hold az égen. Ford. Farkas István, Pék Zoltán, Sárpátki Ádám, Tót Barbara. Budapest : Agave Könyvek, 2025. 336 p.
 - J. M. Miro: Holtak háza. Budapest : Agave Könyvek, 2025. 576 p.
@@ -95,6 +98,8 @@ priority: 0.5
 
 ## Szerkesztések
 
+- Matt Dinniman: Dungeon Crawler Carl – A kazamata hőse. Ford. Tót Barbara. Budapest : Agave Könyvek, 2025. 464 p.
+- R. F. Kuang: Katabasis. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 512 p.
 - James Islington: A sokaság akarata. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 816 p.
 - Sarah Beth Durst: Bűbájok boltja. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
 - Jason M. Hough: Vérvonalak. Ford. Szántai Zsolt. Budapest : Delta Vision, 2024. 466 p.
