@@ -35,6 +35,6 @@ testimonials:
 
     
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---

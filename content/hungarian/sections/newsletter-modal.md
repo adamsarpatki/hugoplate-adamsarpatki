@@ -14,6 +14,6 @@ modal:
         link: https://yarnboundtales.substack.com/
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---

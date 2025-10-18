@@ -10,7 +10,7 @@ button:
   link: "mailto:hello@adamsarpatki.com"
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---
 

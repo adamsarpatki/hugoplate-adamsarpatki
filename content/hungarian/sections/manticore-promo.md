@@ -16,6 +16,6 @@ promo:
         link: https://flightlessmanticore.com/
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---
