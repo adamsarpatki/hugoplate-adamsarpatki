@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 meta_title: "Portfolio"
-description: "Updated: 2024-10-10"
+description: "Updated: 2025-10-18"
 draft: false
 changefreq: monthly
 priority: 0.8
