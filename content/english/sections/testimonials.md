@@ -5,12 +5,12 @@ description: "Testimonials from clients and colleagues"
 
 # Testimonials
 testimonials:
-  - name: "Zoltán Velkei"
-    designation: "Chief of Publishing"
-    company: "Agave Könyvek"
-    link: "https://agavekonyvek.hu/"
-    avatar: "/images/testimonial_velkei.jpg"
-    content: "Each time Ádám works on one of our books, whether it needs translating or editing, I know it’s in safe hands. He has an outstanding sense of language and style, and it’s great to see the dedication and care he devotes to each project. Additionally, his work on decidedly lengthy novels is always of exceptional quality. I consider him one of the most talented professionals among his younger peers."
+  - name: "Weichien Chan"
+    designation: "Knitwear Designer"
+    company: "Saskie & Co."
+    link: "https://saskie.co/"
+    avatar: "/images/saskie-co-logo.png"
+    content: "It was a pleasure to work with Ádám as my technical editor. He is incredibly detail-oriented and can spot inconsistencies very well. His process-driven approach keeps everything clear and organized. He respects and works well with deadlines too. Beyond his technical skills, he is easy to communicate with and is solution-oriented. I would recommend him as a technical editor."
 
   - name: "Mici Harangozó"
     designation: "TKGA Certified Knitwear Designer"
@@ -19,6 +19,13 @@ testimonials:
     avatar: "/images/testimonial_gynka.jpg"
     content: "When I am designing, my brain is all over the place. I am thinking about dozens of design elements, stitch patterns, knitting techniques and how they affect each other, so their combination becomes a unique design piece and they eventually form a knitting pattern that is easy to follow but exciting to knit at the same time. It is such a relief to know that I can wander freely in all this creative chaos and I do not have to worry about spelling, wording or punctuation because I have Ádám to create perfect order at the end!"
 
+  - name: "Zoltán Velkei"
+    designation: "Chief of Publishing"
+    company: "Agave Könyvek"
+    link: "https://agavekonyvek.hu/"
+    avatar: "/images/testimonial_velkei.jpg"
+    content: "Each time Ádám works on one of our books, whether it needs translating or editing, I know it’s in safe hands. He has an outstanding sense of language and style, and it’s great to see the dedication and care he devotes to each project. Additionally, his work on decidedly lengthy novels is always of exceptional quality. I consider him one of the most talented professionals among his younger peers."
+    
   - name: "Balázs Farkas"
     designation: "Writer"
     company: "Official website"
