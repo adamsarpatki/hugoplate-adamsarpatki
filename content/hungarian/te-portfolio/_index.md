@@ -1,7 +1,7 @@
 ---
 title: "Portfólió"
 meta_title: "Portfólió"
-description: "Frissítve: 2025-10-18"
+description: "Frissítve: 2025-11-15"
 draft: false
 changefreq: monthly
 priority: 0.8
@@ -19,7 +19,7 @@ columns:
 - title: "Saskie Cardigan"
   designer: "Weichien Chan"
   company: Saskie & Co.
-  image: "/images/saskie-knits-saskie-cardigan.webp"
+  image: "/images/saskie-knits-saskie-cardigan.jpg"
   keywords: "cardigan, chart, flat knitting, modular, stranded colourwork"
   website: "https://saskie.co/"
   CTA: "Published in *Saskie Knits*"
