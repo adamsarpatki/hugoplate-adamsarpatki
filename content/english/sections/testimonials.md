@@ -11,6 +11,13 @@ testimonials:
     link: "https://saskie.co/"
     avatar: "/images/saskie-co-logo.png"
     content: "It was a pleasure to work with Ádám as my technical editor. He is incredibly detail-oriented and can spot inconsistencies very well. His process-driven approach keeps everything clear and organized. He respects and works well with deadlines too. Beyond his technical skills, he is easy to communicate with and is solution-oriented. I would recommend him as a technical editor."
+  
+  - name: "Brianna Leigh"
+    designation: "Knitwear Designer"
+    company: "Brianna Leigh"
+    link: "https://www.ravelry.com/designers/brianna-leigh"
+    avatar: ""
+    content: "Ádám is an incredible professional to work with. He was patient, diligent, and thoughtful while editing my knit design. I especially appreciated that he included articles and resources to provide more in-depth explanations for the corrections he suggested. The time and care that Ádám invested in my pattern went well beyond my expectations, and I am so happy to have been able to work with him. He transformed my design and writing into something that others can easily follow, and for that, I am very grateful."
 
   - name: "Mici Harangozó"
     designation: "TKGA Certified Knitwear Designer"
