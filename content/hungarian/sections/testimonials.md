@@ -40,6 +40,13 @@ testimonials:
     avatar: "/images/testimonial_gynka.jpg"
     content: "Tervezés közben sokfelé kalandoznak a gondolataim. Tucatnyi alkotóelem, minta és kötéstechnika megfordul a fejemben, illetve az is, ezek miként hatnak majd egymásra, hogy végül egyedi darabbá álljanak össze – könnyen követhető, ugyanakkor izgalmas kötésmintává. Hatalmas megkönnyebbülés a tudat, hogy szabadon kiélvezhetem ezt a kreatív káoszt, és nem kell aggódnom sem a helyesírás, sem a szóhasználat, sem a központozás miatt, mert itt van Ádám, aki a végén segít nekem rendet tenni."
 
+  - name: "Brianna Leigh"
+    designation: "Knitwear Designer"
+    company: "Brianna Leigh"
+    link: "https://www.ravelry.com/designers/brianna-leigh"
+    avatar: "/images/testimonial_blank.jpg"
+    content: "Ádám is an incredible professional to work with. He was patient, diligent, and thoughtful while editing my knit design. I especially appreciated that he included articles and resources to provide more in-depth explanations for the corrections he suggested. The time and care that Ádám invested in my pattern went well beyond my expectations, and I am so happy to have been able to work with him. He transformed my design and writing into something that others can easily follow, and for that, I am very grateful."
+
     
 # don't create a separate page
 build:
