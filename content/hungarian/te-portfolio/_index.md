@@ -1,7 +1,7 @@
 ---
 title: "Portfólió"
 meta_title: "Portfólió"
-description: "Frissítve: 2025-11-15"
+description: "Frissítve: 2025-12-04"
 draft: false
 changefreq: monthly
 priority: 0.8
@@ -24,6 +24,15 @@ columns:
   website: "https://saskie.co/"
   CTA: "Pattern on Ravelry"
   pattern_link: "https://www.ravelry.com/patterns/library/saskie-cardigan"
+
+- title: "Christmas Stocking"
+  designer: "Brianna Leigh"
+  company: Brianna Leigh
+  image: "/images/brianna-leigh-christmas-stocking.jpg"
+  keywords: "chart, Christmas, cuff-down, intarsia, short-rows, stocking, stranded colourwork"
+  website: "https://www.ravelry.com/designers/brianna-leigh"
+  CTA: "Pattern on Ravelry"
+  pattern_link: "https://www.ravelry.com/patterns/library/christmas-stocking-165"
 
 ---
 
