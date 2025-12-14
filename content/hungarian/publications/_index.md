@@ -2,7 +2,7 @@
 title: "Publikációk"
 meta_title: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
 summary: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
-description: "Frissítve: 2025-09-18"
+description: "Frissítve: 2025-12-14"
 image: false
 toc: true
 draft: false
@@ -99,6 +99,7 @@ priority: 0.5
 ## Szerkesztések
 
 - Matt Dinniman: Dungeon Crawler Carl – A kazamata hőse. Ford. Tót Barbara. Budapest : Agave Könyvek, 2025. 464 p.
+- Sarah Beth Durst: Az elvarázsolt üvegház. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
 - R. F. Kuang: Katabasis. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 512 p.
 - James Islington: A sokaság akarata. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 816 p.
 - Sarah Beth Durst: Bűbájok boltja. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
