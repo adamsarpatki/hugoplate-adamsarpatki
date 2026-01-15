@@ -99,6 +99,7 @@ priority: 0.5
 
 ## Editorial work
 
+- Matt Dinniman: A végítélet forgatókönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 384 p.
 - Matt Dinniman: Dungeon Crawler Carl – A kazamata hőse. Ford. Tót Barbara. Budapest : Agave Könyvek, 2025. 464 p.
 - Sarah Beth Durst: Az elvarázsolt üvegház. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
 - R. F. Kuang: Katabasis. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 512 p.
