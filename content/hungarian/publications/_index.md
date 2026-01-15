@@ -2,7 +2,7 @@
 title: "Publikációk"
 meta_title: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
 summary: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
-description: "Frissítve: 2025-12-14"
+description: "Frissítve: 2026-01-15"
 image: false
 toc: true
 draft: false
@@ -13,6 +13,7 @@ priority: 0.5
 
 ## Műfordítások
 
+- Vanessa Len: Never a Hero - Sohasem hős. Budapest : Anassa Könyvek, 2026. 496 p.
 - Robert Jackson Bennett: Partszakadás. Budapest : Fumax, 2025. 554 p.
 - Brandon Sanderson: A királyok útja II. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 904 p.
 - Brandon Sanderson: A királyok útja I. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 736 p.
@@ -42,7 +43,7 @@ priority: 0.5
 - 5 perces Star Wars-történetek. 2. kiad. Budapest : Kolibri, 2023. 176 p.
 - Adam Bray: Marvel Studios – Szereplők nagykönyve. Jav. utánny. Budapest : Kolibri, 2022. 176 p.
 - Melanie Scott: Pókember – Szereplők nagykönyve. Budapest : Kolibri Kiadó, 2022. 208 p.
-- Vanessa Len: Only a Monster – Csak egy szörnyeteg. Budapest : Anassa Kiadó, 2022. 368 p.
+- Vanessa Len: Only a Monster – Csak egy szörnyeteg. Budapest : Anassa Könyvek, 2022. 368 p.
 - Giovanna Alessio: Hogyan öltözködik a világ? Budapest : Kolibri, 2022. 80 p.
 - Anna Claybourne: Az állandó változás. Budapest : Kolibri, 2022. 64 p.
 - Simon Jimenez: Elveszett madarak. Budapest : Agave Könyvek, 2022. 400 p.

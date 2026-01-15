@@ -2,7 +2,7 @@
 title: "Publications"
 meta_title: "Publications by Ádám Sárpátki"
 summary: "Publications by literary translator and editor Ádám Sárpátki."
-description: "Updated: 2025-12-14"
+description: "Updated: 2026-01-15"
 image: false
 toc: true
 draft: false
@@ -13,6 +13,7 @@ priority: 0.5
 
 ## Literary translations
 
+- Vanessa Len: Never a Hero - Sohasem hős. Budapest : Anassa Könyvek, 2026. 496 p.
 - Robert Jackson Bennett: Partszakadás. Budapest : Fumax, 2025. 554 p.
 - Brandon Sanderson: A királyok útja II. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 904 p.
 - Brandon Sanderson: A királyok útja I. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 736 p.
