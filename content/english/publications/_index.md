@@ -2,7 +2,7 @@
 title: "Publications"
 meta_title: "Publications by Ádám Sárpátki"
 summary: "Publications by literary translator and editor Ádám Sárpátki."
-description: "Updated: 2026-01-15"
+description: "Updated: 2026-03-15"
 image: false
 toc: true
 draft: false
@@ -13,6 +13,9 @@ priority: 0.5
 
 ## Literary translations
 
+- Az Imágó szekvencia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 313–373.
+- Parallaxis. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 267–297.
+- Hallucigenia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 193–265.
 - Vanessa Len: Never a Hero - Sohasem hős. Budapest : Anassa Könyvek, 2026. 496 p.
 - Robert Jackson Bennett: Partszakadás. Budapest : Fumax, 2025. 554 p.
 - Brandon Sanderson: A királyok útja II. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 904 p.
@@ -43,7 +46,7 @@ priority: 0.5
 - 5 perces Star Wars-történetek. 2. kiad. Budapest : Kolibri, 2023. 176 p.
 - Adam Bray: Marvel Studios – Szereplők nagykönyve. Jav. utánny. Budapest : Kolibri, 2022. 176 p.
 - Melanie Scott: Pókember – Szereplők nagykönyve. Budapest : Kolibri Kiadó, 2022. 208 p.
-- Vanessa Len: Only a Monster – Csak egy szörnyeteg. Budapest : Anassa Kiadó, 2022. 368 p.
+- Vanessa Len: Only a Monster – Csak egy szörnyeteg. Budapest : Anassa Könyvek, 2022. 368 p.
 - Giovanna Alessio: Hogyan öltözködik a világ? Budapest : Kolibri, 2022. 80 p.
 - Anna Claybourne: Az állandó változás. Budapest : Kolibri, 2022. 64 p.
 - Simon Jimenez: Elveszett madarak. Budapest : Agave Könyvek, 2022. 400 p.
@@ -60,16 +63,16 @@ priority: 0.5
 - Matt Yeo: 100%-ig nem hivatalos Among Us útmutató. Budapest : Kolibri, 2021. 64 p.
 - 5 perces Star Wars-történetek. Budapest : Kolibri, 2021. 176 p.
 - Scott Lynch: Malkuril, a varázsló házának bukása és felemelkedése. In: *A mágia könyve.* Szerk. Gardner Dozois. Budapest : Delta Vision, 2021. pp. 643–688.
-- George R. R. Martin: Égi manna. In: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 367–420.
-- George R. R. Martin: Ráadás. In: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 239–287.
-- George R. R. Martin: Kenyér és hal. In: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 115–187.
+- Égi manna. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 367–420.
+- Ráadás. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 239–287.
+- Kenyér és hal. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 115–187.
 - Brandon Sanderson: Békéltető. Budapest : Delta Vision, 2021. 776 p.
 - Ben Hubbard: Így éltünk a régi időkben. Budapest : Kolibri, 2020. 64 p.
 - Stella Caldwell: Fiatalok, merészek, lenyűgözőek. Budapest : Kolibri, 2020. 112 p.
 - Jenn Lyons: Minden Dolgok Neve. Budapest : Agave Könyvek, 2020. 780 p.
 - Scott Lynch: Tolvajok köztársasága. Budapest : Delta Vision, 2020. 804 p.
 - Brandon Sanderson: Tündöklő szavak I-II. Budapest : Delta Vision, 2020. 1656 p.
-- Ken Liu: Az üzenet. In: *Az istenekkel nem lehet végezni.* Budapest : Agave Könyvek, 2020. pp. 316–337.
+- Az üzenet. In: Ken Liu: *Az istenekkel nem lehet végezni.* Budapest : Agave Könyvek, 2020. pp. 316–337.
 - Stephanie Milton: Minecraft – Térképek. Budapest : Bookline Könyvek, 2019. 78 p.
 - Jenn Lyons: Királyok Veszte. Budapest : Agave Könyvek, 2019. 720 p.
 - Adam Bray: Marvel Studios – Szereplők nagykönyve. Budapest : Kolibri, 2019. 176 p.
@@ -94,7 +97,7 @@ priority: 0.5
 - Robert F. Young: Rongyos. In: *Galaktika,* 35. évf. 7. sz. (2014) pp. 68–87.
 - Jack London: Rathbone őrnagy újjászületése. In: *Ezer halál – Válogatás Jack London fantasztikus novelláiból.* Vál. Németh Attila. Budapest : Metropolis Media, 2014. (Galaktika fantasztikus könyvek) pp. 17–28.
 - Edgar Allan Poe: A kompozíció filozófiája. In: *2Pofon – Műfordítás antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2013. (Dolce Filologia, X.) pp. 19–32.
-- Terry Pratchett: A Halál, és ami utána következik. In: *Pofon – Antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 163–166.
+- Terry Pratchett: A Halál, és ami utána következik. In: *Pofon – Antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 163–166. 
 - Terry Pratchett: A troll hídja. In: *Pofon – Antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 151–162.
 
 ## Editorial work

@@ -2,7 +2,7 @@
 title: "Publikációk"
 meta_title: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
 summary: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
-description: "Frissítve: 2026-01-15"
+description: "Frissítve: 2026-03-15"
 image: false
 toc: true
 draft: false
@@ -13,6 +13,9 @@ priority: 0.5
 
 ## Műfordítások
 
+- Az Imágó szekvencia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 313–373.
+- Parallaxis. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 267–297.
+- Hallucigenia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 193–265.
 - Vanessa Len: Never a Hero - Sohasem hős. Budapest : Anassa Könyvek, 2026. 496 p.
 - Robert Jackson Bennett: Partszakadás. Budapest : Fumax, 2025. 554 p.
 - Brandon Sanderson: A királyok útja II. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 904 p.
@@ -49,27 +52,27 @@ priority: 0.5
 - Simon Jimenez: Elveszett madarak. Budapest : Agave Könyvek, 2022. 400 p.
 - Brandon Sanderson: Eskühozó I-II. Budapest : Delta Vision, 2022. 1754 p.
 - Christopher Buehlman: A fekete nyelvű tolvaj. Budapest : Agave Könyvek, 2022. 452 p.
-- Amor Towles: Érkezés a célhoz. In: Elhagyott part. Szerk. Blake Crouch. Budapest : Agave Könyvek, 2022. pp. 171–226.
+- Amor Towles: Érkezés a célhoz. In: *Elhagyott part.* Szerk. Blake Crouch. Budapest : Agave Könyvek, 2022. pp. 171–226.
 - Jenn Lyons: Lelkek emlékezete. Budapest : Agave Könyvek, 2021. 816 p.
 - Jordan Paramor: Szexoktatás – Útmutató az élethez. Budapest : Kolibri, 2021. 192. p.
 - Kathy Birchall: Szexoktatás – Az utazás. Budapest : Kolibri, 2021. 276 p.
-- Scott Lynch: Esetleg menj oda, és beszélj vele. In: Sárkányok könyve. Szerk. Jonathan Strahan. Budapest : GABO, 2021. pp. 487–514.
-- Todd McCaffrey: Kismadár könyörgése. In: Sárkányok könyve. Szerk. Jonathan Strahan. Budapest : GABO, 2021. pp. 403–427.
-- Matthew Baker: Őfelsége vallomása. In: Egy nehéz nap Utópiában. Budapest : Agave Könyvek, 2021. pp. 127–173.
-- Matthew Baker: Egy nehéz nap Utópiában. In: Egy nehéz nap Utópiában. Budapest : Agave Könyvek, 2021. pp. 114–126.
+- Scott Lynch: Esetleg menj oda, és beszélj vele. In: *Sárkányok könyve.* Szerk. Jonathan Strahan. Budapest : GABO, 2021. pp. 487–514.
+- Todd McCaffrey: Kismadár könyörgése. In: *Sárkányok könyve.* Szerk. Jonathan Strahan. Budapest : GABO, 2021. pp. 403–427.
+- Matthew Baker: Őfelsége vallomása. In: *Egy nehéz nap Utópiában.* Budapest : Agave Könyvek, 2021. pp. 127–173.
+- Matthew Baker: Egy nehéz nap Utópiában. In: *Egy nehéz nap Utópiában.* Budapest : Agave Könyvek, 2021. pp. 114–126.
 - Matt Yeo: 100%-ig nem hivatalos Among Us útmutató. Budapest : Kolibri, 2021. 64 p.
 - 5 perces Star Wars-történetek. Budapest : Kolibri, 2021. 176 p.
-- Scott Lynch: Malkuril, a varázsló házának bukása és felemelkedése. In: A mágia könyve. Szerk. Gardner Dozois. Budapest : Delta Vision, 2021. pp. 643–688.
-- George R. R. Martin: Égi manna. In: Tuf utazásai. Budapest : Agave Könyvek, 2021. pp. 367–420.
-- George R. R. Martin: Ráadás. In: Tuf utazásai. Budapest : Agave Könyvek, 2021. pp. 239–287.
-- George R. R. Martin: Kenyér és hal. In: Tuf utazásai. Budapest : Agave Könyvek, 2021. pp. 115–187.
+- Scott Lynch: Malkuril, a varázsló házának bukása és felemelkedése. In: *A mágia könyve.* Szerk. Gardner Dozois. Budapest : Delta Vision, 2021. pp. 643–688.
+- Égi manna. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 367–420.
+- Ráadás. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 239–287.
+- Kenyér és hal. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 115–187.
 - Brandon Sanderson: Békéltető. Budapest : Delta Vision, 2021. 776 p.
 - Ben Hubbard: Így éltünk a régi időkben. Budapest : Kolibri, 2020. 64 p.
 - Stella Caldwell: Fiatalok, merészek, lenyűgözőek. Budapest : Kolibri, 2020. 112 p.
 - Jenn Lyons: Minden Dolgok Neve. Budapest : Agave Könyvek, 2020. 780 p.
 - Scott Lynch: Tolvajok köztársasága. Budapest : Delta Vision, 2020. 804 p.
 - Brandon Sanderson: Tündöklő szavak I-II. Budapest : Delta Vision, 2020. 1656 p.
-- Ken Liu: Az üzenet. In: Az istenekkel nem lehet végezni. Budapest : Agave Könyvek, 2020. pp. 316–337.
+- Az üzenet. In: Ken Liu: *Az istenekkel nem lehet végezni.* Budapest : Agave Könyvek, 2020. pp. 316–337.
 - Stephanie Milton: Minecraft – Térképek. Budapest : Bookline Könyvek, 2019. 78 p.
 - Jenn Lyons: Királyok Veszte. Budapest : Agave Könyvek, 2019. 720 p.
 - Adam Bray: Marvel Studios – Szereplők nagykönyve. Budapest : Kolibri, 2019. 176 p.
@@ -78,24 +81,24 @@ priority: 0.5
 - Sir Arthur Conan Doyle: Sir Nigel. Budapest : Delta Vision, 2019. 472 p.
 - Brandon Sanderson: A királyok útja I-II. Budapest : Delta Vision, 2018. 1546 p.
 - Scott Lynch: A karmazsin lobogó. Budapest : Delta Vision, 2018. 784 p.
-- Scott Lynch: Az arany füstje a dicsőség. In: Az év legjobb science fiction és fantasynovellái 2018. Szerk. Jonathan Strahan. Budapest : GABO, 2018. pp. 314–353.
+- Scott Lynch: Az arany füstje a dicsőség. In: *Az év legjobb science fiction és fantasynovellái 2018.* Szerk. Jonathan Strahan. Budapest : GABO, 2018. pp. 314–353.
 - Brandon Sanderson: Elantris. [Bónusz tartalmak fordítása.] Budapest : Delta Vision, 2018. 840 p.
 - Arthur D. Howden Smith: Szürke Hajadon. Budapest : Delta Vision, 2018. 440 p.
 - Sir Arthur Conan Doyle: A Fehér Sereg. Budapest : Delta Vision, 2017. 536 p.
-- Glen Hirshberg: Táncoló Emberek. In: Sötétség. Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 447–478.
-- Steve Rasnic Tem: Forróság. In: Sötétség. Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 409–417.
-- Dennis Etchison: A kutyafuttató. In: Sötétség. Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 303–314.
-- Amal El-Mohtar: Az üveg és vas évszakai. In: Az év legjobb science fiction és fantasynovellái 2017. Szerk. Jonathan Strahan. Budapest : GABO, 2017. pp. 361–376.
-- Vonda N. McIntyre: Húgocskák. In: Az év legjobb science fiction és fantasynovellái 2016. Szerk. Jonathan Strahan. Budapest : GABO, 2016. pp. 431–445.
-- George Gipe: Vissza a jövőbe. In: Galaktika XL, 36. évf. 6. sz. (2015) pp. 115–202.
-- Polenth Blake: A madarak megváltoznak. In: Galaktika, 36. évf. 4. sz. (2015) pp. 58–67.
-- Hal Clement: Kritikus pont. In: Galaktika XL, 35. évf. 11. sz. (2014) pp. 116–199.
-- Karen Joy Fowler: Praxis. In: Galaktika, 35. évf. 10. sz. (2014) pp. 56–62.
-- Robert F. Young: Rongyos. In: Galaktika, 35. évf. 7. sz. (2014) pp. 68–87.
-- Jack London: Rathbone őrnagy újjászületése. In: Ezer halál – Válogatás Jack London fantasztikus novelláiból. Vál. Németh Attila. Budapest : Metropolis Media, 2014. (Galaktika fantasztikus könyvek) pp. 17–28.
-- Edgar Allan Poe: A kompozíció filozófiája. In: 2Pofon – Műfordítás antológia. Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2013. (Dolce Filologia, X.) pp. 19–32.
-- Terry Pratchett: A Halál, és ami utána következik. In: Pofon – Antológia. Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 163–166. 
-- Terry Pratchett: A troll hídja. In: Pofon – Antológia. Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 151–162.
+- Glen Hirshberg: Táncoló Emberek. In: *Sötétség.* Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 447–478.
+- Steve Rasnic Tem: Forróság. In: *Sötétség.* Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 409–417.
+- Dennis Etchison: A kutyafuttató. In: *Sötétség.* Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 303–314.
+- Amal El-Mohtar: Az üveg és vas évszakai. In: *Az év legjobb science fiction és fantasynovellái 2017.* Szerk. Jonathan Strahan. Budapest : GABO, 2017. pp. 361–376.
+- Vonda N. McIntyre: Húgocskák. In: *Az év legjobb science fiction és fantasynovellái 2016.* Szerk. Jonathan Strahan. Budapest : GABO, 2016. pp. 431–445.
+- George Gipe: Vissza a jövőbe. In: *Galaktika XL,* 36. évf. 6. sz. (2015) pp. 115–202.
+- Polenth Blake: A madarak megváltoznak. In: *Galaktika,* 36. évf. 4. sz. (2015) pp. 58–67.
+- Hal Clement: Kritikus pont. In: *Galaktika XL,* 35. évf. 11. sz. (2014) pp. 116–199.
+- Karen Joy Fowler: Praxis. In: *Galaktika,* 35. évf. 10. sz. (2014) pp. 56–62.
+- Robert F. Young: Rongyos. In: *Galaktika,* 35. évf. 7. sz. (2014) pp. 68–87.
+- Jack London: Rathbone őrnagy újjászületése. In: *Ezer halál – Válogatás Jack London fantasztikus novelláiból.* Vál. Németh Attila. Budapest : Metropolis Media, 2014. (Galaktika fantasztikus könyvek) pp. 17–28.
+- Edgar Allan Poe: A kompozíció filozófiája. In: *2Pofon – Műfordítás antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2013. (Dolce Filologia, X.) pp. 19–32.
+- Terry Pratchett: A Halál, és ami utána következik. In: *Pofon – Antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 163–166. 
+- Terry Pratchett: A troll hídja. In: *Pofon – Antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 151–162.
 
 ## Szerkesztések
 
