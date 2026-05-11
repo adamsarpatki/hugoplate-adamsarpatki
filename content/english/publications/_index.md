@@ -13,11 +13,16 @@ priority: 0.5
 
 ## Literary translations
 
+### 2026
+
 - Hiron Ennes: Férgek szimfóniája. Budapest : Agave Könyvek, 2026. 480 p.
 - Az Imágó szekvencia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 313–373.
 - Parallaxis. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 267–297.
 - Hallucigenia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 193–265.
 - Vanessa Len: Never a Hero - Sohasem hős. Budapest : Anassa Könyvek, 2026. 496 p.
+
+### 2025
+
 - Robert Jackson Bennett: Partszakadás. Budapest : Fumax, 2025. 554 p.
 - Brandon Sanderson: A királyok útja II. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 904 p.
 - Brandon Sanderson: A királyok útja I. Tizedik évfordulós kiadás. Budapest : Delta Vision, 2025. 736 p.
@@ -28,6 +33,9 @@ priority: 0.5
 - Konsztandínosz Kélisz: Elsőszülött. In: *A borzalmak hívása – Rémtörténetek a világ minden tájáról.* Szerk. James D. Jenkins, Ryan Cagle. Budapest : Agave Könyvek, 2025. pp. 252–266.
 - Preeti Chhibber: Pókember és az összefüggések hálója. Budapest : Kolibri, 2025. 305 p.
 - Christopher Buehlman: Hollólovagok. Budapest : Agave Könyvek, 2025. 432 p.
+
+### 2024
+
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Korok Hőse I-II.* Budapest : Delta Vision, 2024. pp. 9–15., 1031–1039.
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Megdicsőülés Kútja I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 1069–1076.
 - Előszó, Térképek, Ars Arcanum. In: Brandon Sanderson: *A Végső Birodalom I-II.* Budapest : Delta Vision, 2024. pp. 9–17., 893–898.
@@ -37,6 +45,9 @@ priority: 0.5
 - Philip K. Dick: A nyomtató ára. In: *Különös éden.* Budapest : Agave Könyvek, 2024. pp. 286–310.
 - Adam Bray, Kelly Knox: Marvel Studios – Szereplők nagykönyve. Bővített kiadás. Budapest : Kolibri Kiadó, 2024. 240 p.
 - Shelley Parker-Chan: A sötétségbe fojtott világ. Budapest : Agave Könyvek, 2024. 576 p.
+
+### 2023
+
 - V. E. Schwab: A hatalom törékeny szálai. Budapest : Agave Könyvek, 2023. 640 p.
 - Christopher Buehlman: Két tűz között. Budapest : Agave Könyvek, 2023. 448 p.
 - Brandon Sanderson: A háború ritmusa I-II. Budapest : Delta Vision, 2023. 1752 p.
@@ -45,6 +56,9 @@ priority: 0.5
 - Catherine Saunders: Marvel – Pókember zsebkönyv. Budapest : Kolibri Kiadó, 2023. 80 p.
 - Shelley Parker-Chan: A nappá vált lány. Budapest : Agave Könyvek, 2023. 448 p.
 - 5 perces Star Wars-történetek. 2. kiad. Budapest : Kolibri, 2023. 176 p.
+
+### 2022
+
 - Adam Bray: Marvel Studios – Szereplők nagykönyve. Jav. utánny. Budapest : Kolibri, 2022. 176 p.
 - Melanie Scott: Pókember – Szereplők nagykönyve. Budapest : Kolibri Kiadó, 2022. 208 p.
 - Vanessa Len: Only a Monster – Csak egy szörnyeteg. Budapest : Anassa Könyvek, 2022. 368 p.
@@ -54,6 +68,9 @@ priority: 0.5
 - Brandon Sanderson: Eskühozó I-II. Budapest : Delta Vision, 2022. 1754 p.
 - Christopher Buehlman: A fekete nyelvű tolvaj. Budapest : Agave Könyvek, 2022. 452 p.
 - Amor Towles: Érkezés a célhoz. In: *Elhagyott part.* Szerk. Blake Crouch. Budapest : Agave Könyvek, 2022. pp. 171–226.
+
+### 2021
+
 - Jenn Lyons: Lelkek emlékezete. Budapest : Agave Könyvek, 2021. 816 p.
 - Jordan Paramor: Szexoktatás – Útmutató az élethez. Budapest : Kolibri, 2021. 192. p.
 - Kathy Birchall: Szexoktatás – Az utazás. Budapest : Kolibri, 2021. 276 p.
@@ -68,68 +85,121 @@ priority: 0.5
 - Ráadás. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 239–287.
 - Kenyér és hal. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 115–187.
 - Brandon Sanderson: Békéltető. Budapest : Delta Vision, 2021. 776 p.
+
+### 2020
+
 - Ben Hubbard: Így éltünk a régi időkben. Budapest : Kolibri, 2020. 64 p.
 - Stella Caldwell: Fiatalok, merészek, lenyűgözőek. Budapest : Kolibri, 2020. 112 p.
 - Jenn Lyons: Minden Dolgok Neve. Budapest : Agave Könyvek, 2020. 780 p.
 - Scott Lynch: Tolvajok köztársasága. Budapest : Delta Vision, 2020. 804 p.
 - Brandon Sanderson: Tündöklő szavak I-II. Budapest : Delta Vision, 2020. 1656 p.
 - Az üzenet. In: Ken Liu: *Az istenekkel nem lehet végezni.* Budapest : Agave Könyvek, 2020. pp. 316–337.
+
+### 2019
+
 - Stephanie Milton: Minecraft – Térképek. Budapest : Bookline Könyvek, 2019. 78 p.
 - Jenn Lyons: Királyok Veszte. Budapest : Agave Könyvek, 2019. 720 p.
 - Adam Bray: Marvel Studios – Szereplők nagykönyve. Budapest : Kolibri, 2019. 176 p.
 - Paul Lowe, Fred Ritchin: 1001 fotó, amit látnod kell, mielőtt meghalsz. Budapest : GABO, 2018. pp. 1–187.
 - Brandon Sanderson: A kozmerum titkai. Budapest : Delta Vision, 2019. 816 p.
 - Sir Arthur Conan Doyle: Sir Nigel. Budapest : Delta Vision, 2019. 472 p.
+
+### 2018
+
 - Brandon Sanderson: A királyok útja I-II. Budapest : Delta Vision, 2018. 1546 p.
 - Scott Lynch: A karmazsin lobogó. Budapest : Delta Vision, 2018. 784 p.
 - Scott Lynch: Az arany füstje a dicsőség. In: *Az év legjobb science fiction és fantasynovellái 2018.* Szerk. Jonathan Strahan. Budapest : GABO, 2018. pp. 314–353.
 - Brandon Sanderson: Elantris. [Bónusz tartalmak fordítása.] Budapest : Delta Vision, 2018. 840 p.
 - Arthur D. Howden Smith: Szürke Hajadon. Budapest : Delta Vision, 2018. 440 p.
+
+### 2017
+
 - Sir Arthur Conan Doyle: A Fehér Sereg. Budapest : Delta Vision, 2017. 536 p.
 - Glen Hirshberg: Táncoló Emberek. In: *Sötétség.* Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 447–478.
 - Steve Rasnic Tem: Forróság. In: *Sötétség.* Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 409–417.
 - Dennis Etchison: A kutyafuttató. In: *Sötétség.* Szerk. Ellen Datlow. Budapest : GABO, 2017. pp. 303–314.
 - Amal El-Mohtar: Az üveg és vas évszakai. In: *Az év legjobb science fiction és fantasynovellái 2017.* Szerk. Jonathan Strahan. Budapest : GABO, 2017. pp. 361–376.
+
+### 2016
+
 - Vonda N. McIntyre: Húgocskák. In: *Az év legjobb science fiction és fantasynovellái 2016.* Szerk. Jonathan Strahan. Budapest : GABO, 2016. pp. 431–445.
+
+### 2015
+
 - George Gipe: Vissza a jövőbe. In: *Galaktika XL,* 36. évf. 6. sz. (2015) pp. 115–202.
 - Polenth Blake: A madarak megváltoznak. In: *Galaktika,* 36. évf. 4. sz. (2015) pp. 58–67.
+
+### 2014
+
 - Hal Clement: Kritikus pont. In: *Galaktika XL,* 35. évf. 11. sz. (2014) pp. 116–199.
 - Karen Joy Fowler: Praxis. In: *Galaktika,* 35. évf. 10. sz. (2014) pp. 56–62.
 - Robert F. Young: Rongyos. In: *Galaktika,* 35. évf. 7. sz. (2014) pp. 68–87.
 - Jack London: Rathbone őrnagy újjászületése. In: *Ezer halál – Válogatás Jack London fantasztikus novelláiból.* Vál. Németh Attila. Budapest : Metropolis Media, 2014. (Galaktika fantasztikus könyvek) pp. 17–28.
+
+### 2013
+
 - Edgar Allan Poe: A kompozíció filozófiája. In: *2Pofon – Műfordítás antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2013. (Dolce Filologia, X.) pp. 19–32.
+
+### 2012
+
 - Terry Pratchett: A Halál, és ami utána következik. In: *Pofon – Antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 163–166. 
 - Terry Pratchett: A troll hídja. In: *Pofon – Antológia.* Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 151–162.
 
 ## Editorial work
 
+### 2026
+
 - Matt Dinniman: Carl anarchista szakácskönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 560 p.
 - Matt Dinniman: A végítélet forgatókönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 384 p.
+
+### 2025
+
 - Matt Dinniman: Dungeon Crawler Carl – A kazamata hőse. Ford. Tót Barbara. Budapest : Agave Könyvek, 2025. 464 p.
 - Sarah Beth Durst: Az elvarázsolt üvegház. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
 - R. F. Kuang: Katabasis. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 512 p.
 - James Islington: A sokaság akarata. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 816 p.
 - Sarah Beth Durst: Bűbájok boltja. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
+
+### 2024
+
 - Robin Hobb: Sárkányőrző. Ford. Gubó Luca. Budapest : Delta Vision, 2024. 782 p.
 - Jason M. Hough: Vérvonalak. Ford. Szántai Zsolt. Budapest : Delta Vision, 2024. 466 p.
 - Edward Ashton: Antianyag blues. Ford: Horváth Norbert. Budapest : Agave Könyvek, 2024. 288 p.
 - A. K. Larkwood: Az Ezerszemű Úrnő. Ford. Tamás Gábor. Budapest : Agave Könyvek, 2024. 520 p.
+
+### 2023
+
 - R. F. Kuang: Bábel, avagy az erőszak szükségszerűsége. Ford. Horváth Vivien. Budapest : Agave Könyvek, 2023. 640 p.
 - Edward Ashton: Mickey7. Ford. Horváth Norbert. Budapest : Agave Könyvek, 2023. 272 p.
 - Nicholas Binge: Felemelkedés. Ford. Bosnyák Edit. Budapest : Agave Könyvek, 2023. 352 p.
+
+### 2022
+
 - Mackenzi Lee: Gamora és Nebula – Fegyvernővérek. Ford. Habony Gábor. Budapest : Kolibri, 2022. 402 p.
 - Joe Schreiber: The Mandalorian – 2. évad. Ford. Habony Gábor. Budapest : Kolibri, 2022. 218 p.
 - Laurell K. Hamilton: Angyalok rettentő bukása. Ford. Török Krisztina. Budapest : Agave Könyvek, 2022. 432 p.
 - A. K. Larkwood: A Kimondatlan Név. Ford. Tamás Gábor. Budapest : Agave Könyvek, 2022. 544 p.
+
+### 2021
+
 - Alastair Reynolds: Poszeidón ébredése. Ford. Gubó Luca. Budapest : Delta Vision, 2021. 814. p.
+
+### 2020
+
 - Alastair Reynolds: Acélszellő nyergében. Ford. Gubó Luca. Budapest : Delta Vision, 2020. 640 p.
 - Robin Hobb: A Bolond végzete I-II. Ford. Gubó Luca. Budapest : Delta Vision, 2020. 1384 p.
+
+### 2019
+
 - Alastair Reynolds: Kék emlékezetű Föld. Ford. Telegdi Tamás. Budapest : Delta Vision, 2019. 678 p.
 - Robin Hobb: Az arany Bolond I-II. Ford. Gubó Luca. Budapest : Delta Vision, 2019. 1096 p.
 - Star Wars – Galaktikus kalandok. Ford. Földi Bence. Budapest : Kolibri, 2019. 304. p.
 - J. M. Barlog: God of War. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2019. 472 p.
 - Bob Batchelor: Stan Lee. A Marvel-univerzum atyja. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2019. 384. p.
 - Brandon Sanderson: Az Elmúlás Pántjai. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2019. 544. p.
+
+### 2018
+
 - Robin Hobb: Bolond kötelesség I-II. Ford. Gubó Luca. Budapest : Delta Vision, 2018. 1018 p.
 - Robert E. Vardeman: A háború istene 2. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2018. 432 p.
 - Matthew Stover, Robert E. Vardeman: A háború istene. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2018. 400 p.

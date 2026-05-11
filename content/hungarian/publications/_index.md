@@ -147,32 +147,59 @@ priority: 0.5
 
 ## Szerkesztések
 
+### 2026
+
 - Matt Dinniman: Carl anarchista szakácskönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 560 p.
 - Matt Dinniman: A végítélet forgatókönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 384 p.
+
+### 2025
+
 - Matt Dinniman: Dungeon Crawler Carl – A kazamata hőse. Ford. Tót Barbara. Budapest : Agave Könyvek, 2025. 464 p.
 - Sarah Beth Durst: Az elvarázsolt üvegház. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
 - R. F. Kuang: Katabasis. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 512 p.
 - James Islington: A sokaság akarata. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 816 p.
 - Sarah Beth Durst: Bűbájok boltja. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
+
+### 2024
+
+- Robin Hobb: Sárkányőrző. Ford. Gubó Luca. Budapest : Delta Vision, 2024. 782 p.
 - Jason M. Hough: Vérvonalak. Ford. Szántai Zsolt. Budapest : Delta Vision, 2024. 466 p.
 - Edward Ashton: Antianyag blues. Ford: Horváth Norbert. Budapest : Agave Könyvek, 2024. 288 p.
 - A. K. Larkwood: Az Ezerszemű Úrnő. Ford. Tamás Gábor. Budapest : Agave Könyvek, 2024. 520 p.
+
+### 2023
+
 - R. F. Kuang: Bábel, avagy az erőszak szükségszerűsége. Ford. Horváth Vivien. Budapest : Agave Könyvek, 2023. 640 p.
 - Edward Ashton: Mickey7. Ford. Horváth Norbert. Budapest : Agave Könyvek, 2023. 272 p.
 - Nicholas Binge: Felemelkedés. Ford. Bosnyák Edit. Budapest : Agave Könyvek, 2023. 352 p.
+
+### 2022
+
 - Mackenzi Lee: Gamora és Nebula – Fegyvernővérek. Ford. Habony Gábor. Budapest : Kolibri, 2022. 402 p.
 - Joe Schreiber: The Mandalorian – 2. évad. Ford. Habony Gábor. Budapest : Kolibri, 2022. 218 p.
 - Laurell K. Hamilton: Angyalok rettentő bukása. Ford. Török Krisztina. Budapest : Agave Könyvek, 2022. 432 p.
 - A. K. Larkwood: A Kimondatlan Név. Ford. Tamás Gábor. Budapest : Agave Könyvek, 2022. 544 p.
+
+### 2021
+
 - Alastair Reynolds: Poszeidón ébredése. Ford. Gubó Luca. Budapest : Delta Vision, 2021. 814. p.
+
+### 2020
+
 - Alastair Reynolds: Acélszellő nyergében. Ford. Gubó Luca. Budapest : Delta Vision, 2020. 640 p.
 - Robin Hobb: A Bolond végzete I-II. Ford. Gubó Luca. Budapest : Delta Vision, 2020. 1384 p.
+
+### 2019
+
 - Alastair Reynolds: Kék emlékezetű Föld. Ford. Telegdi Tamás. Budapest : Delta Vision, 2019. 678 p.
 - Robin Hobb: Az arany Bolond I-II. Ford. Gubó Luca. Budapest : Delta Vision, 2019. 1096 p.
 - Star Wars – Galaktikus kalandok. Ford. Földi Bence. Budapest : Kolibri, 2019. 304. p.
 - J. M. Barlog: God of War. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2019. 472 p.
 - Bob Batchelor: Stan Lee. A Marvel-univerzum atyja. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2019. 384. p.
 - Brandon Sanderson: Az Elmúlás Pántjai. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2019. 544. p.
+
+### 2018
+
 - Robin Hobb: Bolond kötelesség I-II. Ford. Gubó Luca. Budapest : Delta Vision, 2018. 1018 p.
 - Robert E. Vardeman: A háború istene 2. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2018. 432 p.
 - Matthew Stover, Robert E. Vardeman: A háború istene. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2018. 400 p.
