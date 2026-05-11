@@ -2,7 +2,7 @@
 title: "Publications"
 meta_title: "Publications by Ádám Sárpátki"
 summary: "Publications by literary translator and editor Ádám Sárpátki."
-description: "Updated: 2026-03-15"
+description: "Updated: 2026-05-11"
 image: false
 toc: true
 draft: false
@@ -13,6 +13,7 @@ priority: 0.5
 
 ## Literary translations
 
+- Hiron Ennes: Férgek szimfóniája. Budapest : Agave Könyvek, 2026. 480 p.
 - Az Imágó szekvencia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 313–373.
 - Parallaxis. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 267–297.
 - Hallucigenia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 193–265.
@@ -102,6 +103,7 @@ priority: 0.5
 
 ## Editorial work
 
+- Matt Dinniman: Carl anarchista szakácskönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 560 p.
 - Matt Dinniman: A végítélet forgatókönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 384 p.
 - Matt Dinniman: Dungeon Crawler Carl – A kazamata hőse. Ford. Tót Barbara. Budapest : Agave Könyvek, 2025. 464 p.
 - Sarah Beth Durst: Az elvarázsolt üvegház. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
