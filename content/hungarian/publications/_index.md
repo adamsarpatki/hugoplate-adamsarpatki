@@ -155,10 +155,10 @@ priority: 0.5
 ### 2025
 
 - Matt Dinniman: Dungeon Crawler Carl – A kazamata hőse. Ford. Tót Barbara. Budapest : Agave Könyvek, 2025. 464 p.
-- Sarah Beth Durst: Az elvarázsolt üvegház. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
+- Sarah Beth Durst: Az elvarázsolt üvegház. Ford. Németh Luca Anna. Budapest : Agave Könyvek, 2025. 480 p.
 - R. F. Kuang: Katabasis. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 512 p.
 - James Islington: A sokaság akarata. Ford. Török Krisztina. Budapest : Agave Könyvek, 2025. 816 p.
-- Sarah Beth Durst: Bűbájok boltja. Ford. Németh Anna Luca. Budapest : Agave Könyvek, 2025. 480 p.
+- Sarah Beth Durst: Bűbájok boltja. Ford. Németh Luca Anna. Budapest : Agave Könyvek, 2025. 480 p.
 
 ### 2024
 
