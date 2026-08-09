@@ -1,7 +1,7 @@
 ---
 title: "Portfólió"
 meta_title: "Portfólió"
-description: "Frissítve: 2025-12-04"
+description: "Frissítve: 2026-08-09"
 draft: false
 changefreq: monthly
 priority: 0.8
