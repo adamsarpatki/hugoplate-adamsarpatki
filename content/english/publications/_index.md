@@ -2,7 +2,7 @@
 title: "Publications"
 meta_title: "Publications by Ádám Sárpátki"
 summary: "Publications by literary translator and editor Ádám Sárpátki."
-description: "Updated: 2026-05-11"
+description: "Updated: 2026-08-09"
 image: false
 toc: true
 draft: false
@@ -205,6 +205,14 @@ priority: 0.5
 - Matthew Stover, Robert E. Vardeman: A háború istene. Ford. Vitális Szabolcs. Budapest : Delta Vision, 2018. 400 p.
 - Scott Lynch: Locke Lamora hazugságai. Ford. Novák Gábor. Budapest : Delta Vision, 2018. 656 p.
 - Brandon Sanderson: A lélek árnyai. Ford. Horváth Árpád. Budapest : Delta Vision, 2018. 472 p.
+
+### 2013
+
+- Mark Twain: Kukoricalepény-vélemények. Ford. Szabó Mihály. In: 2Pofon – Műfordítás antológia. Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2013. (Dolce Filologia, X.) pp. 37–43.
+
+### 2012
+
+- Jerome K. Jerome: A táncpartner. Ford. Rigó József Karsa. In: Pofon – Antológia. Szerk. Hetényi Zsuzsa. Budapest : ELTE BTK, 2012. (Dolce Filologia, IX.) pp. 33–42.
 
 ## Articles about speculative fiction
 
