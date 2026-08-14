@@ -2,7 +2,7 @@
 title: "Publications"
 meta_title: "Publications by Ádám Sárpátki"
 summary: "Publications by literary translator and editor Ádám Sárpátki."
-description: "Updated: 2026-08-09"
+description: "Updated: 2026-08-14"
 image: false
 toc: true
 draft: false
@@ -15,6 +15,7 @@ priority: 0.5
 
 ### 2026
 
+- James Islington: A kevesek ereje. Budapest : Agave Könyvek, 2026. 896 p.
 - Hiron Ennes: Férgek szimfóniája. Budapest : Agave Könyvek, 2026. 480 p.
 - Az Imágó szekvencia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 313–373.
 - Parallaxis. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 267–297.
