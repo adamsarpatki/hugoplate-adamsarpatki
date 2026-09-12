@@ -2,7 +2,7 @@
 title: "Publikációk"
 meta_title: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
 summary: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
-description: "Frissítve: 2026-08-14"
+description: "Frissítve: 2026-09-12"
 image: false
 toc: true
 draft: false
@@ -15,6 +15,7 @@ priority: 0.5
 
 ### 2026
 
+- Robert Jackson Bennett: Zárvidék. Budapest : Fumax, 2026. 592 p.
 - James Islington: A kevesek ereje. Budapest : Agave Könyvek, 2026. 896 p.
 - Hiron Ennes: Férgek szimfóniája. Budapest : Agave Könyvek, 2026. 480 p.
 - Az Imágó szekvencia. In: Laird Barron: *Az Imágó szekvencia és más történetek.* Budapest : Multiverzum Kiadó, 2026. pp. 313–373.
@@ -82,9 +83,9 @@ priority: 0.5
 - Matt Yeo: 100%-ig nem hivatalos Among Us útmutató. Budapest : Kolibri, 2021. 64 p.
 - 5 perces Star Wars-történetek. Budapest : Kolibri, 2021. 176 p.
 - Scott Lynch: Malkuril, a varázsló házának bukása és felemelkedése. In: *A mágia könyve.* Szerk. Gardner Dozois. Budapest : Delta Vision, 2021. pp. 643–688.
-- Égi manna. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 367–420.
-- Ráadás. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 239–287.
-- Kenyér és hal. In: George R. R. Martin: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 115–187.
+- George R. R. Martin: Égi manna. In: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 367–420.
+- George R. R. Martin: Ráadás. In: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 239–287.
+- George R. R. Martin: Kenyér és hal. In: *Tuf utazásai.* Budapest : Agave Könyvek, 2021. pp. 115–187.
 - Brandon Sanderson: Békéltető. Budapest : Delta Vision, 2021. 776 p.
 
 ### 2020
@@ -150,6 +151,7 @@ priority: 0.5
 
 ### 2026
 
+- Matt Dinniman, Tevagah: Dungeon Crawler Carl - A képregény 1. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 304 p.
 - Matt Dinniman: Carl anarchista szakácskönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 560 p.
 - Matt Dinniman: A végítélet forgatókönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 384 p.
 
