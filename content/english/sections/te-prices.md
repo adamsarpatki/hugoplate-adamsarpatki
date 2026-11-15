@@ -1,42 +1,41 @@
 ---
 enable: true
 title: "Pricing"
-description: "Are you a knitwear designer? Let me help you with my services"
+description: "Are you a knitwear designer? My tech editing, chart creation, and layout design services are here to help"
 
 services:
     - process_step: "Knitting tech editing"
       icon: "images/wool.png"
       content: |
-        **My editing rate is €25 per hour**, billed in 10-minute increments. It includes three rounds of editing, and a final check. The final check is free if no changes are needed or if they take less than 30 minutes.
+        **Base rate: €25/hour**, billed in 15-minute increments (€6.25 per 15 minutes), with a minimum of 30 minutes (€12.50). My fee includes a complimentary 30-minute check after testing and before publication. Time beyond that is billed at the base rate, without a minimum fee.
 
-        **For the first two patterns I edit for you, you'll receive a 25% discount, so my hourly rate will only be €18.75.**
+        **Estimates:** Short patterns (up to 3 pages) generally require 1-2 hours, but I will give a detailed estimate for each project before we sign our contract. If it turns out your pattern needs more time than I estimated, I will pause and contact you immediately to work out a solution.
 
-        Estimated hours for types of patterns:
+        **Payment:** Payment for invoices can be made via Wise payment link or bank transfer.
 
-        | Items | Hours  |
-        | ------------- | --- |
-        | Blankets, small items with 3 sizes | 2-2.5 |
-        | Small items with 4+ sizes, and simple shawls | 2-4 |
-        | Shawls with complex shaping and stitch patterns | 4-8 |
-        <br/>
-        I currently don't edit garments. These are just averages; I will give a detailed estimate for each project.
+        Turnaround will depend on my workload. Further terms will be covered in our contract. I will provide a sample contract upon request.
 
-    - process_step: "Charts and pattern layout services"
+    - process_step: "Charts and layout design"
       icon: "images/sweater.png"
       content: |
-        My charts cost a flat fee:
+        <u>**Charts**</u> </br>
+        **Base rate: €30/hour**, billed in 15-minute increments (€7.50 per 15 minutes), with a minimum of 30 minutes (€15). My fee includes a complimentary 30-minute check after testing and before publication. Time beyond that is billed at the base rate, without a minimum fee.
+        </br>
+        
+        **Estimates:** Small or simple charts generally require 1 hour, but I will give a detailed estimate for each project before we sign our contract. If it turns out your charts need more time than I estimated, I will pause and contact you immediately to work out a solution.
+        
+        <u>**Pattern layout**</u> </br>
+        **Base rate: €30/hour,** billed in 15-minute increments (€7.50 per 15 minutes), with a minimum of 30 minutes (€15). My fee includes a complimentary 30-minute check after testing and before publication. Time beyond that is billed at the base rate, without a minimum fee.
+        
+        After the pattern layout is finalised, I will send you the InDesign files, including any graphics, transferable fonts, and the final PDF.
 
-        | Type of chart | Cost per item  |
-        | ------------- | --- |
-        | **Simple charts.** Smaller items and/or simpler stitch patterns. | €25 |
-        | **Complex charts.** Larger items with complex stitch patterns. | €60 |
-        </br>
+        **Estimates:** Short patterns (up to 5 pages) generally require 2 hours, but I will give a detailed estimate for each project before we sign our contract. If it turns out your pattern needs more time than I estimated, I will pause and contact you immediately to work out a solution.
+
+        <u>**For charts and layout:**</u></br>
+        **Payment:** Payment for invoices can be made via Wise payment link or bank transfer.
+
+        Turnaround will depend on my workload. Further terms will be covered in our contract. I will provide a sample contract upon request.
         
-        If you have always used Word or Google Docs to design the layout of your final patterns, and you want to give your patterns a refresh, I can help you to do that in Adobe InDesign or Affinity. I would love to help you create a pattern template customized to your needs, 
-        
-        </br>
-        
-        My rates include three rounds of revisions. 
 
 button:
   enable: true
