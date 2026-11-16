@@ -23,7 +23,7 @@ services:
         
         **Estimates:** Small or simple charts generally require 1 hour, and layout design for short patterns (up to 5 pages) generally require 2 hours, but I will give a detailed estimate for each project before we sign our contract. If it turns out the project needs more time than I estimated, I will pause and contact you immediately to work out a solution.
              
-        After the pattern layout is finalised, I will send you the InDesign files, including any graphics, transferable fonts, and the final PDF.
+        After the pattern layout is finalised, I will send you the InDesign (or Affinity) files, including any graphics, transferable fonts, and the final PDF.
         
         **Payment:** Payment for invoices can be made via Wise payment link or bank transfer.
 
