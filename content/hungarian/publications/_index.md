@@ -2,7 +2,7 @@
 title: "Publikációk"
 meta_title: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
 summary: "Sárpátki Ádám, műfordító és szerkesztő publikációi"
-description: "Frissítve: 2026-09-12"
+description: "Frissítve: 2026-11-16"
 image: false
 toc: true
 draft: false
@@ -15,6 +15,8 @@ priority: 0.5
 
 ### 2026
 
+- Star Wars - 5 perces vakmerő történetek. Budapest : Kolibri, 2026. 192 p.
+- Kelly Knox: Pókember világa. Budapest : Kolibri, 2026. 128 p.
 - Robert Jackson Bennett: Zárvidék. Budapest : Fumax, 2026. 592 p.
 - James Islington: A kevesek ereje. Budapest : Agave Könyvek, 2026. 896 p.
 - Hiron Ennes: Férgek szimfóniája. Budapest : Agave Könyvek, 2026. 480 p.
@@ -151,6 +153,7 @@ priority: 0.5
 
 ### 2026
 
+- Matt Dinniman: A veszett istenek kapuja. Ford. Farkas Veronika. Budapest : Agave Könyvek, 2026. 640 p.
 - Matt Dinniman, Tevagah: Dungeon Crawler Carl - A képregény 1. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 304 p.
 - Matt Dinniman: Carl anarchista szakácskönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 560 p.
 - Matt Dinniman: A végítélet forgatókönyve. Ford. Tót Barbara. Budapest : Agave Könyvek, 2026. 384 p.
